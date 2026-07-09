@@ -1,0 +1,17 @@
+# Zhentarim Tactics
+
+**Source URL:** http://dnd2024.wikidot.com/feat:zhentarim-tactics
+
+---
+
+Source: Forgotten Realms - Heroes of Faerun
+
+*General Feat (Prerequisite: Level 4+, [Zhentarim Ruffian](http://dnd2024.wikidot.com/feat:zhentarim-ruffian) Feat)*
+
+You gain the following benefits.
+
+**Ability Score Increase.** Increase your Dexterity or Charisma score by 1, to a maximum of 20.
+
+**Retaliate.** Immediately after a creature within 5 feet of you hits you with a melee attack, you can make an Opportunity Attack against that creature.
+
+**Versatile Merc.** When you finish a Long Rest, choose a skill in which you have proficiency. You have Expertise in that skill until you finish your next Long Rest.

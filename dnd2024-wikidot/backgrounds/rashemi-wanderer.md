@@ -1,0 +1,19 @@
+# Rashemi Wanderer
+
+**Source URL:** http://dnd2024.wikidot.com/background:rashemi-wanderer
+
+---
+
+Source: Forgotten Realms - Heroes of Faerun
+
+**Ability Scores:** Strength, Constitution, Charisma
+
+**Feat:** [Tough](http://dnd2024.wikidot.com/feat:tough)
+
+**Skill Proficiencies:** Intimidation and Perception
+
+**Tool Proficiency:** Cartographer’s Tools
+
+**Equipment:** Choose A or B: (A) Cartographer’s Tools, Backpack, Bedroll, Hooded Lantern, Oil (3 flasks), Rope, Tinderbox, Traveler’s Clothes, Waterskin, 23 GP; or (B) 50 GP
+
+You spent years wandering the highlands of Rashemen, a dangerous windswept heath that’s dotted with ancient obelisks enchanted to imprison Fiends and home to dragons, gnolls, and other deadly creatures. Friendships are hard to find in such an isolated land, and you’ve learned to keep strangers at a distance.

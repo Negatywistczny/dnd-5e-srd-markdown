@@ -1,0 +1,17 @@
+# Genie Magic
+
+**Source URL:** http://dnd2024.wikidot.com/feat:genie-magic
+
+---
+
+Source: Forgotten Realms - Heroes of Faerun
+
+*General Feat (Prerequisite: Level 4+)*
+
+You gain the following benefits.
+
+**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+
+**Wish Magic.** As a Magic action, you can cast a level 1 spell of your choice from the [Sorcerer spell list](http://dnd2024.wikidot.com/sorcerer:spell-list) that has a casting time of an action. Once you use this benefit, you can’t do so again until you finish a Long Rest. The spell’s spellcasting ability is the ability increased by this feat.
+
+When you reach level 11, the spell you cast with this feat is cast as though using a level 2 spell slot. When you reach level 17, the spell is cast as though using a level 3 spell slot.

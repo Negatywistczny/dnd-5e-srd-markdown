@@ -1,0 +1,24 @@
+# Cube of Force
+
+**Source URL:** http://dnd2024.wikidot.com/magic-item:cube-of-force
+
+---
+
+Source: Dungeon Master's Guide
+
+*Wondrous Item, Rare (Requires Attunement)*
+
+This cube is about an inch across. Each face has a distinct marking on it. You can press one of those faces, expend the number of charges required for it, and thereby cast the spell associated with it (save DC 17), as shown in the Cube of Force Faces table.
+
+The cube starts with 10 charges, and it regains 1d6 expended charges daily at dawn.
+
+#### Cube of Force Faces
+
+| Spell | Charge Cost |
+| --- | --- |
+| [Mage Armor](http://dnd2024.wikidot.com/spell:mage-armor) | 1 |
+| [Shield](http://dnd2024.wikidot.com/spell:shield) | 1 |
+| [Leomund’s Tiny Hut](http://dnd2024.wikidot.com/spell:leomund-s-tiny-hut) | 3 |
+| [Mordenkainen’s Private Sanctum](http://dnd2024.wikidot.com/spell:mordenkainen-s-private-sanctum) | 4 |
+| [Otiluke’s Resilient Sphere](http://dnd2024.wikidot.com/spell:otilukes-resilient-sphere) | 4 |
+| [Wall of Force](http://dnd2024.wikidot.com/spell:wall-of-force) | 5 |
