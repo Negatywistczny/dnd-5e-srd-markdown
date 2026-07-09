@@ -55,7 +55,7 @@ Jeśli masz Ułatwienie w Teście K20, rzuć dwiema K20 i użyj wyższego wyniku
 
 #### Przygoda
 
-An adventure is a series of encounters. A story emerges through playing them. _See also_ "Encounter."
+Przygoda to seria spotkań. Historia wyłania się podczas ich rozgrywania. _Zobacz także_ „Spotkanie”.
 
 #### Charakter
 
@@ -72,14 +72,14 @@ W opisach wielu zaklęć i innych cech podano, że mają one obszar działania, 
 <table>
 <tbody>
 <tr>
-<td>Cone</td>
-<td>Cylinder</td>
-<td>Line</td>
+<td>Stożek</td>
+<td>Walec</td>
+<td>Prosta</td>
 </tr>
 <tr>
-<td>Cube</td>
-<td>Emanation</td>
-<td>Sphere</td>
+<td>Sześcian</td>
+<td>Emanacja</td>
+<td>Sfera</td>
 </tr>
 </tbody>
 </table>
@@ -132,7 +132,7 @@ _Dotyczy ataków._ Rzuty ataku przeciwko tobie mają ułatwienie, a twoje rzuty 
 
 #### Ślepowidzenie
 
-Jeśli posiadasz Ślepowidzenie, możesz widzieć w określonym zasięgu bez polegania na fizycznym wzroku. W tym zasięgu możesz widzieć wszystko, co nie znajduje się za Total Osłona, nawet jeśli masz stan Oślepiony lub znajdujesz się w Darkness{Ciemności}. Co więcej, w tym zasięgu możesz dostrzec, że coś ma stan Niewidzialny.
+Jeśli posiadasz Ślepowidzenie, możesz widzieć w określonym zasięgu bez polegania na fizycznym wzroku. W tym zasięgu możesz widzieć wszystko, co nie znajduje się za całkowitą osłoną, nawet jeśli masz stan Oślepiony lub znajdujesz się w Ciemności. Co więcej, w tym zasięgu możesz dostrzec, że coś ma stan Niewidzialność.
 
 #### Zakrwawiony
 
@@ -152,39 +152,39 @@ Obiekty mogą zostać zranione przez ataki i niektóre zaklęcia, zgodnie z poni
 
 _Klasa pancerza._ Tabela klas pancerza obiektu sugeruje KP dla różnych substancji.
 
-**Object Klasa Pancerza**
+**Klasa pancerza obiektów**
 
 <table>
 <thead>
 <tr>
 <th>KP</th>
-<th>Substance</th>
+<th>Substancja</th>
 <th>KP</th>
-<th>Substance</th>
+<th>Substancja</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>11</td>
-<td>Cloth, paper, rope</td>
+<td>Tkanina, papier, lina</td>
 <td>19</td>
-<td>Iron, steel</td>
+<td>Żelazo, stal</td>
 </tr>
 <tr>
 <td>13</td>
-<td>Crystal, glass, ice</td>
+<td>Kryształ, szkło, lód</td>
 <td>21</td>
-<td>Mithral</td>
+<td>Mithril</td>
 </tr>
 <tr>
 <td>15</td>
-<td>Wood</td>
+<td>Drewno</td>
 <td>23</td>
-<td>Adamantine</td>
+<td>Adamant</td>
 </tr>
 <tr>
 <td>17</td>
-<td>Stone</td>
+<td>Kamień</td>
 <td colspan="2"></td>
 </tr>
 </tbody>
@@ -192,43 +192,43 @@ _Klasa pancerza._ Tabela klas pancerza obiektu sugeruje KP dla różnych substan
 
 _Punkty Wytrzymałości._ Obiekt zostaje zniszczony, gdy ma 0 Punktów Wytrzymałości. Tabela Punktów Wytrzymałości Obiektów sugeruje Punkty Wytrzymałości dla delikatnych i sprężystych obiektów, które są duże lub mniejsze. Aby śledzić punkty wytrzymałości ogromnego lub gigantycznego obiektu, podziel go na duże lub mniejsze sekcje i śledź punkty wytrzymałości każdej sekcji oddzielnie. MG określa, czy zniszczenie części obiektu powoduje zawalenie się całości.
 
-**Object Punkty Wytrzymałości**
+**Punkty wytrzymałości obiektów**
 
 <table>
 <thead>
 <tr>
-<th>Size</th>
-<th>Fragile</th>
-<th>Resilient</th>
+<th>Rozmiar</th>
+<th>Delikatny</th>
+<th>Wytrzymały</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Tiny (bottle, lock)</td>
-<td>2 (1d4)</td>
-<td>5 (2d4)</td>
+<td>Malutki (butelka, zamek)</td>
+<td>2 (1k4)</td>
+<td>5 (2k4)</td>
 </tr>
 <tr>
-<td>Small (chest, lute)</td>
-<td>3 (1d6)</td>
-<td>10 (3d6)</td>
+<td>Mały (skrzynia, lutnia)</td>
+<td>3 (1k6)</td>
+<td>10 (3k6)</td>
 </tr>
 <tr>
-<td>Średni (barrel, chandelier)</td>
-<td>4 (1d8)</td>
-<td>18 (4d8)</td>
+<td>Średni (beczka, żyrandol)</td>
+<td>4 (1k8)</td>
+<td>18 (4k8)</td>
 </tr>
 <tr>
-<td>Large (cart, dining table)</td>
-<td>5 (1d10)</td>
-<td>27 (5d10)</td>
+<td>Duży (wózek, stół jadalny)</td>
+<td>5 (1k10)</td>
+<td>27 (5k10)</td>
 </tr>
 </tbody>
 </table>
 
 _Rodzaje obrażeń i obiekty._ Obiekty są odporne na trucizny i obrażenia psychiczne. MG może zdecydować, że niektóre typy obrażeń są mniej lub bardziej skuteczne przeciwko obiektowi. Na przykład obrażenia tłuczące sprawdzają się dobrze przy niszczeniu rzeczy, ale nie przy cięciu. Przedmioty z papieru lub tkaniny mogą mieć obrażenia podatne na ogień.
 
-_Damage Threshold._ Big objects, such as castle walls, often have extra resilience represented by a damage threshold. _See also_ "Damage Threshold."
+_Próg obrażeń._ Duże obiekty, takie jak mury zamkowe, często mają dodatkową odporność reprezentowaną przez próg obrażeń. _Zobacz także_ „Próg obrażeń”.
 
 _Brak punktów zdolności._ Obiekt nie ma punktów zdolności, chyba że reguła przypisuje je obiektowi. Bez punktów zdolności obiekt nie może wykonywać testów zdolności i nie udaje mu się wykonać żadnego rzutu obronnego.
 
@@ -238,7 +238,7 @@ _Brak punktów zdolności._ Obiekt nie ma punktów zdolności, chyba że reguła
 
 #### Płonący [Zagrożenie]
 
-Płonąca istota lub przedmiot otrzymuje  obrażeń od ognia na początku każdej swojej tury. Jako akcję możesz ugasić ogień na sobie, nadając sobie stan  i turlając się po ziemi. Ogień gaśnie także, jeśli zostanie polany wodą, zanurzony lub odcięty od tlenu.
+Płonąca istota lub przedmiot otrzymuje 1k4 obrażeń od ognia na początku każdej swojej tury. Jako akcję możesz ugasić ogień na sobie, nadając sobie stan Powalony i turlając się po ziemi. Ogień gaśnie także, jeśli zostanie polany wodą, zanurzony lub odcięty od tlenu.
 
 #### Szybkość rycia
 
@@ -246,11 +246,11 @@ Istota, która posiada Szybkość rycia, może używać jej do poruszania się p
 
 #### Kampania
 
-A campaign is a series of adventures. _See also_ "Adventure."
+Kampania to seria przygód. _Zobacz także_ „Przygoda”.
 
 #### Sztuczka
 
-A cantrip is a level 0 spell, which is cast without a spell slot. _See also_ "Spells."
+Sztuczka to zaklęcie 0 poziomu, które rzucasz bez zużycia miejsca na zaklęcie. _Zobacz także_ „Zaklęcia”.
 
 #### Udźwig
 
@@ -258,41 +258,41 @@ Twój rozmiar i wynik Siły określają maksymalną wagę w funtach, którą mo�
 
 Podczas ciągnięcia, podnoszenia lub pchania ciężaru przekraczającego maksymalny ciężar, jaki możesz unieść, Twoja prędkość nie może przekraczać 1,5 metra.
 
-**Carrying Capacity**
+**Udźwig**
 
 <table>
 <thead>
 <tr>
-<th>Creature Size</th>
-<th>Carry</th>
-<th>Drag/Lift/Push</th>
+<th>Rozmiar stworzenia</th>
+<th>Noszenie</th>
+<th>Ciągnięcie/Podnoszenie/Pchanie</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Tiny</td>
-<td>Str. × 7.5 lb.</td>
-<td>Str. × 15 lb.</td>
+<td>Malutki</td>
+<td>Si. × 7,5 lb.</td>
+<td>Si. × 15 lb.</td>
 </tr>
 <tr>
-<td>Small/Średni</td>
-<td>Str. × 15 lb.</td>
-<td>Str. × 30 lb.</td>
+<td>Mały/Średni</td>
+<td>Si. × 15 lb.</td>
+<td>Si. × 30 lb.</td>
 </tr>
 <tr>
-<td>Large</td>
-<td>Str. × 30 lb.</td>
-<td>Str. × 60 lb.</td>
+<td>Duży</td>
+<td>Si. × 30 lb.</td>
+<td>Si. × 60 lb.</td>
 </tr>
 <tr>
-<td>Huge</td>
-<td>Str. × 60 lb.</td>
-<td>Str. × 120 lb.</td>
+<td>Ogromny</td>
+<td>Si. × 60 lb.</td>
+<td>Si. × 120 lb.</td>
 </tr>
 <tr>
-<td>Gargantuan</td>
-<td>Str. × 120 lb.</td>
-<td>Str. × 240 lb.</td>
+<td>Gargantuiczny</td>
+<td>Si. × 120 lb.</td>
+<td>Si. × 240 lb.</td>
 </tr>
 </tbody>
 </table>
@@ -320,7 +320,7 @@ Według uznania MG, wspinanie się po śliskiej powierzchni lub takiej z kilkoma
 
 #### Szybkość wspinania
 
-Szybkość Wspinaczki może być używana zamiast Speed, aby pokonywać pionowe powierzchnie bez wydawania dodatkowego ruchu zwykle związanego ze wspinaczką.
+Szybkość Wspinaczki może być używana zamiast Szybkości, aby pokonywać pionowe powierzchnie bez wydawania dodatkowego ruchu zwykle związanego ze wspinaczką.
 
 #### Koncentracja
 
@@ -350,7 +350,7 @@ Osłona zapewnia pewien stopień ochrony celowi znajdującemu się za nią. Istn
 
 #### Czołganie się
 
-While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in Difficult Terrain). _See also_ "Speed."
+Podczas czołgania się każda stopa ruchu kosztuje 1 dodatkową stopę (2 dodatkowe stopy w trudnym terenie). _Zobacz także_ „Szybkość”.
 
 #### Istota
 
@@ -363,28 +363,28 @@ Każde stworzenie, łącznie z każdą postacią gracza, ma w zasadach znacznik,
 <table>
 <tbody>
 <tr>
-<td>Aberration</td>
-<td>Elemental</td>
-<td>Monstrosity</td>
+<td>Wynaturzenia</td>
+<td>Żywiołaki</td>
+<td>Potworności</td>
 </tr>
 <tr>
-<td>Beast</td>
+<td>Bestie</td>
 <td>Fey</td>
-<td>Ooze</td>
+<td>Szlamy</td>
 </tr>
 <tr>
-<td>Celestial</td>
-<td>Fiend</td>
-<td>Plant</td>
+<td>Niebianie</td>
+<td>Czarty</td>
+<td>Rośliny</td>
 </tr>
 <tr>
-<td>Construct</td>
-<td>Giant</td>
-<td>Undead</td>
+<td>Konstrukty</td>
+<td>Giganci</td>
+<td>Nieumarli</td>
 </tr>
 <tr>
-<td>Dragon</td>
-<td>Humanoid</td>
+<td>Smoki</td>
+<td>Humanoidy</td>
 <td></td>
 </tr>
 </tbody>
@@ -432,67 +432,67 @@ Istota lub obiekt, który ma Próg Obrażeń, ma Niewrażliwość na wszystkie o
 
 Ataki i inne szkodliwe efekty zadają różne rodzaje obrażeń. Rodzaje obrażeń nie mają własnych zasad, ale inne zasady, takie jak Odporność, opierają się na typach. Tabela Typów Obrażeń zawiera przykłady, które pomogą MG przypisać typ do nowego efektu.
 
-**Damage Types**
+**Typy obrażeń**
 
 <table>
 <thead>
 <tr>
-<th>Type</th>
-<th>Examples</th>
+<th>Typ</th>
+<th>Przykłady</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Acid</td>
-<td>Corrosive liquids, digestive enzymes</td>
+<td>Kwas</td>
+<td>Korozyjne płyny, enzymy trawienne</td>
 </tr>
 <tr>
-<td>Bludgeoning</td>
-<td>Blunt objects, constriction, falling</td>
+<td>Obuchowe</td>
+<td>Tępe przedmioty, zaciskanie, upadek</td>
 </tr>
 <tr>
-<td>Cold</td>
-<td>Freezing water, icy blasts</td>
+<td>Zimno</td>
+<td>Zamarznięta woda, lodowate podmuchy</td>
 </tr>
 <tr>
-<td>Fire</td>
-<td>Flames, unbearable heat</td>
+<td>Ogień</td>
+<td>Płomienie, nieznośne ciepło</td>
 </tr>
 <tr>
-<td>Force</td>
-<td>Pure magical energy</td>
+<td>Moc</td>
+<td>Czysta energia magiczna</td>
 </tr>
 <tr>
-<td>Lightning</td>
-<td>Electricity</td>
+<td>Błyskawica</td>
+<td>Elektryczność</td>
 </tr>
 <tr>
-<td>Necrotic</td>
-<td>Life-draining energy</td>
+<td>Nekrotyczne</td>
+<td>Energia wysysająca życie</td>
 </tr>
 <tr>
-<td>Piercing</td>
-<td>Fangs, puncturing objects</td>
+<td>Przeszywające</td>
+<td>Kły, przedmioty dźgające</td>
 </tr>
 <tr>
-<td>Poison</td>
-<td>Toxic gas, venom</td>
+<td>Trucizna</td>
+<td>Toksyczny gaz, jad</td>
 </tr>
 <tr>
-<td>Psychic</td>
-<td>Mind-rending energy</td>
+<td>Psychiczne</td>
+<td>Energia niszcząca umysł</td>
 </tr>
 <tr>
-<td>Radiant</td>
-<td>Holy energy, searing radiation</td>
+<td>Promienne</td>
+<td>Energia święta, palące promieniowanie</td>
 </tr>
 <tr>
-<td>Slashing</td>
-<td>Claws, cutting objects</td>
+<td>Tnące</td>
+<td>Pazury, tnące przedmioty</td>
 </tr>
 <tr>
-<td>Thunder</td>
-<td>Concussive sound</td>
+<td>Grzmot</td>
+<td>Dźwięk wstrząsowy</td>
 </tr>
 </tbody>
 </table>
@@ -503,17 +503,17 @@ Obszar Ciemności jest Mocno Zasłonięty. _Zobacz także_ „Mocno zasłonięte
 
 #### Widzenie w ciemności
 
-Jeśli posiadasz Widzenie w ciemności, możesz widzieć w Dim Lekki{Słabym świetle} w określonym zasięgu tak, jakby było Jasnym Światłem, oraz w Darkness{Ciemności} w tym zasięgu tak, jakby było Słabym Światłem. W tej Ciemności rozróżniasz kolory jedynie jako odcienie szarości. _Zobacz także_ Eksploracja.
+Jeśli posiadasz Widzenie w ciemności, możesz widzieć w słabym świetle w określonym zasięgu tak, jakby było jasnym światłem, oraz w Ciemności w tym zasięgu tak, jakby było słabym światłem. W tej Ciemności rozróżniasz kolory jedynie jako odcienie szarości. _Zobacz także_ „Granie w grę” („Eksploracja”).
 
 #### Sprint [Akcja]
 
-Kiedy wykonujesz Akcję Sprintu, zyskujesz dodatkowy ruch w bieżącej turze. Zwiększenie to równa się twojej Speed{Szybkości} po uwzględnieniu wszelkich modyfikatorów. Na przykład, mając Szybkość 9 metra, możesz poruszyć się do 18 metra w swojej turze, jeśli wykonasz Sprint. Jeśli twoja Szybkość 9 metra zostanie zmniejszona do 4,5 metra, możesz poruszyć się do 9 metra w tej turze, jeśli wykonasz Sprint.
+Kiedy wykonujesz Akcję Sprintu, zyskujesz dodatkowy ruch w bieżącej turze. Zwiększenie to równa się twojej Szybkości po uwzględnieniu wszelkich modyfikatorów. Na przykład, mając Szybkość 9 metra, możesz poruszyć się do 18 metra w swojej turze, jeśli wykonasz Sprint. Jeśli twoja Szybkość 9 metra zostanie zmniejszona do 4,5 metra, możesz poruszyć się do 9 metra w tej turze, jeśli wykonasz Sprint.
 
 Jeśli masz specjalną szybkość, taką jak Szybkość lotu lub Szybkość pływania, możesz użyć tej szybkości zamiast swojej zwykłej Szybkości, kiedy wykonujesz tę Akcję. Wybierasz, której szybkości użyć za każdym razem, gdy ją wykonujesz.
 
 #### Martwy
 
-Martwe stworzenie nie ma Punktów Wytrzymałości i nie może ich odzyskać, chyba że zostanie najpierw wskrzeszone za pomocą magii, takiej jak zaklęcie _Wskrzeszanie Umarłych_ lub _Ożywienie_. Kiedy rzucane jest takie zaklęcie, duch wie, kto je rzuca, i może odmówić. Duch martwej istoty opuścił ciało i odszedł do Planów Zewnętrznych, a ożywienie stworzenia wymaga przywołania ducha z powrotem.
+Martwe stworzenie nie ma Punktów Wytrzymałości i nie może ich odzyskać, chyba że zostanie najpierw wskrzeszone za pomocą magii, takiej jak zaklęcie _Wskrzeszenie_ lub _Ożywienie_. Kiedy rzucane jest takie zaklęcie, duch wie, kto je rzuca, i może odmówić. Duch martwej istoty opuścił ciało i odszedł do Planów Zewnętrznych, a ożywienie stworzenia wymaga przywołania ducha z powrotem.
 
 Jeśli stworzenie powróci do życia, efekt odrodzenia określa jego aktualne punkty wytrzymałości. O ile nie zaznaczono inaczej, istota powraca do życia z wszelkimi warunkami, magicznymi zarazami lub klątwami, które dotknęły ją w chwili śmierci, jeśli czas trwania tych efektów nadal trwa. Jeśli stworzenie umarło z jakimkolwiek poziomem Wyczerpania, powraca z poziomem o 1 mniej. Jeśli stworzenie miało Dostrojenie do jednego lub więcej magicznych przedmiotów, nie jest już do nich dostrojone.
 
@@ -529,35 +529,35 @@ Postać gracza musi wykonać rzut obronny na śmierć (zwany także rzutem na ś
 
 Stworzenie potrzebuje dziennie określonej ilości wody, zależnej od jego wielkości, jak pokazano w tabeli dziennego zapotrzebowania na wodę. Stworzenie, które wypije mniej niż połowę wymaganej wody w ciągu jednego dnia, na koniec dnia zyskuje 1 poziom Wyczerpania. Wyczerpanie spowodowane odwodnieniem nie może zostać usunięte, dopóki stworzenie nie wypije pełnej ilości wody wymaganej w ciągu dnia. _Zobacz także_ „Wyczerpanie”.
 
-**Water Needs per Day**
+**Dzienne zapotrzebowanie na wodę**
 
 <table>
 <thead>
 <tr>
-<th>Size</th>
-<th>Water</th>
-<th>Size</th>
-<th>Water</th>
+<th>Rozmiar</th>
+<th>Woda</th>
+<th>Rozmiar</th>
+<th>Woda</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Tiny</td>
-<td>1/4 gallon</td>
-<td>Large</td>
-<td>4 gallons</td>
+<td>Malutki</td>
+<td>1/4 galonu</td>
+<td>Duży</td>
+<td>4 galony</td>
 </tr>
 <tr>
-<td>Small</td>
-<td>1 gallon</td>
-<td>Huge</td>
-<td>16 gallons</td>
+<td>Mały</td>
+<td>1 galon</td>
+<td>Ogromny</td>
+<td>16 galonów</td>
 </tr>
 <tr>
 <td>Średni</td>
-<td>1 gallon</td>
-<td>Gargantuan</td>
-<td>64 gallons</td>
+<td>1 galon</td>
+<td>Gargantuiczny</td>
+<td>64 galony</td>
 </tr>
 </tbody>
 </table>
@@ -570,10 +570,10 @@ Pole jest Trudnym Terenem, jeśli zawiera którekolwiek z poniższych lub coś p
 
 - Stworzenie, które nie jest Małe ani twoim sojusznikiem
 - Meble dostosowane do stworzeń Twojego rozmiaru lub większych
-- Ciężki snow, ice, rubble, or undergrowth
+- Ciężki śnieg, lód, gruz lub zarośla
 - Płyn sięgający od goleni do pasa
-- A narrow opening sized for a creature one size smaller than you
-- A slope of 20 degrees or more
+- Wąskie przejście dostosowane do stworzenia o rozmiarze mniejszym od ciebie o jedną kategorię
+- Stok o nachyleniu 20 stopni lub większym
 
 #### Stopień wyzwania
 
@@ -581,7 +581,7 @@ Klasa trudności (ST) to docelowy numer testu umiejętności lub rzutu obronnego
 
 #### Słabe światło
 
-**Słabe światło**, zwane też cieniami, tworzy obszar o stanie Lightly Obscured. Obszar Słabego Światła znajduje się zazwyczaj na granicy między źródłem Jasnego Światła, takim jak pochodnia, a otaczającą Ciemnością. Łagodne światło zmierzchu i świtu również liczy się jako Słabe Światło. Szczególnie jasny księżyc w pełni może skąpać krainę w Słabym Świetle.
+**Słabe światło**, zwane też cieniami, tworzy obszar lekko zasłonięty. Obszar Słabego Światła znajduje się zazwyczaj na granicy między źródłem Jasnego Światła, takim jak pochodnia, a otaczającą Ciemnością. Łagodne światło zmierzchu i świtu również liczy się jako Słabe Światło. Szczególnie jasny księżyc w pełni może skąpać krainę w Słabym Świetle.
 
 #### Utrudnienie
 
@@ -589,11 +589,11 @@ Jeśli masz Utrudnienie przy Test k20, rzuć dwiema k20 i użyj niższego wyniku
 
 #### Odstąpienie [Akcja]
 
-Jeśli wykonasz Akcję Odstąpienia, twój ruch nie prowokuje Opportunity Attacks{Ataków okazyjnych} do końca bieżącej tury.
+Jeśli wykonasz Akcję Odstąpienia, twój ruch nie prowokuje Ataków okazyjnych do końca bieżącej tury.
 
 #### Unik [Akcja]
 
-Jeśli wykonasz Akcję Uniku, zyskujesz następujące korzyści: do początku swojej następnej tury każdy test ataku przeciwko tobie ma Utrudnienie, jeśli widzisz atakującego, a ty wykonujesz rzuty obronne na Zręczność z Ułatwienie{Ułatwieniem}.
+Jeśli wykonasz Akcję Uniku, zyskujesz następujące korzyści: do początku swojej następnej tury każdy test ataku przeciwko tobie ma Utrudnienie, jeśli widzisz atakującego, a ty wykonujesz rzuty obronne na Zręczność z Ułatwieniem.
 
 Tracisz te korzyści, jeśli masz stan Obezwładniony lub jeśli twoja Szybkość wynosi 0.
 
@@ -639,9 +639,9 @@ _Zobacz także_ „Granie w grę” („Umiejętność”).
 
 #### Spadający [Zagrożenie]
 
-Istota, która spada, otrzymuje  obrażenia obuchowe za każde 3 metra spadku, maksymalnie do  obrażeń obuchowych. Kiedy istota ląduje, otrzymuje stan Powalony, chyba że uniknie otrzymania jakichkolwiek obrażeń od upadku.
+Istota, która spada, otrzymuje 1k6 obrażeń obuchowych za każde 3 metra spadku, maksymalnie do 20k6 obrażeń obuchowych. Kiedy istota ląduje, otrzymuje stan Powalony, chyba że uniknie otrzymania jakichkolwiek obrażeń od upadku.
 
-Istota, która spada do wody lub innej cieczy, może użyć swojej reakcja, aby wykonać test  lub , by uderzyć w powierzchnię głową lub nogami. Przy udanym teście wszelkie obrażenia od upadku zostają zmniejszone o połowę.
+Istota, która spada do wody lub innej cieczy, może użyć swojej reakcji, aby wykonać test Siły (Atletyka) lub Zręczności (Akrobatyka) o ST 15, by uderzyć w powierzchnię głową lub nogami. Przy udanym teście wszelkie obrażenia od upadku zostają zmniejszone o połowę.
 
 #### Latanie
 
@@ -649,11 +649,11 @@ Różnorodne efekty pozwalają stworzeniu latać. Podczas lotu upadasz, jeśli m
 
 #### Szybkość lotu
 
-Szybkość lotu pozwala poruszać się w powietrzu. Mając szybkość lotu, możesz pozostawać w powietrzu, dopóki nie wylądujesz, nie spadniesz lub nie zginiesz. _Zobacz także_ Flying oraz Speed.
+Szybkość lotu pozwala poruszać się w powietrzu. Mając szybkość lotu, możesz pozostawać w powietrzu, dopóki nie wylądujesz, nie spadniesz lub nie zginiesz. _Zobacz także_ „Latanie” oraz „Szybkość”.
 
 #### Przyjazny [Nastawienie]
 
-Przyjazna istota postrzega cię przychylnie. Masz Ułatwienie do testu cechy, aby wpłynąć na Przyjazną istotę. _Zobacz także_ Wpływ.
+Przyjazna istota postrzega cię przychylnie. Masz Ułatwienie do testu cechy, aby wpłynąć na Przyjazną istotę. _Zobacz także_ „Wpływ”.
 
 #### Przerażony [Stan]
 
@@ -685,7 +685,7 @@ _Zakończenie Chwytu._ Chwycona istota może wykorzystać swoją akcję, aby wyk
 
 #### Zagrożenie
 
-Zagrożenie to niebezpieczeństwo środowiskowe. Zobacz także , , Upadek,  oraz .
+Zagrożenie to niebezpieczeństwo środowiskowe. _Zobacz także_ „Płonący”, „Odwodniony”, „Spadający”, „Niedożywiony” oraz „Duszenie”.
 
 #### Leczenie
 
@@ -693,7 +693,7 @@ Leczenie polega na odzyskiwaniu punktów wytrzymałości. _Zobacz także_ „Gra
 
 #### Pozbawiony widoczności
 
-**Mocno zasłonięty obszar **- taki jak ciemność, nieprzezroczysta mgła lub gęste liście - całkowicie blokuje widzenie. Stworzenie skutecznie cierpi na stan condition=blinded, gdy próbuje zobaczyć coś w tym obszarze.
+**Mocno zasłonięty obszar** — taki jak ciemność, nieprzezroczysta mgła lub gęste liście — całkowicie blokuje widzenie. Stworzenie skutecznie cierpi na stan Oślepiony, gdy próbuje zobaczyć coś w tym obszarze.
 
 #### Pomoc [Akcja]
 
@@ -707,7 +707,7 @@ _**Wsparcie Testu ataku.**_ Na chwilę rozpraszasz wroga znajdującego się w od
 
 Jeśli ty (postać gracza) posiadasz Heroiczną Inspirację, możesz ją wydać, aby przerzucić dowolną kość natychmiast po jej rzucie i musisz skorzystać z nowego rzutu.
 
-If you gain Heroiczna Inspiracja but already have it, it's lost unless you give it to a player character who lacks it.
+Jeśli zyskujesz Heroiczną Inspirację, ale już ją posiadasz, przepada ona, chyba że przekażesz ją postaci gracza, która jej nie ma.
 
 #### Ukrycie [Akcja]
 
@@ -733,11 +733,11 @@ Punkty Wytrzymałości (PW) są miarą tego, jak trudno jest zabić lub zniszczy
 
 #### Wrogi [Nastawienie]
 
-Wroga istota postrzega cię nieprzychylnie. Masz Utrudnienie do testu cechy, aby wpłynąć na Wrogą istotę. _Zobacz także_ Wpływ.
+Wroga istota postrzega cię nieprzychylnie. Masz Utrudnienie do testu cechy, aby wpłynąć na Wrogą istotę. _Zobacz także_ „Wpływ”.
 
 #### Unoszenie się
 
-Niektóre istoty mogą unosić się, co jest zaznaczone w ich blokach statystyk, a niektóre czary i inne efekty nadają zdolność unoszenia się. Unoszenie się podczas latania zapobiega spadaniu w określonych okolicznościach. _Zobacz także _Latanie.
+Niektóre istoty mogą unosić się, co jest zaznaczone w ich blokach statystyk, a niektóre czary i inne efekty nadają zdolność unoszenia się. Unoszenie się podczas latania zapobiega spadaniu w określonych okolicznościach. _Zobacz także_ „Latanie”.
 
 #### Iluzje
 
@@ -753,7 +753,7 @@ Jeśli masz Niewrażliwość na dany typ obrażeń lub stan, nie wpływa on na c
 
 Broń improwizowana to przedmiot używany jako broń prowizoryczna, taki jak potłuczone szkło, noga stołu lub patelnia. Broń prosta lub bojowa również liczy się jako broń improwizowana, jeśli jest używana w sposób sprzeczny z jej konstrukcją; jeśli użyjesz broni dystansowej do wykonania ataku wręcz lub rzucisz bronią do walki wręcz, która nie ma właściwości Rzut, broń ta liczy się jako broń improwizowana. Improwizowana broń podlega poniższym zasadom.
 
-_Proficiency._ Nie dodawaj swojej Premii Biegłości do testów ataku improwizowaną bronią.
+_Biegłość._ Nie dodawaj swojej Premii Biegłości do testów ataku improwizowaną bronią.
 
 _Obrażenia._ Przy trafieniu broń zadaje 1k4 obrażeń typu, który MG uzna za odpowiedni dla obiektu.
 
@@ -765,17 +765,17 @@ _Odpowiedniki broni._ Jeśli improwizowana broń przypomina broń prostą lub bo
 
 Kiedy jesteś w stanie Niezdolności do pracy, doświadczasz następujących efektów.
 
-_Inactive._ You can't take any action, akcja dodatkowa, or reakcja.
+_Nieaktywny._ Nie możesz podejmować żadnej akcji, akcji dodatkowej ani reakcji.
 
 _Brak koncentracji._ Twoja koncentracja jest zachwiana.
 
-_Speechless._ You can't speak.
+_Niemowa._ Nie możesz mówić.
 
 _Zaskoczony._ Jeśli podczas rzutu na Inicjatywę jesteś Niezdolny, w rzucie na Inicjatywę masz Niekorzyść.
 
 #### Obojętny [Nastawienie]
 
-Obojętna istota nie ma chęci, by ci pomagać ani przeszkadzać. Obojętność jest domyślnym nastawieniem potwora. _Zobacz także_ Wpływ.
+Obojętna istota nie ma chęci, by ci pomagać ani przeszkadzać. Obojętność jest domyślnym nastawieniem potwora. _Zobacz także_ „Wpływ”.
 
 #### Wpływ [Akcja]
 
@@ -787,35 +787,35 @@ _Niechętny._ Jeśli twoje nawoływanie jest odrażające dla potwora lub sprzec
 
 _Wahający się._ Jeśli namawiasz potwora do zrobienia czegoś, przed czym się waha, musisz wykonać test zdolności, na który wpływa postawa potwora: Obojętny, Przyjazny lub Wrogi, z których każde jest zdefiniowane w tym słowniczku. Tabela testów wpływów sugeruje, jaki test zdolności wykonać w zależności od tego, jak wchodzisz w interakcję z potworem. MG wybiera test, którego domyślny ST wynosi 15 lub wartość Inteligencji potwora, w zależności od tego, która wartość jest wyższa. Po udanym teście potwór wykonuje polecenie. W przypadku nieudanego testu musisz odczekać 24 godziny (lub czas określony przez MG), zanim ponownie zażądasz tego w ten sam sposób.
 
-**Wpływ Checks**
+**Testy wpływu**
 
 <table>
 <thead>
 <tr>
-<th>test cechy</th>
-<th>Interaction</th>
+<th>Test cechy</th>
+<th>Interakcja</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Charyzma (Deception)</td>
+<td>Charyzma (Oszustwo)</td>
 <td>Oszukiwanie potwora, który cię rozumie</td>
 </tr>
 <tr>
-<td>Charyzma (Intimidation)</td>
-<td>Intimidating a monster</td>
+<td>Charyzma (Zastraszanie)</td>
+<td>Zastraszanie potwora</td>
 </tr>
 <tr>
-<td>Charyzma (Performance)</td>
-<td>Amusing a monster</td>
+<td>Charyzma (Występy)</td>
+<td>Rozweselenie potwora</td>
 </tr>
 <tr>
-<td>Charyzma (Persuasion)</td>
+<td>Charyzma (Persuazja)</td>
 <td>Przekonanie potwora, który cię rozumie</td>
 </tr>
 <tr>
-<td>Mądrość (Animal Handling)</td>
-<td>Gently coaxing a Beast or Monstrosity</td>
+<td>Mądrość (Opieka nad zwierzętami)</td>
+<td>Delikatne nakłanianie Bestii lub Potworności</td>
 </tr>
 </tbody>
 </table>
@@ -860,9 +860,9 @@ Punkt wyjścia Prostej nie jest wliczany do obszaru działania, chyba że jej tw
 
 **Skok w dal.** Kiedy wykonujesz Skok w dal, skaczesz poziomo na liczbę stóp równą twojej wartości Siły, jeśli przed skokiem przebiegniesz co najmniej 3 metra. Kiedy wykonujesz Skok w dal z miejsca, możesz skoczyć tylko na połowę tej odległości. W obu przypadkach każda stopa skoku kosztuje stopę ruchu.
 
-Jeśli wylądujesz w difficult-terrain, musisz wykonać udany test  lub otrzymać stan Powalony(Powalony}.
+Jeśli wylądujesz w trudnym terenie, musisz wykonać udany test Zręczności (Akrobatyka) o ST 10 lub otrzymać stan Powalony.
 
-Ta zasada dotycząca Skoku w dal zakłada, że wysokość skoku nie ma znaczenia, jak np. przy skoku nad strumieniem lub przepaścią. Opcjonalnie, według decyzji MG, musisz wykonać udany test , aby przeskoczyć niską przeszkodę (nie wyższą niż jedna czwarta długości skoku), taką jak żywopłot czy niski mur. W przeciwnym razie uderzasz w przeszkodę.
+Ta zasada dotycząca Skoku w dal zakłada, że wysokość skoku nie ma znaczenia, jak np. przy skoku nad strumieniem lub przepaścią. Opcjonalnie, według decyzji MG, musisz wykonać udany test Siły (Atletyka) o ST 10, aby przeskoczyć niską przeszkodę (nie wyższą niż jedna czwarta długości skoku), taką jak żywopłot czy niski mur. W przeciwnym razie uderzasz w przeszkodę.
 
 #### Długi odpoczynek
 
@@ -882,10 +882,10 @@ _Korzyści z odpoczynku._ Aby rozpocząć Długi Odpoczynek, musisz posiadać co
 
 _Przerywanie Odpoczynku._ Długi Odpoczynek przerywany jest przez następujące przerwy:
 
-- Rolling Initiative
-- Casting a spell other than a cantrip
-- Taking any damage
-- 1 hour of walking or other physical exertion
+- Rzut na inicjatywę
+- Rzucenie czaru innego niż sztuczka
+- Otrzymanie jakichkolwiek obrażeń
+- 1 godzina chodzenia lub innego wysiłku fizycznego
 
 Jeśli odpocząłeś przynajmniej 1 godzinę przed przerwą, zyskujesz korzyści w postaci Krótkiego Odpoczynku. _Zobacz także_ „Krótki odpoczynek”.
 
@@ -907,35 +907,35 @@ Stworzenie potrzebuje dziennej ilości pożywienia zależnej od jego wielkości,
 
 Wyczerpanie spowodowane niedożywieniem nie może zostać usunięte, dopóki stworzenie nie zje pełnej ilości pożywienia wymaganej w ciągu dnia. _Zobacz także_ „Wyczerpanie”.
 
-**Food Needs per Day**
+**Dzienne zapotrzebowanie na jedzenie**
 
 <table>
 <thead>
 <tr>
-<th>Size</th>
-<th>Food</th>
-<th>Size</th>
-<th>Food</th>
+<th>Rozmiar</th>
+<th>Jedzenie</th>
+<th>Rozmiar</th>
+<th>Jedzenie</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Tiny</td>
-<td>1/4 pound</td>
-<td>Large</td>
-<td>4 pounds</td>
+<td>Malutki</td>
+<td>1/4 funta</td>
+<td>Duży</td>
+<td>4 funty</td>
 </tr>
 <tr>
-<td>Small</td>
-<td>1 pound</td>
-<td>Huge</td>
-<td>16 pounds</td>
+<td>Mały</td>
+<td>1 funt</td>
+<td>Ogromny</td>
+<td>16 funtów</td>
 </tr>
 <tr>
 <td>Średni</td>
-<td>1 pound</td>
-<td>Gargantuan</td>
-<td>64 pounds</td>
+<td>1 funt</td>
+<td>Gargantuiczny</td>
+<td>64 funty</td>
 </tr>
 </tbody>
 </table>
@@ -944,13 +944,13 @@ Wyczerpanie spowodowane niedożywieniem nie może zostać usunięte, dopóki stw
 
 Potwór to istota kontrolowana przez MG, nawet jeśli jest życzliwa. _Zobacz także_ „Stworzenie” i „NPC”.
 
-#### Nonplayer Character
+#### Postać niezależna
 
 Postać niezależna (NPC) to potwór, który ma własne imię i odrębną osobowość. _Zobacz także_ „Potwór”.
 
 #### Obiekt
 
-Obiekt to nieożywiona, odrębna rzecz. Złożone konstrukcje, takie jak budynki, składają się z więcej niż jednego obiektu. _Zobacz także_ Niszczenie obiektów.
+Obiekt to nieożywiona, odrębna rzecz. Złożone konstrukcje, takie jak budynki, składają się z więcej niż jednego obiektu. _Zobacz także_ „Niszczenie obiektów”.
 
 #### Zajęta przestrzeń
 
@@ -1004,7 +1004,7 @@ _**Niewrażliwość na Truciznę.**_ Masz Niewrażliwość na stan Zatruty.
 
 #### Postać gracza
 
-A player character is a character controlled by a player. _See also_ "Tworzenie postaci."
+Postać gracza to postać kontrolowana przez gracza. _Zobacz także_ „Tworzenie postaci”.
 
 #### Zatruty [Stan]
 
@@ -1024,13 +1024,13 @@ Jeśli masz biegłość w czymś, możesz dodać swoją Premiową od Biegłości
 
 Kiedy jesteś pod wpływem stanu Powalony, doświadczasz następujących efektów.
 
-_**Ograniczony Ruch.**_ Twoje jedyne opcje ruchu to pełzanie lub wydanie ilości ruchu równej połowie twojej Speed (zaokrąglając w dół), aby się podnieść i w ten sposób zakończyć ten stan. Jeśli twoja Szybkość wynosi 0, nie możesz się podnieść.
+_**Ograniczony Ruch.**_ Twoje jedyne opcje ruchu to pełzanie lub wydanie ilości ruchu równej połowie twojej Szybkości (zaokrąglając w dół), aby się podnieść i w ten sposób zakończyć ten stan. Jeśli twoja Szybkość wynosi 0, nie możesz się podnieść.
 
 _**Wpływ na Testy Ataku.**_ Masz Utrudnienie przy testach ataku. Test ataku przeciwko tobie ma Ułatwienie, jeśli atakujący znajduje się w odległości 1,5 metra od ciebie. W przeciwnym razie ten test ataku ma Utrudnienie.
 
 #### Dalekosiężna
 
-A creature has a reach of 1,5 metra unless a rule says otherwise.
+Stworzenie ma zasięg 1,5 metra, chyba że zasada stanowi inaczej.
 
 #### Reakcja
 
@@ -1070,7 +1070,7 @@ Ilekroć dzielisz lub mnożysz liczbę w grze i otrzymasz ułamek, zaokrąglasz 
 
 #### Obrona
 
-Save is another name for a saving throw. _See also_ "rzut obronny."
+Obrona to inna nazwa rzutu obronnego. _Zobacz także_ „Rzut obronny”.
 
 #### Rzut obronny
 
@@ -1080,31 +1080,31 @@ Rzut obronny – zwany także rzutem obronnym – reprezentuje próbę uniknięc
 
 Kiedy podejmujesz akcję Przeszukiwania, wykonujesz test Mądrości, aby dostrzec coś, co nie jest oczywiste. Tabela wyszukiwania sugeruje, które umiejętności można zastosować podczas wykonywania tej akcji, w zależności od tego, co próbujesz wykryć.
 
-**Search**
+**Przeszukiwanie**
 
 <table>
 <thead>
 <tr>
-<th>Skill</th>
-<th>Thing to Detect</th>
+<th>Umiejętność</th>
+<th>Co wykryć</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Insight</td>
-<td>Creature's state of mind</td>
+<td>Intuicja</td>
+<td>Stan umysłu stworzenia</td>
 </tr>
 <tr>
-<td>Medicine</td>
-<td>Creature's ailment or cause of death</td>
+<td>Medycyna</td>
+<td>Dolegliwość stworzenia lub przyczyna śmierci</td>
 </tr>
 <tr>
-<td>Perception</td>
-<td>Concealed creature or object</td>
+<td>Percepcja</td>
+<td>Ukryte stworzenie lub obiekt</td>
 </tr>
 <tr>
-<td>Survival</td>
-<td>Tracks or food</td>
+<td>Sztuka przetrwania</td>
+<td>Ślady lub pożywienie</td>
 </tr>
 </tbody>
 </table>
@@ -1153,7 +1153,7 @@ Zaklęcie to magiczny efekt, który ma cechy opisane w części „Zaklęcia”.
 
 #### Atak czaru
 
-A spell attack is an attack roll made as part of a spell or another magical effect. _See also_ "Spells" ("Casting Spells").
+Atak czaru to rzut ataku wykonywany w ramach czaru lub innego magicznego efektu. _Zobacz także_ „Zaklęcia” („Rzucanie zaklęć”).
 
 #### Magiczny fokus
 
@@ -1173,7 +1173,7 @@ Stworzenie jest stabilne, jeśli ma 0 punktów wytrzymałości, ale nie jest wym
 
 Blok statystyk zawiera statystyki gry potwora. Każdy blok statystyk zawiera następujące informacje prezentowane po nazwie potwora.
 
-_Size._ A monster is Tiny, Small, Średni, Large, Huge, or Gargantuan. _See also_ "Size."
+_Rozmiar._ Potwór jest Malutki, Mały, Średni, Duży, Ogromny lub Gargantuiczny. _Zobacz także_ „Rozmiar”.
 
 _Typ stworzenia._ Ten wpis podaje rodzinę istot, do której należy potwór, wraz ze wszelkimi tagami opisowymi. _Zobacz także_ „Typ stworzenia”.
 
@@ -1251,7 +1251,7 @@ Jeśli stworzenie zostanie zaskoczone na początku walki, zostaje ono zaskoczone
 
 #### Pływanie
 
-Podczas pływania każdy stopa ruchu kosztuje cię 1 dodatkową stopę (2 dodatkowe stopy w Trudnym Terenie). Ignorujesz ten dodatkowy koszt, jeśli masz Szybkość Pływania i używasz jej do pływania. Według decyzji MG, poruszanie się w trudnych wodach na dowolną odległość może wymagać udanego testu .
+Podczas pływania każdy stopa ruchu kosztuje cię 1 dodatkową stopę (2 dodatkowe stopy w trudnym terenie). Ignorujesz ten dodatkowy koszt, jeśli masz Szybkość Pływania i używasz jej do pływania. Według decyzji MG, poruszanie się w trudnych wodach na dowolną odległość może wymagać udanego testu Siły (Atletyka) o ST 15.
 
 #### Cel
 
@@ -1287,9 +1287,9 @@ Wyczuwanie drgań nie może wykryć istot lub obiektów w powietrzu i nie liczy 
 
 #### Prawdziwe widzenie
 
-Jeśli masz TrueSight, Twoje widzenie jest wzmocnione w określonym zakresie. W tym zakresie twoja wizja przenika przez:
+Jeśli masz Prawdziwe widzenie, twoje widzenie jest wzmocnione w określonym zakresie. W tym zakresie twoja wizja przenika przez:
 
-**Ciemność.** Możesz widzieć w normalnej i magicznej Ciemności.
+**Ciemność** Możesz widzieć w normalnej i magicznej Ciemności.
 
 **Niewidzialność.** Widzisz stworzenia i przedmioty posiadające stan Niewidzialność.
 
@@ -1307,7 +1307,7 @@ Ilekroć używasz Uderzenia Bez Broni, wybierz jedną z poniższych opcji jego e
 
 _**Obrażenia.**_ Wykonujesz test ataku przeciwko celowi. Twój modyfikator do testu jest równy twojemu modyfikatorowi z Siły plus twoja Premia od Biegłości. Przy trafieniu cel otrzymuje obrażenia obuchowe równe 1 plus twój modyfikator z Siły.
 
-_**Pochwycenie.**_ Cel musi wykonać udany rzut obronny na Siłę lub Zręczność (wybiera cel), w przeciwnym razie otrzymuje stan Pochwycony. ST rzutu obronnego oraz prób ucieczki jest równe 8 plus twój modyfikator z Siły i Premia od Biegłości. Pochwycenie jest możliwe tylko wtedy, gdy cel nie jest większy od ciebie o więcej niż jedną kategorię rozmiaru i gdy masz wolną rękę, aby go chwycić. _Zobacz także_ Grappling.
+_**Pochwycenie.**_ Cel musi wykonać udany rzut obronny na Siłę lub Zręczność (wybiera cel), w przeciwnym razie otrzymuje stan Pochwycony. ST rzutu obronnego oraz prób ucieczki jest równe 8 plus twój modyfikator z Siły i Premia od Biegłości. Pochwycenie jest możliwe tylko wtedy, gdy cel nie jest większy od ciebie o więcej niż jedną kategorię rozmiaru i gdy masz wolną rękę, aby go chwycić. _Zobacz także_ „Pochwycenie”.
 
 _**Popchnięcie.**_ Cel musi wykonać udany rzut obronny na Siłę lub Zręczność (wybiera cel), w przeciwnym razie możesz odepchnąć go o 1,5 metra albo spowodować, że otrzyma stan Powalony. ST rzutu obronnego jest równe 8 plus twój modyfikator z Siły i Premia od Biegłości. To popchnięcie jest możliwe tylko wtedy, gdy cel nie jest większy od ciebie o więcej niż jedną kategorię rozmiaru.
 
@@ -1317,7 +1317,7 @@ Kiedy jesteś pod wpływem stanu Nieprzytomny, doświadczasz następujących efe
 
 _**Bezwładny.**_ Masz stany Obezwładniony i Powalony oraz upuszczasz wszystko, co trzymasz. Kiedy ten stan się kończy, pozostajesz Powalony.
 
-_**Szybkość 0.**_ Twoja Speed wynosi 0 i nie może wzrosnąć.
+_**Szybkość 0.**_ Twoja Szybkość wynosi 0 i nie może wzrosnąć.
 
 _**Wpływ na Ataki.**_ Testy ataku przeciwko tobie mają Ułatwienie.
 
@@ -1343,5 +1343,5 @@ Broń to obiekt należący do kategorii broni prostej lub bojowej. _Zobacz takż
 
 #### Atak bronią
 
-Atak bronią to test ataku wykonany bronią. Zobacz także .
+Atak bronią to rzut ataku wykonany bronią. _Zobacz także_ „Broń”.
 

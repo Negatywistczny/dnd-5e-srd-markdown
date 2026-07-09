@@ -258,7 +258,7 @@ _Magiczna zaraza_
 
 Każda bestia lub humanoid, który wypije wodę skażoną Zgnilizną wzroku, musi zdać rzut obronny na Kondycję o ST 15 albo ma stan Oślepiony do momentu zakończenia zarazy.
 
-_Walka z zarazą._ Magia taka jak czar _Leczenie_ lub _Mniejsze przywrócenie_ natychmiast kończy zarazę. Postać biegła w Zestawie zielarza może użyć go do stworzenia jednej dawki niemagicznej maści, co zajmuje 1 godzinę. Nałożona na oczy istoty cierpiącej na Zgniliznę wzroku maść tłumi zarazę na tej istocie przez 24 godziny. Jeśli zaraza zostanie w ten sposób stłumiona łącznie przez 72 godziny (wymagając trzech dawek i nałożeń maści), zaraza na istocie się kończy.
+_Walka z zarazą._ Magia taka jak czar _Uleczenie_ lub _Mniejsze przywrócenie_ natychmiast kończy zarazę. Postać biegła w Zestawie zielarza może użyć go do stworzenia jednej dawki niemagicznej maści, co zajmuje 1 godzinę. Nałożona na oczy istoty cierpiącej na Zgniliznę wzroku maść tłumi zarazę na tej istocie przez 24 godziny. Jeśli zaraza zostanie w ten sposób stłumiona łącznie przez 72 godziny (wymagając trzech dawek i nałożeń maści), zaraza na istocie się kończy.
 
 _Szerzenie zarazy._ Każdy humanoid, który dotyka skórą istoty zakażonej Zgnilizną wzroku, musi zdać rzut obronny na Kondycję o ST 15 albo również zostaje zakażony. Przy udanym rzucie humanoid nie może zarazić się od tej konkretnej zakażonej istoty przez następne 24 godziny.
 

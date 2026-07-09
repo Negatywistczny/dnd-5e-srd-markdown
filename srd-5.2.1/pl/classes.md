@@ -415,14 +415,14 @@ Po użyciu tej zdolności nie możesz jej użyć ponownie, dopóki nie zakończy
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Bard .
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy barda .
 
-• Zyskaj Bard's level 1 features, które są wymienione w tabeli Cech Bard.
+• Zyskaj cechy barda 1. poziomu, które są wymienione w tabeli Cech barda.
 
 #### Jako postać wieloklasowa
 
 • Zyskaj następujące cechy z tabeli Podstawowe cechy barda: Kość wytrzymałości, biegłość w jednej umiejętności do wyboru, biegłość w jednym instrumencie muzycznym do wyboru oraz wyszkolenie w lekkich pancerzach.
-• Zyskaj Bard's level 1 features, które są wymienione w tabeli Cech Bard. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
+• Zyskaj cechy barda 1. poziomu, które są wymienione w tabeli Cech barda. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
 
 ### Cechy klasy barda
 
@@ -433,13 +433,13 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Bardic Die</th>
- <th>Cantrips</th>
- <th>Prepared Spells</th>
- <th colspan="9">——Spell Slots per Spell Level——</th>
+ <th>Cechy klasy</th>
+ <th>Kość bardowska</th>
+ <th>Sztuczki</th>
+ <th>Przygotowane czary</th>
+ <th colspan="9">——Komórki czarów na krąg czaru——</th>
  </tr>
  <tr>
  <th>
@@ -469,7 +469,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Bardic Inspiration, Spellcasting</td>
+ <td>Bardowska inspiracja, Rzucanie czarów</td>
  <td>D6</td>
  <td>2</td>
  <td>4</td>
@@ -488,7 +488,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Expertise, Jack of All Trades</td>
+ <td>Znawstwo, Wszechstronność</td>
  <td>D6</td>
  <td>2</td>
  <td>5</td>
@@ -507,7 +507,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Bard Subclass</td>
+ <td>Podklasa barda</td>
  <td>D6</td>
  <td>2</td>
  <td>6</td>
@@ -526,7 +526,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>D6</td>
  <td>3</td>
  <td>7</td>
@@ -545,7 +545,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Font of Inspiration</td>
+ <td>Źródło inspiracji</td>
  <td>D8</td>
  <td>3</td>
  <td>9</td>
@@ -564,7 +564,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>D8</td>
  <td>3</td>
  <td>10</td>
@@ -583,7 +583,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>7</td>
  <td>+3</td>
- <td>Countercharm</td>
+ <td>Przeciwurok</td>
  <td>D8</td>
  <td>3</td>
  <td>11</td>
@@ -602,7 +602,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>D8</td>
  <td>3</td>
  <td>12</td>
@@ -621,7 +621,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>9</td>
  <td>+4</td>
- <td>Expertise</td>
+ <td>Znawstwo</td>
  <td>D8</td>
  <td>3</td>
  <td>14</td>
@@ -640,7 +640,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Magical Secrets</td>
+ <td>Magiczne tajemnice</td>
  <td>D10</td>
  <td>4</td>
  <td>15</td>
@@ -678,7 +678,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>D10</td>
  <td>4</td>
  <td>16</td>
@@ -716,7 +716,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>D10</td>
  <td>4</td>
  <td>17</td>
@@ -754,7 +754,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>D12</td>
  <td>4</td>
  <td>18</td>
@@ -792,7 +792,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>18</td>
  <td>+6</td>
- <td>Superior Inspiration</td>
+ <td>Pierwszorzędna inspiracja</td>
  <td>D12</td>
  <td>4</td>
  <td>20</td>
@@ -811,7 +811,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>D12</td>
  <td>4</td>
  <td>21</td>
@@ -830,7 +830,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Words of Creation</td>
+ <td>Słowa stworzenia</td>
  <td>D12</td>
  <td>4</td>
  <td>22</td>
@@ -932,9 +932,9 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -974,13 +974,13 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  <td>—</td>
  </tr>
  <tr>
- <td>Starry Wisp</td>
+ <td>Gwiezdna iskra</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
  <tr>
  <td>Prawdziwe uderzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -996,9 +996,9 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -1029,7 +1029,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Rozumienie języków</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
@@ -1039,7 +1039,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Wykrycie magii</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
@@ -1048,7 +1048,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  <td>—</td>
  </tr>
  <tr>
- <td>Dissonant Whispers</td>
+ <td>Fałszywe podszepty</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -1073,13 +1073,13 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  <td>C</td>
  </tr>
  <tr>
- <td>Ohydny śmiech</td>
+ <td>Ohydny śmiech Tashy</td>
  <td>Uroków</td>
  <td>C</td>
  </tr>
  <tr>
- <td>Zidentyfikuj</td>
- <td>Wieszczenia</td>
+ <td>Identyfikacja</td>
+ <td>Wieszczenie</td>
  <td>R, M</td>
  </tr>
  <tr>
@@ -1104,7 +1104,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Rozmawianie ze zwierzętami</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
@@ -1125,9 +1125,9 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -1153,7 +1153,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Wykrycie myśli</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -1198,12 +1198,12 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Odnalezienie zwierząt lub roślin</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
  <td>Odnalezienie obiektu</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -1218,7 +1218,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Widzenie niewidzialnego</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -1249,9 +1249,9 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -1262,7 +1262,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Jasnowidzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -1307,11 +1307,11 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Nadanie wiadomości</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
- <td>Wolno</td>
+ <td>Spowolnienie</td>
  <td>Przemian</td>
  <td>C</td>
  </tr>
@@ -1331,13 +1331,13 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  <td>C</td>
  </tr>
  <tr>
- <td>Chatka</td>
+ <td>Chatka Leomunda</td>
  <td>Wywoływania</td>
  <td>R</td>
  </tr>
  <tr>
  <td>Języki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  </tbody>
@@ -1348,14 +1348,14 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Charm Monster</td>
+ <td>Zauroczenie potwora</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -1391,7 +1391,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Odnalezienie istoty</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -1412,14 +1412,14 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Animowanie obiektu</td>
+ <td>Animowanie obiektów</td>
  <td>Przemian</td>
  <td>C</td>
  </tr>
@@ -1455,7 +1455,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Legendarna wiedza</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>M</td>
  </tr>
  <tr>
@@ -1485,7 +1485,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Wizja</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -1494,12 +1494,12 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  <td>—</td>
  </tr>
  <tr>
- <td>Telepatia</td>
- <td>Wieszczenia</td>
+ <td>Telepatyczna więź Rary’ego</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
- <td>Krąg teleportacji</td>
+ <td>Krąg teleportacyjny</td>
  <td>Przywoływania</td>
  <td>M</td>
  </tr>
@@ -1511,9 +1511,9 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -1524,7 +1524,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Odnalezienie ścieżki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -1538,7 +1538,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  <td>M</td>
  </tr>
  <tr>
- <td>Nieodparty taniec</td>
+ <td>Nieodparty taniec Ottona</td>
  <td>Uroków</td>
  <td>C</td>
  </tr>
@@ -1554,7 +1554,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  </tr>
  <tr>
  <td>Prawdziwe widzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>M</td>
  </tr>
  </tbody>
@@ -1565,14 +1565,14 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Magiczny miecz</td>
+ <td>Miecz Mordenkainena</td>
  <td>Wywoływania</td>
  <td>C, M</td>
  </tr>
@@ -1587,7 +1587,7 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
  <td>C, M</td>
  </tr>
  <tr>
- <td>Wspaniała posiadłość</td>
+ <td>Wspaniała posiadłość Mordenkainena</td>
  <td>Przywoływania</td>
  <td>M</td>
  </tr>
@@ -1634,19 +1634,19 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Antypatia / Sympatia</td>
+ <td>Antypatia/Sympatia</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
  <tr>
- <td>Befuddlement</td>
+ <td>Zamroczenie</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -1678,19 +1678,19 @@ Ta sekcja przedstawia listę czarów barda. Czary są uporządkowane według kr�
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
  <td>Profetyzm</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
- <td>Power Word Heal</td>
+ <td>Słowo mocy Ulecz</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -1755,7 +1755,7 @@ Gdy wykonasz test cechy lub test ataku i poniesiesz porażkę, możesz zużyć j
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Wybierz 2: Historia, Intuicja, Medycyna, Perswazja, or Religia</td>
+ <td>Wybierz 2: Historia, Intuicja, Medycyna, Perswazja lub Religia</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
@@ -1776,13 +1776,13 @@ Gdy wykonasz test cechy lub test ataku i poniesiesz porażkę, możesz zużyć j
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Cleric .
-• Zyskaj Cleric's level 1 features, które są wymienione w tabeli Cech Cleric.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy kleryka .
+• Zyskaj cechy kleryka 1. poziomu, które są wymienione w tabeli Cech kleryka.
 
 #### Jako postać wieloklasowa
 
 • Zyskaj następujące cechy z tabeli Podstawowe cechy kleryka: Kość wytrzymałości oraz wyszkolenie w lekkich i średnich pancerzach i tarczach.
-• Zyskaj Cleric's level 1 features, które są wymienione w tabeli Cech Cleric. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
+• Zyskaj cechy kleryka 1. poziomu, które są wymienione w tabeli Cech kleryka. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
 
 ### Cechy klasy kleryka
 
@@ -1793,13 +1793,13 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Channel Divinity</th>
- <th>Cantrips</th>
- <th>Prepared Spells</th>
- <th colspan="9">——Spell Slots per Spell Level——</th>
+ <th>Cechy klasy</th>
+ <th>Akt wiary</th>
+ <th>Sztuczki</th>
+ <th>Przygotowane czary</th>
+ <th colspan="9">——Komórki czarów na krąg czaru——</th>
  </tr>
  <tr>
  <th>
@@ -1829,7 +1829,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Spellcasting, Divine Order</td>
+ <td>Rzucanie czarów, Boski porządek</td>
  <td>—</td>
  <td>3</td>
  <td>4</td>
@@ -1846,7 +1846,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Channel Divinity</td>
+ <td>Akt wiary</td>
  <td>2</td>
  <td>3</td>
  <td>5</td>
@@ -1863,7 +1863,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Cleric Subclass</td>
+ <td>Podklasa kleryka</td>
  <td>2</td>
  <td>3</td>
  <td>6</td>
@@ -1880,7 +1880,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>2</td>
  <td>4</td>
  <td>7</td>
@@ -1897,7 +1897,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Sear Undead</td>
+ <td>Spopielenie nieumarłych</td>
  <td>2</td>
  <td>4</td>
  <td>9</td>
@@ -1914,7 +1914,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>3</td>
  <td>4</td>
  <td>10</td>
@@ -1931,7 +1931,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>7</td>
  <td>+3</td>
- <td>Blessed Strikes</td>
+ <td>Błogosławione uderzenia</td>
  <td>3</td>
  <td>4</td>
  <td>11</td>
@@ -1948,7 +1948,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>4</td>
  <td>12</td>
@@ -1982,7 +1982,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Divine Intervention</td>
+ <td>Boska interwencja</td>
  <td>3</td>
  <td>5</td>
  <td>15</td>
@@ -2016,7 +2016,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>5</td>
  <td>16</td>
@@ -2050,7 +2050,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Improved Blessed Strikes</td>
+ <td>Ulepszone błogosławione uderzenia</td>
  <td>3</td>
  <td>5</td>
  <td>17</td>
@@ -2084,7 +2084,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>5</td>
  <td>18</td>
@@ -2101,7 +2101,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>17</td>
  <td>+6</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>3</td>
  <td>5</td>
  <td>19</td>
@@ -2135,7 +2135,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>4</td>
  <td>5</td>
  <td>21</td>
@@ -2152,7 +2152,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Greater Divine Intervention</td>
+ <td>Większa boska interwencja</td>
  <td>4</td>
  <td>5</td>
  <td>22</td>
@@ -2252,15 +2252,15 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
  <td>Wskazówki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -2301,9 +2301,9 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -2334,17 +2334,17 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Wykrycie dobra i zła</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
  <td>Wykrycie magii</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
  <td>Wykrycie trucizny i choroby</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
@@ -2378,7 +2378,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  <td>—</td>
  </tr>
  <tr>
- <td>Tarcza of Faith</td>
+ <td>Tarcza wiary</td>
  <td>Odpychania</td>
  <td>C</td>
  </tr>
@@ -2390,9 +2390,9 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -2403,7 +2403,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Wróżba</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R, M</td>
  </tr>
  <tr>
@@ -2428,7 +2428,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Wykrycie pułapek</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -2448,7 +2448,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Odnalezienie obiektu</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -2489,9 +2489,9 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -2512,7 +2512,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Jasnowidzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -2567,7 +2567,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Nadanie wiadomości</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -2582,7 +2582,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Języki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -2598,14 +2598,14 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Aura of Life</td>
+ <td>Aura życia</td>
  <td>Odpychania</td>
  <td>C</td>
  </tr>
@@ -2625,8 +2625,8 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  <td>—</td>
  </tr>
  <tr>
- <td>Wieszczenia</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
+ <td>Wieszczenie</td>
  <td>R, M</td>
  </tr>
  <tr>
@@ -2641,7 +2641,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Odnalezienie istoty</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -2657,15 +2657,15 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
  <td>Kontakt z bóstwem</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
@@ -2679,7 +2679,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  <td>C</td>
  </tr>
  <tr>
- <td>Słup ognią</td>
+ <td>Słup ognia</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
@@ -2705,7 +2705,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Legendarna wiedza</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>M</td>
  </tr>
  <tr>
@@ -2725,7 +2725,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Wizja</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  </tbody>
@@ -2736,9 +2736,9 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -2754,7 +2754,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Odnalezienie ścieżki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -2768,7 +2768,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  <td>—</td>
  </tr>
  <tr>
- <td>Leczenie</td>
+ <td>Uleczenie</td>
  <td>Odpychania</td>
  <td>—</td>
  </tr>
@@ -2789,7 +2789,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  </tr>
  <tr>
  <td>Prawdziwe widzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>M</td>
  </tr>
  <tr>
@@ -2805,9 +2805,9 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -2859,9 +2859,9 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -2898,9 +2898,9 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -2920,7 +2920,7 @@ Ta sekcja przedstawia listę czarów kleryka. Czary są uporządkowane według k
  <td>—</td>
  </tr>
  <tr>
- <td>Power Word Heal</td>
+ <td>Słowo mocy Ulecz</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -2981,7 +2981,7 @@ Kiedy miałbyś normalnie rzucić jedną lub więcej kości, aby przywrócić Pu
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Wybierz 2: Opieka nad zwierzętami, Wiedza tajemna, Intuicja, Medycyna, Natura, Percepcja, Religia, or Sztuka przetrwania</td>
+ <td>Wybierz 2: Opieka nad zwierzętami, Wiedza tajemna, Intuicja, Medycyna, Natura, Percepcja, Religia lub Sztuka przetrwania</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
@@ -3006,13 +3006,13 @@ Kiedy miałbyś normalnie rzucić jedną lub więcej kości, aby przywrócić Pu
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Druid .
-• Zyskaj Druid's level 1 features, które są wymienione w tabeli Cech Druid.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy druida .
+• Zyskaj cechy druida 1. poziomu, które są wymienione w tabeli Cech druida.
 
 #### Jako postać wieloklasowa
 
 • Zyskaj następujące cechy z tabeli Podstawowe cechy druida: Kość wytrzymałości oraz wyszkolenie w lekkich pancerzach i tarczach.
-• Zyskaj Druid's level 1 features, które są wymienione w tabeli Cech Druid. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
+• Zyskaj cechy druida 1. poziomu, które są wymienione w tabeli Cech druida. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
 
 ### Cechy klasy druida
 
@@ -3023,13 +3023,13 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Wild Shape</th>
- <th>Cantrips</th>
- <th>Prepared Spells</th>
- <th colspan="9">——Spell Slots per Spell Level——</th>
+ <th>Cechy klasy</th>
+ <th>Dzika postać</th>
+ <th>Sztuczki</th>
+ <th>Przygotowane czary</th>
+ <th colspan="9">——Komórki czarów na krąg czaru——</th>
  </tr>
  <tr>
  <th>
@@ -3059,7 +3059,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Spellcasting, Druidic, Primal Order</td>
+ <td>Rzucanie czarów, Język druidyczny, Pierwotny porządek</td>
  <td>—</td>
  <td>2</td>
  <td>4</td>
@@ -3078,7 +3078,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Wild Shape, Wild Companion</td>
+ <td>Dzika postać, Dziki towarzysz</td>
  <td>2</td>
  <td>2</td>
  <td>5</td>
@@ -3097,7 +3097,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Druid Subclass</td>
+ <td>Podklasa druida</td>
  <td>2</td>
  <td>2</td>
  <td>6</td>
@@ -3116,7 +3116,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>2</td>
  <td>3</td>
  <td>7</td>
@@ -3135,7 +3135,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Wild Resurgence</td>
+ <td>Dzikie odrodzenie</td>
  <td>2</td>
  <td>3</td>
  <td>9</td>
@@ -3154,7 +3154,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>3</td>
  <td>3</td>
  <td>10</td>
@@ -3173,7 +3173,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>7</td>
  <td>+3</td>
- <td>Elemental Fury</td>
+ <td>Furia żywiołów</td>
  <td>3</td>
  <td>3</td>
  <td>11</td>
@@ -3192,7 +3192,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>3</td>
  <td>12</td>
@@ -3230,7 +3230,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>3</td>
  <td>4</td>
  <td>15</td>
@@ -3268,7 +3268,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>4</td>
  <td>16</td>
@@ -3306,7 +3306,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>3</td>
  <td>4</td>
  <td>17</td>
@@ -3325,7 +3325,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>15</td>
  <td>+5</td>
- <td>Improved Elemental Fury</td>
+ <td>Ulepszona furia żywiołów</td>
  <td>3</td>
  <td>4</td>
  <td>18</td>
@@ -3344,7 +3344,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>4</td>
  <td>18</td>
@@ -3382,7 +3382,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>18</td>
  <td>+6</td>
- <td>Beast Spells</td>
+ <td>Czary w formie zwierzęcej</td>
  <td>4</td>
  <td>4</td>
  <td>20</td>
@@ -3401,7 +3401,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>4</td>
  <td>4</td>
  <td>21</td>
@@ -3420,7 +3420,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Archdruid</td>
+ <td>Arcydruid</td>
  <td>4</td>
  <td>4</td>
  <td>22</td>
@@ -3475,10 +3475,10 @@ _Strażnik.._ Wyszkolony do walki, zyskujesz biegłość w żołnierskich bronia
 
 #### Poziom 2: Dzika postać
 
-Masz możliwość przyjęcia formy zwierzęcia dzięki mocy natury. Jako Akcję Dodatkową, możesz zmienić się w formę Bestii, którą nauczyłeś się dla tej zdolności (zobacz „Znane Formy” poniżej). Pozostajesz w tej formie przez liczbę godzin równą połowie twojego poziomu Druida (obecnie [[lookup @classes.druid.levels]]) lub dopóki nie użyjesz Wild Shape ponownie, nie będziesz miał stanu Incapacitated, lub nie umrzesz. Możesz również opuścić formę wcześniej jako Akcję Dodatkową.
-_Liczba użyć.._ Możesz użyć Wild Shape dwa razy. Odzyskujesz jedno zużyte użycie po zakończeniu Krótkiego Odpoczynku, a wszystkie zużyte użycia odzyskujesz po zakończeniu długiego odpoczynku.
+Masz możliwość przyjęcia formy zwierzęcia dzięki mocy natury. Jako Akcję Dodatkową, możesz zmienić się w formę Bestii, którą nauczyłeś się dla tej zdolności (zobacz „Znane Formy” poniżej). Pozostajesz w tej formie przez liczbę godzin równą połowie twojego poziomu Druida (obecnie [[lookup @classes.druid.levels]]) lub dopóki nie użyjesz Dzika postać ponownie, nie będziesz miał stanu Incapacitated, lub nie umrzesz. Możesz również opuścić formę wcześniej jako Akcję Dodatkową.
+_Liczba użyć.._ Możesz użyć Dzika postać dwa razy. Odzyskujesz jedno zużyte użycie po zakończeniu Krótkiego Odpoczynku, a wszystkie zużyte użycia odzyskujesz po zakończeniu długiego odpoczynku.
 
-Zyskujesz dodatkowe użycia, gdy osiągniesz określone poziomy Druida, zgodnie z kolumną Wild Shape w tabeli .
+Zyskujesz dodatkowe użycia, gdy osiągniesz określone poziomy Druida, zgodnie z kolumną Dzika postać w tabeli .
 _Aktualna liczba użyć:._ [[lookup @scale.druid.wild-shape-uses]]
 
 _Znane Formy.._ Znasz cztery formy Bestii dla tej zdolności, wybrane spośród statystyk Bestii, które mają maksymalny Stopień Wyzwania 1/4 i nie posiadają Szybkości Lotu. Zarekomendowane są: , , , i . Za każdym razem, gdy kończysz długi odpoczynek, możesz zamienić jedną z twoich znanych form na inną dostępną formę.
@@ -3491,7 +3491,7 @@ _Aktualny limit CR:._ [[lookup @scale.druid.wild-shape]]
 Wybierając znane formy, możesz sprawdzić w Monster Manual lub innych źródłach dostępne Bestie, jeśli Mistrz Podziemi pozwoli ci na to.Bestie FormyPoziom DruidaZnane FormyMax CRSzybkość Lotu241/4Nie461/2Nie881Tak
 _Zasady podczas zmiany formy.._ Będąc w formie, zachowujesz swoją osobowość, wspomnienia i zdolność mówienia, a poniższe zasady mają zastosowanie:
 
-_Tymczasowe Punkty Wytrzymałości.._ Kiedy przyjmujesz formę Wild Shape, zyskujesz liczbę Tymczasowych Punktów Wytrzymałości równą twojemu poziomowi Druida.
+_Tymczasowe Punkty Wytrzymałości.._ Kiedy przyjmujesz formę Dzika postać, zyskujesz liczbę Tymczasowych Punktów Wytrzymałości równą twojemu poziomowi Druida.
 
 _Statystyki gry.._ Twoje statystyki gry są zastępowane przez statystyki Bestii, ale zachowujesz typ istoty; Punkty Wytrzymałości; Kości Wytrzymałości; wartości Inteligencji, Mądrości i Charyzmy; zdolności klasowe; języki i talenty. Zachowujesz także biegłości w umiejętnościach i rzutach obronnych oraz używasz swojej Premii od Biegłości do nich, oprócz zdobywania biegłości Bestii. Jeśli modyfikator umiejętności lub rzutu obronnego w statystykach Bestii jest wyższy od twojego, użyj wartości z statystyk Bestii.
 
@@ -3557,9 +3557,9 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -3569,13 +3569,13 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  <td>—</td>
  </tr>
  <tr>
- <td>Elementalism</td>
+ <td>Żywiołomagia</td>
  <td>Przemian</td>
  <td>—</td>
  </tr>
  <tr>
  <td>Wskazówki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -3614,7 +3614,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  <td>—</td>
  </tr>
  <tr>
- <td>Starry Wisp</td>
+ <td>Gwiezdna iskra</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
@@ -3626,9 +3626,9 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -3654,12 +3654,12 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Wykrycie magii</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
  <td>Wykrycie trucizny i choroby</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
@@ -3688,7 +3688,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  <td>—</td>
  </tr>
  <tr>
- <td>Ice Knife</td>
+ <td>Lodowy nóż</td>
  <td>Przywoływania</td>
  <td>—</td>
  </tr>
@@ -3714,7 +3714,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Rozmawianie ze zwierzętami</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
@@ -3730,9 +3730,9 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -3748,7 +3748,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Wróżba</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R, M</td>
  </tr>
  <tr>
@@ -3778,7 +3778,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Wykrycie pułapek</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -3813,12 +3813,12 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Odnalezienie zwierząt lub roślin</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
  <td>Odnalezienie obiektu</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -3849,9 +3849,9 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -3928,9 +3928,9 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -3940,7 +3940,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  <td>—</td>
  </tr>
  <tr>
- <td>Charm Monster</td>
+ <td>Zauroczenie potwora</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -3965,8 +3965,8 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  <td>C</td>
  </tr>
  <tr>
- <td>Wieszczenia</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
+ <td>Wieszczenie</td>
  <td>R, M</td>
  </tr>
  <tr>
@@ -4001,7 +4001,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Odnalezienie istoty</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -4032,9 +4032,9 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -4049,8 +4049,8 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  <td>M</td>
  </tr>
  <tr>
- <td>Commune with Natura</td>
- <td>Wieszczenia</td>
+ <td>Kontakt z naturą</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
@@ -4100,7 +4100,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Wizja</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -4121,9 +4121,9 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -4134,7 +4134,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Odnalezienie ścieżki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -4143,7 +4143,7 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  <td>C</td>
  </tr>
  <tr>
- <td>Leczenie</td>
+ <td>Uleczenie</td>
  <td>Odpychania</td>
  <td>—</td>
  </tr>
@@ -4185,9 +4185,9 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -4229,9 +4229,9 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -4241,12 +4241,12 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
  <td>—</td>
  </tr>
  <tr>
- <td>Antypatia / Sympatia</td>
+ <td>Antypatia/Sympatia</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
  <tr>
- <td>Befuddlement</td>
+ <td>Zamroczenie</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -4283,15 +4283,15 @@ Ta sekcja przedstawia listę czarów druida. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
  <td>Profetyzm</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -4349,7 +4349,7 @@ Akcją Dodatkową możesz przesunąć ten Sześcian o maksymalnie 18 metrów na 
  <tbody>
  <tr>
  <td>Cecha podstawowa</td>
- <td>Siła or Zręczność</td>
+ <td>Siła lub Zręczność</td>
  </tr>
  <tr>
  <td>Kość wytrzymałości</td>
@@ -4361,7 +4361,7 @@ Akcją Dodatkową możesz przesunąć ten Sześcian o maksymalnie 18 metrów na 
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Wybierz 2: Akrobatyka, Opieka nad zwierzętami, Atletyka, Historia, Intuicja, Zastraszanie, Perswazja, Percepcja, or Sztuka przetrwania</td>
+ <td>Wybierz 2: Akrobatyka, Opieka nad zwierzętami, Atletyka, Historia, Intuicja, Zastraszanie, Perswazja, Percepcja lub Sztuka przetrwania</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
@@ -4382,13 +4382,13 @@ Akcją Dodatkową możesz przesunąć ten Sześcian o maksymalnie 18 metrów na 
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Fighter .
-• Zyskaj Fighter's level 1 features, które są wymienione w tabeli Cech Fighter.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy wojownika .
+• Zyskaj cechy wojownika 1. poziomu, które są wymienione w tabeli Cech wojownika.
 
 #### Jako postać wieloklasowa
 
 • Zyskaj następujące cechy z tabeli Podstawowe cechy wojownika: Kość wytrzymałości, biegłość w broni bojowej oraz wyszkolenie w lekkich i średnich pancerzach i tarczach.
-• Zyskaj Fighter's level 1 features, które są wymienione w tabeli Cech Fighter.
+• Zyskaj cechy wojownika 1. poziomu, które są wymienione w tabeli Cech wojownika.
 
 ### Cechy klasy wojownika
 
@@ -4399,151 +4399,151 @@ Jako wojownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych p
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Second Wind</th>
- <th>Weapon Mastery</th>
+ <th>Cechy klasy</th>
+ <th>Drugi oddech</th>
+ <th>Mistrzostwo broni</th>
  </tr>
  </thead>
  <tbody>
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Fighting Style, Second Wind, Weapon Mastery</td>
+ <td>Styl walki, Drugi oddech, Mistrzostwo broni</td>
  <td>2</td>
  <td>3</td>
  </tr>
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Action Surge (one use), Tactical Mind</td>
+ <td>Przypływ sił (jedno użycie), Taktyczny umysł</td>
  <td>2</td>
  <td>3</td>
  </tr>
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Fighter Subclass</td>
+ <td>Podklasa wojownika</td>
  <td>2</td>
  <td>3</td>
  </tr>
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>4</td>
  </tr>
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Extra Attack, Tactical Shift</td>
+ <td>Dodatkowy atak, Taktyczne przemieszczenie</td>
  <td>3</td>
  <td>4</td>
  </tr>
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>4</td>
  </tr>
  <tr>
  <td>7</td>
  <td>+3</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>3</td>
  <td>4</td>
  </tr>
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>4</td>
  </tr>
  <tr>
  <td>9</td>
  <td>+4</td>
- <td>Indomitable (one use), Tactical Master</td>
+ <td>Nieugięty (jedno użycie), Mistrz taktyki</td>
  <td>3</td>
  <td>4</td>
  </tr>
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>4</td>
  <td>5</td>
  </tr>
  <tr>
  <td>11</td>
  <td>+4</td>
- <td>Two Extra Attacks</td>
+ <td>Dwa dodatkowe ataki</td>
  <td>4</td>
  <td>5</td>
  </tr>
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>4</td>
  <td>5</td>
  </tr>
  <tr>
  <td>13</td>
  <td>+5</td>
- <td>Indomitable (two uses), Studied Attacks</td>
+ <td>Nieugięty (dwa użycia), Przemyślane ataki</td>
  <td>4</td>
  <td>5</td>
  </tr>
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>4</td>
  <td>5</td>
  </tr>
  <tr>
  <td>15</td>
  <td>+5</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>4</td>
  <td>5</td>
  </tr>
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>4</td>
  <td>6</td>
  </tr>
  <tr>
  <td>17</td>
  <td>+6</td>
- <td>Action Surge (two uses), Indomitable (three uses)</td>
+ <td>Przypływ sił (dwa użycia), Nieugięty (trzy użycia)</td>
  <td>4</td>
  <td>6</td>
  </tr>
  <tr>
  <td>18</td>
  <td>+6</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>4</td>
  <td>6</td>
  </tr>
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>4</td>
  <td>6</td>
  </tr>
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Three Extra Attacks</td>
+ <td>Trzy dodatkowe ataki</td>
  <td>4</td>
  <td>6</td>
  </tr>
@@ -4553,7 +4553,7 @@ Jako wojownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych p
 #### Poziom 1: Styl walki
 
 Zyskujesz atut do wyboru. Zamiast wybrać jeden z tych atutów, możesz wybrać opcję poniżej.
-@Embed[Compendium.dnd5e.classes24.Item.phbfstDruidicWar caption=false]
+@Embed[Compendium.dnd5e.classes24.Item.phbfstJęzyk druidycznyWar caption=false]
 
 #### Poziom 1: Drugi oddech
 
@@ -4618,7 +4618,7 @@ Możesz atakować cztery razy zamiast raz, gdy wykonujesz Akcję Atak w swojej t
 
 ### Podklasa wojownika: Czempion
 
-_Pursue Physical Excellence in Combat_
+_Dąż do fizycznej doskonałości w walce_
 
 Czempion koncentruje się na rozwijaniu biegłości bojowej w nieustannym dążeniu do zwycięstwa. Czempioni łączą wyczerpujący trening z doskonałością fizyczną, aby zadawać niszczycielskie ciosy, wytrzymywać niebezpieczeństwo i zdobywać chwałę. Czy to w zawodach atletycznych, czy we krwawej bitwie — czempioni dążą do korony zwycięzcy.
 
@@ -4670,19 +4670,19 @@ _Heroic Rally.._ Na początku każdej ze swoich tur odzyskujesz Punkty Wytrzyma�
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Wybierz 2: Akrobatyka, Atletyka, Historia, Intuicja, Religia, or Skradanie się</td>
+ <td>Wybierz 2: Akrobatyka, Atletyka, Historia, Intuicja, Religia lub Skradanie się</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
- <td>Broń prosta i Martial weapons that have the Light property</td>
+ <td>Broń prosta i bojowa z właściwością Lekka</td>
  </tr>
  <tr>
  <td>Biegłości w narzędziach</td>
- <td>Choose one type of Artisan's Tools or Musical Instrument (see Equipment)</td>
+ <td>Wybierz jeden rodzaj narzędzi rzemieślniczych lub instrumentu muzycznego (patrz rozdział „Wyposażenie”)</td>
  </tr>
  <tr>
  <td>Biegłość w pancerzu</td>
- <td>None</td>
+ <td>Brak</td>
  </tr>
  <tr>
  <td>Wyposażenie startowe</td>
@@ -4695,13 +4695,13 @@ _Heroic Rally.._ Na początku każdej ze swoich tur odzyskujesz Punkty Wytrzyma�
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Monk .
-• Zyskaj Monk's level 1 features, które są wymienione w tabeli Cech Monk.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy mnicha .
+• Zyskaj cechy mnicha 1. poziomu, które są wymienione w tabeli Cech mnicha.
 
 #### Jako postać wieloklasowa
 
-• Zyskaj Punkt Wytrzymałości Die trait from the Core Monk .
-• Zyskaj Monk's level 1 features, które są wymienione w tabeli Cech Monk.
+• Zyskaj kość wytrzymałości z tabeli Podstawowe cechy mnicha .
+• Zyskaj cechy mnicha 1. poziomu, które są wymienione w tabeli Cech mnicha.
 
 ### Cechy klasy mnicha
 
@@ -4712,19 +4712,19 @@ Jako mnicha zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Martial Arts</th>
- <th>Focus Points</th>
- <th>Unarmored Movement</th>
+ <th>Cechy klasy</th>
+ <th>Sztuki walki</th>
+ <th>Punkty skupienia</th>
+ <th>Szybkość mnicha</th>
  </tr>
  </thead>
  <tbody>
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Martial Arts, Unarmored Defense</td>
+ <td>Sztuki walki, Obrona bez pancerza</td>
  <td>1d6</td>
  <td>—</td>
  <td>—</td>
@@ -4732,154 +4732,154 @@ Jako mnicha zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Monk's Focus, Unarmored Movement, Uncanny Metabolism</td>
+ <td>Skupienie mnicha, Szybkość mnicha, Niesamowity metabolizm</td>
  <td>1d6</td>
  <td>2</td>
- <td>+10 ft.</td>
+ <td>+3 m.</td>
  </tr>
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Deflect Attacks, Monk Subclass</td>
+ <td>Odbijanie ataków, Podklasa mnicha</td>
  <td>1d6</td>
  <td>3</td>
- <td>+10 ft.</td>
+ <td>+3 m.</td>
  </tr>
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement, Slow Fall</td>
+ <td>Zwiększenie cechy, Powolny upadek</td>
  <td>1d6</td>
  <td>4</td>
- <td>+10 ft.</td>
+ <td>+3 m.</td>
  </tr>
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Extra Attack, Stunning Strike</td>
+ <td>Dodatkowy atak, Ogłuszający cios</td>
  <td>1d8</td>
  <td>5</td>
- <td>+10 ft.</td>
+ <td>+3 m.</td>
  </tr>
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Empowered Strikes, Subclass feature</td>
+ <td>Wzmocnione uderzenia, Cecha podklasy</td>
  <td>1d8</td>
  <td>6</td>
- <td>+15 ft.</td>
+ <td>+4,5 m.</td>
  </tr>
  <tr>
  <td>7</td>
  <td>+3</td>
- <td>Evasion</td>
+ <td>Odskok</td>
  <td>1d8</td>
  <td>7</td>
- <td>+15 ft.</td>
+ <td>+4,5 m.</td>
  </tr>
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>1d8</td>
  <td>8</td>
- <td>+15 ft.</td>
+ <td>+4,5 m.</td>
  </tr>
  <tr>
  <td>9</td>
  <td>+4</td>
- <td>Acrobatic Movement</td>
+ <td>Akrobatyczny ruch</td>
  <td>1d8</td>
  <td>9</td>
- <td>+15 ft.</td>
+ <td>+4,5 m.</td>
  </tr>
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Heightened Focus, Self-Restoration</td>
+ <td>Zwiększone skupienie, Samooczyszczenie</td>
  <td>1d8</td>
  <td>10</td>
- <td>+20 ft.</td>
+ <td>+6 m.</td>
  </tr>
  <tr>
  <td>11</td>
  <td>+4</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>1d10</td>
  <td>11</td>
- <td>+20 ft.</td>
+ <td>+6 m.</td>
  </tr>
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>1d10</td>
  <td>12</td>
- <td>+20 ft.</td>
+ <td>+6 m.</td>
  </tr>
  <tr>
  <td>13</td>
  <td>+5</td>
- <td>Deflect Energy</td>
+ <td>Odbijanie energii</td>
  <td>1d10</td>
  <td>13</td>
- <td>+20 ft.</td>
+ <td>+6 m.</td>
  </tr>
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Disciplined Survivor</td>
+ <td>Zdyscyplinowany ocalały</td>
  <td>1d10</td>
  <td>14</td>
- <td>+25 ft.</td>
+ <td>+7,5 m.</td>
  </tr>
  <tr>
  <td>15</td>
  <td>+5</td>
- <td>Perfect Focus</td>
+ <td>Doskonałe skupienie</td>
  <td>1d10</td>
  <td>15</td>
- <td>+25 ft.</td>
+ <td>+7,5 m.</td>
  </tr>
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>1d10</td>
  <td>16</td>
- <td>+25 ft.</td>
+ <td>+7,5 m.</td>
  </tr>
  <tr>
  <td>17</td>
  <td>+6</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>1d12</td>
  <td>17</td>
- <td>+25 ft.</td>
+ <td>+7,5 m.</td>
  </tr>
  <tr>
  <td>18</td>
  <td>+6</td>
- <td>Superior Defense</td>
+ <td>Pierwszorzędna obrona</td>
  <td>1d12</td>
  <td>18</td>
- <td>+30 ft.</td>
+ <td>+9 m.</td>
  </tr>
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>1d12</td>
  <td>19</td>
- <td>+30 ft.</td>
+ <td>+9 m.</td>
  </tr>
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Body i Mind</td>
+ <td>Ciało i umysł</td>
  <td>1d12</td>
  <td>20</td>
- <td>+30 ft.</td>
+ <td>+9 m.</td>
  </tr>
  </tbody>
 </table>
@@ -4970,11 +4970,11 @@ _Cierpliwa obrona.._ Gdy wydajesz Punkt Skupienia, aby użyć Cierpliwej obrony,
 
 _Krok w powietrzu.._ Gdy wydajesz Punkt Skupienia, aby użyć Kroku w powietrzu, możesz wybrać chętną istotę w odległości 1,5 metra od siebie, która jest Duża lub mniejsza. Przemieszczasz tę istotę razem z sobą do końca swojej tury. Jej ruch nie prowokuje Ataków Okazyjnych.
 
-#### Poziom 10: Self-Restoration
+#### Poziom 10: Samooczyszczenie
 
-Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned.
+Czystą siłą woli możesz usunąć z siebie jeden z następujących stanów na końcu każdej swojej tury: zauroczony, przestraszony lub zatruty.
 
-In addition, forgoing food i drink doesn't give you levels of Exhaustion.
+Dodatkowo rezygnacja z jedzenia i picia nie daje ci poziomów wyczerpania.
 
 #### Poziom 13: Odbijanie energii
 
@@ -5003,9 +5003,9 @@ Rozwinąłeś swoje ciało i umysł na nowe wyżyny. Twoje wartości Zręcznośc
 
 ### Podklasa mnicha: Wojownik Otwartej Dłoni
 
-_Master Unarmed Combat Techniques_
+_Opanuj techniki walki bez broni_
 
-Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push i trip their opponents i manipulate their own energy to protect themselves from harm.
+Wojownicy Otwartej Dłoni są mistrzami walki bez broni. Uczą się technik popychania i przewracania przeciwników oraz manipulowania własną energią, by chronić się przed krzywdą.
 
 #### Poziom 3: Technika otwartej dłoni
 
@@ -5050,7 +5050,7 @@ Możesz utrzymywać działanie tej zdolności tylko na jednym stworzeniu naraz. 
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Wybierz 2: Atletyka, Intuicja, Zastraszanie, Medycyna, Perswazja, or Religia</td>
+ <td>Wybierz 2: Atletyka, Intuicja, Zastraszanie, Medycyna, Perswazja lub Religia</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
@@ -5062,7 +5062,7 @@ Możesz utrzymywać działanie tej zdolności tylko na jednym stworzeniu naraz. 
  </tr>
  <tr>
  <td>Wyposażenie startowe</td>
- <td>Wybierz A lub B: (A) Kolczuga, Tarcza, Longsword, 6 oszczepy, Symbol wiary, Zestaw kapłana, i 9 sz; lub (B) 150 sz</td>
+ <td>Wybierz A lub B: (A) Kolczuga, Tarcza, Długi miecz, 6 oszczepy, Symbol wiary, Zestaw kapłana, i 9 sz; lub (B) 150 sz</td>
  </tr>
  </tbody>
 </table>
@@ -5071,15 +5071,15 @@ Możesz utrzymywać działanie tej zdolności tylko na jednym stworzeniu naraz. 
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Paladin .
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy paladyna .
 
-• Zyskaj Paladin's level 1 features, które są wymienione w tabeli Cech Paladin.
+• Zyskaj cechy paladyna 1. poziomu, które są wymienione w tabeli Cech paladyna.
 
 #### Jako postać wieloklasowa
 
 • Zyskaj następujące cechy z tabeli Podstawowe cechy paladyna: Kość wytrzymałości, biegłość w broni bojowej oraz wyszkolenie w lekkich i średnich pancerzach i tarczach.
 
-• Zyskaj Paladin's level 1 features, które są wymienione w tabeli Cech Paladin. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
+• Zyskaj cechy paladyna 1. poziomu, które są wymienione w tabeli Cech paladyna. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
 
 ### Cechy klasy paladyna
 
@@ -5090,12 +5090,12 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Channel Divinity</th>
- <th>Prepared Spells</th>
- <th colspan="5">——Spell Slots per Spell Level——</th>
+ <th>Cechy klasy</th>
+ <th>Akt wiary</th>
+ <th>Przygotowane czary</th>
+ <th colspan="5">——Komórki czarów na krąg czaru——</th>
  </tr>
  <tr>
  <th>
@@ -5119,7 +5119,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Lay On Hands, Spellcasting, Weapon Mastery</td>
+ <td>Nakładanie rąch, Rzucanie czarów, Mistrzostwo broni</td>
  <td>—</td>
  <td>2</td>
  <td>2</td>
@@ -5131,7 +5131,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Fighting Style, Paladin's Smite</td>
+ <td>Styl walki, Ugodzenie paladyna</td>
  <td>—</td>
  <td>3</td>
  <td>2</td>
@@ -5143,7 +5143,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Channel Divinity, Paladin Subclass</td>
+ <td>Akt wiary, Podklasa paladyna</td>
  <td>2</td>
  <td>4</td>
  <td>3</td>
@@ -5155,7 +5155,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>2</td>
  <td>5</td>
  <td>3</td>
@@ -5167,7 +5167,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Extra Attack, Faithful Steed</td>
+ <td>Dodatkowy atak, Wierny wierzchowiec</td>
  <td>2</td>
  <td>6</td>
  <td>4</td>
@@ -5179,7 +5179,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Aura of Protection</td>
+ <td>Aura ochrony</td>
  <td>2</td>
  <td>6</td>
  <td>4</td>
@@ -5191,7 +5191,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>7</td>
  <td>+3</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>2</td>
  <td>7</td>
  <td>4</td>
@@ -5203,7 +5203,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>2</td>
  <td>7</td>
  <td>4</td>
@@ -5215,7 +5215,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>9</td>
  <td>+4</td>
- <td>Abjure Foes</td>
+ <td>Odpędzenie wrogów</td>
  <td>2</td>
  <td>9</td>
  <td>4</td>
@@ -5227,7 +5227,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Aura of Courage</td>
+ <td>Aura odwagi</td>
  <td>2</td>
  <td>9</td>
  <td>4</td>
@@ -5239,7 +5239,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>11</td>
  <td>+4</td>
- <td>Radiant Strikes</td>
+ <td>Uderzenia światłości</td>
  <td>3</td>
  <td>10</td>
  <td>4</td>
@@ -5251,7 +5251,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>10</td>
  <td>4</td>
@@ -5275,7 +5275,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Restoring Touch</td>
+ <td>Przywracający dotyk</td>
  <td>3</td>
  <td>11</td>
  <td>4</td>
@@ -5287,7 +5287,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>15</td>
  <td>+5</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>3</td>
  <td>12</td>
  <td>4</td>
@@ -5299,7 +5299,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>12</td>
  <td>4</td>
@@ -5323,7 +5323,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>18</td>
  <td>+6</td>
- <td>Aura Expansion</td>
+ <td>Rozszerzenie aury</td>
  <td>3</td>
  <td>14</td>
  <td>4</td>
@@ -5335,7 +5335,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>3</td>
  <td>15</td>
  <td>4</td>
@@ -5347,7 +5347,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>3</td>
  <td>15</td>
  <td>4</td>
@@ -5389,17 +5389,17 @@ _Magiczny fokus. ._Możesz użyć Fokusu magii wtajemniczeń lub swojej księgi 
 
 _Komórki czarów._ Tabela Cech paladyna pokazuje, ile masz komórek czarów do rzucania czarów od 1. kręgu wzwyż. Odzyskujesz wszystkie zużyte komórki po zakończeniu długiego odpoczynku.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. _Heroism_ i _Searing Smite_ are recommended.
+_Przygotowane czary od 1. kręgu wzwyż._ Przygotowujesz listę czarów od 1. kręgu wzwyż, które możesz rzucić dzięki tej zdolności. Na początek wybierz dwa czary paladyna 1. kręgu. Zalecane są _Heroizm_ i _Palące ugodzenie_.
 
 Liczba czarów na twojej liście rośnie wraz z poziomami paladyna, zgodnie z kolumną Przygotowane czary w tabeli Cech paladyna. Gdy ta liczba wzrasta, wybierasz dodatkowe czary paladyna, aż liczba czarów na liście odpowiada wartości z tabeli. Wybrane czary muszą być z kręgu, do którego masz komórki czarów. Na przykład jako paladyn 5. poziomu możesz mieć na liście przygotowanych czarów sześć czarów paladyna 1. lub 2. kręgu w dowolnej kombinacji.
 
-If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
+Jeśli inna cecha paladyna daje ci czary, które zawsze masz przygotowane, te czary nie wliczają się do liczby czarów, które możesz przygotować dzięki tej zdolności, ale w pozostałych aspektach traktujesz je jak czary paladyna.
 
-**Changing Your Prepared Spells.** Whenever you finish a długi odpoczynek, you can replace one spell on your list with another Paladin spell for which you have spell slots.
+_Zmiana przygotowanych czarów._ Za każdym razem, gdy zakończysz długi odpoczynek, możesz zastąpić jeden czar na swojej liście innym czarem paladyna, dla którego masz komórki czarów.
 
-**Spellcasting Ability.** Charyzma is your spellcasting ability for your Paladin spells.
+_Cecha rzucania czarów._ Charyzma jest twoją cechą rzucania czarów dla czarów paladyna.
 
-**Spellcasting Focus.** You can use a Symbol wiary as a Spellcasting Focus for your Paladin spells.
+_Fokus rzucania czarów._ Możesz używać symbolu wiary jako fokusu rzucania czarów dla czarów paladyna.
 
 #### Poziom 1: Mistrzostwo broni
 
@@ -5409,7 +5409,7 @@ Za każdym razem, gdy kończysz długi odpoczynek, możesz zmienić rodzaje bron
 #### Poziom 2: Styl walki
 
 Zyskujesz atut do wyboru. Zamiast wybrać jeden z tych atutów, możesz wybrać opcję poniżej.
-@Embed[Compendium.dnd5e.classes24.Item.phbfstDruidicWar caption=false]
+@Embed[Compendium.dnd5e.classes24.Item.phbfstJęzyk druidycznyWar caption=false]
 
 #### Poziom 2: Ugodzenie paladyna
 
@@ -5478,9 +5478,9 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -5501,17 +5501,17 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
  </tr>
  <tr>
  <td>Wykrycie dobra i zła</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
  <td>Wykrycie magii</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
  <td>Wykrycie trucizny i choroby</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
@@ -5540,12 +5540,12 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
  <td>R</td>
  </tr>
  <tr>
- <td>Searing Smite</td>
+ <td>Palące ugodzenie</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
  <tr>
- <td>Tarcza of Faith</td>
+ <td>Tarcza wiary</td>
  <td>Odpychania</td>
  <td>C</td>
  </tr>
@@ -5557,9 +5557,9 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -5585,7 +5585,7 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
  </tr>
  <tr>
  <td>Odnalezienie obiektu</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -5604,7 +5604,7 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
  <td>—</td>
  </tr>
  <tr>
- <td>Shining Smite</td>
+ <td>Lśniące ugodzenie</td>
  <td>Przemian</td>
  <td>C</td>
  </tr>
@@ -5626,9 +5626,9 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -5670,14 +5670,14 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Aura of Life</td>
+ <td>Aura życia</td>
  <td>Odpychania</td>
  <td>C</td>
  </tr>
@@ -5693,7 +5693,7 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
  </tr>
  <tr>
  <td>Odnalezienie istoty</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  </tbody>
@@ -5704,9 +5704,9 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -5735,17 +5735,17 @@ Ta sekcja przedstawia listę czarów paladyna. Czary są uporządkowane według 
 
 ### Podklasa paladyna: Przysięga Gorliwości
 
-_Uphold the Ideals of Justice i Order_
+_Podtrzymuj ideały sprawiedliwości i porządku_
 
 Przysięga Gorliwości wiąże paladynów z ideałami sprawiedliwości i porządku. Ci paladyni uosabiają archetyp rycerza w lśniącej zbroi. Stawiają sobie najwyższe standardy postępowania, a niektórzy — na lepsze lub gorsze — mierzą nimi resztę świata.
 
-Many who swear this oath are devoted to gods of law i good i use their gods' tenets as the measure of personal devotion. Others hold angels as their ideals i incorporate images of angelic wings into their helmets or coats of arms.
+Wielu, którzy składają tę przysięgę, jest oddanych bogom prawa i dobra i mierzy osobistą pobożność wiernością ich zasadom. Inni wzorują się na aniołach i umieszczają wizerunki anielskich skrzydeł na hełmach lub herbach.
 
-These paladins share the following tenets:
+Ci paladyni kierują się następującymi zasadami:
 
-- Let your word be your promise.
-- Protect the weak i never fear to act.
-- Let your honorable deeds be an example.
+- Niech twoje słowo będzie obietnicą.
+- Chroń słabych i nigdy nie lękaj się działać.
+- Niech twoje honorowe czyny będą przykładem.
 
 #### Poziom 3: Czary Przysięgi Gorliwości
 
@@ -5794,7 +5794,7 @@ _Światło słoneczne.._ Aura wypełnia się Jasnym Światłem będącym świat�
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Wybierz 3: Opieka nad zwierzętami, Atletyka, Intuicja, Śledztwo, Natura, Percepcja, Skradanie się, or Sztuka przetrwania</td>
+ <td>Wybierz 3: Opieka nad zwierzętami, Atletyka, Intuicja, Śledztwo, Natura, Percepcja, Skradanie się lub Sztuka przetrwania</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
@@ -5806,7 +5806,7 @@ _Światło słoneczne.._ Aura wypełnia się Jasnym Światłem będącym świat�
  </tr>
  <tr>
  <td>Wyposażenie startowe</td>
- <td>Wybierz A lub B: (A) Kolczuga, Sejmitar, Miecz krótki, Długi łuk, 20 strzały, Kołczan, Druidic Focus (sprig of mistletoe), Zestaw odkrywcy, i 7 sz; lub (B) 150 sz</td>
+ <td>Wybierz A lub B: (A) Kolczuga, Sejmitar, Miecz krótki, Długi łuk, 20 strzały, Kołczan, Druidzki fokus (gałązka jemioły), Zestaw odkrywcy, i 7 sz; lub (B) 150 sz</td>
  </tr>
  </tbody>
 </table>
@@ -5815,13 +5815,13 @@ _Światło słoneczne.._ Aura wypełnia się Jasnym Światłem będącym świat�
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Ranger .
-• Zyskaj Ranger's level 1 features, które są wymienione w tabeli Cech Ranger.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy łowcy .
+• Zyskaj cechy łowcy 1. poziomu, które są wymienione w tabeli Cech łowcy.
 
 #### Jako postać wieloklasowa
 
 • Zyskaj następujące cechy z tabeli Podstawowe cechy łowcy: Kość wytrzymałości, biegłość w broni bojowej, biegłość w jednej umiejętności do wyboru z listy umiejętności łowcy oraz wyszkolenie w lekkich i średnich pancerzach i tarczach.
-• Zyskaj Ranger's level 1 features, które są wymienione w tabeli Cech Ranger. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
+• Zyskaj cechy łowcy 1. poziomu, które są wymienione w tabeli Cech łowcy. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
 
 ### Cechy klasy łowcy
 
@@ -5832,12 +5832,12 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Favored Enemy</th>
- <th>Prepared Spells</th>
- <th colspan="5">——Spell Slots per Spell Level——</th>
+ <th>Cechy klasy</th>
+ <th>Ulubiony wróg</th>
+ <th>Przygotowane czary</th>
+ <th colspan="5">——Komórki czarów na krąg czaru——</th>
  </tr>
  <tr>
  <th>
@@ -5861,7 +5861,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Spellcasting, Favored Enemy, Weapon Mastery</td>
+ <td>Rzucanie czarów, Ulubiony wróg, Mistrzostwo broni</td>
  <td>2</td>
  <td>2</td>
  <td>2</td>
@@ -5873,7 +5873,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Deft Explorer, Fighting Style</td>
+ <td>Zręczny odkrywca, Styl walki</td>
  <td>2</td>
  <td>3</td>
  <td>2</td>
@@ -5885,7 +5885,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Ranger Subclass</td>
+ <td>Podklasa łowcy</td>
  <td>2</td>
  <td>4</td>
  <td>3</td>
@@ -5897,7 +5897,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>2</td>
  <td>5</td>
  <td>3</td>
@@ -5909,7 +5909,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Extra Attack</td>
+ <td>Dodatkowy atak</td>
  <td>3</td>
  <td>6</td>
  <td>4</td>
@@ -5921,7 +5921,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Roving</td>
+ <td>Traper</td>
  <td>3</td>
  <td>6</td>
  <td>4</td>
@@ -5933,7 +5933,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>7</td>
  <td>+3</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>3</td>
  <td>7</td>
  <td>4</td>
@@ -5945,7 +5945,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>7</td>
  <td>4</td>
@@ -5957,7 +5957,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>9</td>
  <td>+4</td>
- <td>Expertise</td>
+ <td>Znawstwo</td>
  <td>4</td>
  <td>9</td>
  <td>4</td>
@@ -5969,7 +5969,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Tireless</td>
+ <td>Niestrudzony</td>
  <td>4</td>
  <td>9</td>
  <td>4</td>
@@ -5981,7 +5981,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>11</td>
  <td>+4</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>4</td>
  <td>10</td>
  <td>4</td>
@@ -5993,7 +5993,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>4</td>
  <td>10</td>
  <td>4</td>
@@ -6005,7 +6005,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>13</td>
  <td>+5</td>
- <td>Relentless Hunter</td>
+ <td>Nieustępliwy łowca</td>
  <td>5</td>
  <td>11</td>
  <td>4</td>
@@ -6029,7 +6029,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>15</td>
  <td>+5</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>5</td>
  <td>12</td>
  <td>4</td>
@@ -6041,7 +6041,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>5</td>
  <td>12</td>
  <td>4</td>
@@ -6053,7 +6053,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>17</td>
  <td>+6</td>
- <td>Precise Hunter</td>
+ <td>Precyzyjny łowca</td>
  <td>6</td>
  <td>14</td>
  <td>4</td>
@@ -6065,7 +6065,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>18</td>
  <td>+6</td>
- <td>Feral Senses</td>
+ <td>Zwierzęce zmysły</td>
  <td>6</td>
  <td>14</td>
  <td>4</td>
@@ -6077,7 +6077,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>6</td>
  <td>15</td>
  <td>4</td>
@@ -6089,7 +6089,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Foe Slayer</td>
+ <td>Pogromca wrogów</td>
  <td>6</td>
  <td>15</td>
  <td>4</td>
@@ -6143,7 +6143,7 @@ _Języki.._ Znasz dwa języki do wyboru z tabeli języków w rozdziale 2.
 #### Poziom 2: Styl walki
 
 Zyskujesz atut do wyboru. Zamiast wybrać jeden z tych atutów, możesz wybrać opcję poniżej.
-@Embed[Compendium.dnd5e.classes24.Item.phbfstDruidicWar caption=false]
+@Embed[Compendium.dnd5e.classes24.Item.phbfstJęzyk druidycznyWar caption=false]
 
 #### Poziom 3: Podklasa łowcy
 
@@ -6206,9 +6206,9 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -6229,16 +6229,16 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Wykrycie magii</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
  <td>Wykrycie trucizny i choroby</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
- <td>Ensnaring Strike</td>
+ <td>Pętające uderzenie</td>
  <td>Przywoływania</td>
  <td>C</td>
  </tr>
@@ -6259,7 +6259,7 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Znak łowcy</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -6274,7 +6274,7 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Rozmawianie ze zwierzętami</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  </tbody>
@@ -6285,9 +6285,9 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -6318,7 +6318,7 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Wykrycie pułapek</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -6333,12 +6333,12 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Odnalezienie zwierząt lub roślin</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
  <td>Odnalezienie obiektu</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -6374,9 +6374,9 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -6448,9 +6448,9 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -6471,7 +6471,7 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
  </tr>
  <tr>
  <td>Odnalezienie istoty</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -6487,15 +6487,15 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Commune with Natura</td>
- <td>Wieszczenia</td>
+ <td>Kontakt z naturą</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
@@ -6513,13 +6513,13 @@ Ta sekcja przedstawia listę czarów łowcy. Czary są uporządkowane według kr
 
 ### Podklasa łowcy: Myśliwy
 
-_Protect Natura i People from Destruction_
+_Chroń naturę i ludzi przed zniszczeniem_
 
-You stalk prey in the wilds i elsewhere, using your abilities as a Hunter to protect nature i people everywhere from forces that would destroy them.
+Tropisz zdobycz na dziczy i gdzie indziej, wykorzystując zdolności myśliwego, by chronić naturę i ludzi przed siłami, które chcą je zniszczyć.
 
 #### Poziom 3: Wiedza myśliwego
 
-Możesz wezwać siły natury, aby ujawnić pewne mocne i słabe strony swojej ofiary. Kiedy istota jest oznaczona twoim Hunter’s Mark, wiesz, czy ta istota ma jakiekolwiek Niewrażliwości, Odporności lub Podatności, a jeśli je ma, wiesz, jakie to są.
+Możesz wezwać siły natury, aby ujawnić pewne mocne i słabe strony swojej ofiary. Kiedy istota jest oznaczona twoim Znakiem Łowcy, wiesz, czy ta istota ma jakiekolwiek Niewrażliwości, Odporności lub Podatności, a jeśli je ma, wiesz, jakie to są.
 
 #### Poziom 3: Zdobycz myśliwego
 
@@ -6537,7 +6537,7 @@ _Defensywa przed Wielokrotnym atakiem.._ Gdy istota trafi Cię testem ataku, ta 
 
 #### Poziom 11: Zdobycz nadzwyczajnego myśliwego
 
-Raz na turę, kiedy zadasz obrażenia istocie oznaczonej twoim Hunter’s Mark, możesz także zadać dodatkowe obrażenia tego czaru innej istocie, którą widzisz w promieniu 9 metrów od pierwszej istoty.
+Raz na turę, kiedy zadasz obrażenia istocie oznaczonej twoim Znakiem Łowcy, możesz także zadać dodatkowe obrażenia tego czaru innej istocie, którą widzisz w promieniu 9 metrów od pierwszej istoty.
 
 #### Poziom 15: Obrona nadzwyczajnego myśliwego
 
@@ -6563,15 +6563,15 @@ Kiedy otrzymujesz obrażenia, możesz wykorzystać Reakcję, aby nadać sobie Od
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Choose 4: Akrobatyka, Atletyka, Oszustwo, Intuicja, Zastraszanie, Śledztwo, Percepcja, Perswazja, Sleight of Hand, or Skradanie się</td>
+ <td>Wybierz 4: Akrobatyka, Atletyka, Oszustwo, Intuicja, Zastraszanie, Śledztwo, Percepcja, Perswazja, Zwinne dłonie lub Skradanie się</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
- <td>Broń prosta i Martial weapons that have the Finesse or Light property</td>
+ <td>Broń prosta i bojowa z właściwością Zwinna lub Lekka</td>
  </tr>
  <tr>
  <td>Biegłości w narzędziach</td>
- <td>Thieves' Tools</td>
+ <td>Narzędzia złodziejskie</td>
  </tr>
  <tr>
  <td>Biegłość w pancerzu</td>
@@ -6579,7 +6579,7 @@ Kiedy otrzymujesz obrażenia, możesz wykorzystać Reakcję, aby nadać sobie Od
  </tr>
  <tr>
  <td>Wyposażenie startowe</td>
- <td>Wybierz A lub B: (A) Skórzany pancerz, 2 sztylety, Miecz krótki, Shortbow, 20 strzały, Kołczan, Thieves' Tools, Burglar's Pack, i 8 sz; lub (B) 100 sz</td>
+ <td>Wybierz A lub B: (A) Skórzany pancerz, 2 sztylety, Miecz krótki, Krótki łuk, 20 strzały, Kołczan, Narzędzia złodziejskie, Zestaw włamywacza, i 8 sz; lub (B) 100 sz</td>
  </tr>
  </tbody>
 </table>
@@ -6588,13 +6588,13 @@ Kiedy otrzymujesz obrażenia, możesz wykorzystać Reakcję, aby nadać sobie Od
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Rogue .
-• Zyskaj Rogue's level 1 features, które są wymienione w tabeli Cech Rogue.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy łotra .
+• Zyskaj cechy łotra 1. poziomu, które są wymienione w tabeli Cech łotra.
 
 #### Jako postać wieloklasowa
 
 • Zyskaj następujące cechy z tabeli Podstawowe cechy łotra: Kość wytrzymałości, biegłość w jednej umiejętności do wyboru z listy umiejętności łotra, biegłość w narzędziach złodzieja oraz wyszkolenie w lekkich pancerzach.
-• Zyskaj Rogue's level 1 features, które są wymienione w tabeli Cech Rogue.
+• Zyskaj cechy łotra 1. poziomu, które są wymienione w tabeli Cech łotra.
 
 ### Cechy klasy łotra
 
@@ -6605,131 +6605,131 @@ Jako łotra zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Sneak Attack</th>
+ <th>Cechy klasy</th>
+ <th>Ukradkowy atak</th>
  </tr>
  </thead>
  <tbody>
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery</td>
+ <td>Znawstwo, Ukradkowy atak, Grypsera, Mistrzostwo broni</td>
  <td>1d6</td>
  </tr>
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Cunning Action</td>
+ <td>Chytre zagranie</td>
  <td>1d6</td>
  </tr>
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Rogue Subclass, Steady Aim</td>
+ <td>Podklasa łotra, Stabilne celowanie</td>
  <td>2d6</td>
  </tr>
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>2d6</td>
  </tr>
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Cunning Strike, Uncanny Dodge</td>
+ <td>Chytre uderzenie, Niesamowity unik</td>
  <td>3d6</td>
  </tr>
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Expertise</td>
+ <td>Znawstwo</td>
  <td>3d6</td>
  </tr>
  <tr>
  <td>7</td>
  <td>+3</td>
- <td>Evasion, Reliable Talent</td>
+ <td>Odskok, Niezawodny talent</td>
  <td>4d6</td>
  </tr>
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>4d6</td>
  </tr>
  <tr>
  <td>9</td>
  <td>+4</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>5d6</td>
  </tr>
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>5d6</td>
  </tr>
  <tr>
  <td>11</td>
  <td>+4</td>
- <td>Improved Cunning Strike</td>
+ <td>Ulepszone chytre uderzenie</td>
  <td>6d6</td>
  </tr>
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>6d6</td>
  </tr>
  <tr>
  <td>13</td>
  <td>+5</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>7d6</td>
  </tr>
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Devious Strikes</td>
+ <td>Przebiegłe uderzenie</td>
  <td>7d6</td>
  </tr>
  <tr>
  <td>15</td>
  <td>+5</td>
- <td>Slippery Mind</td>
+ <td>Śliski umysł</td>
  <td>8d6</td>
  </tr>
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>8d6</td>
  </tr>
  <tr>
  <td>17</td>
  <td>+6</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>9d6</td>
  </tr>
  <tr>
  <td>18</td>
  <td>+6</td>
- <td>Elusive</td>
+ <td>Nieuchwytność</td>
  <td>9d6</td>
  </tr>
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>10d6</td>
  </tr>
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Stroke of Luck</td>
+ <td>Łut szczęścia</td>
  <td>10d6</td>
  </tr>
  </tbody>
@@ -6826,7 +6826,7 @@ Po użyciu tej zdolności nie możesz jej ponownie użyć, dopóki nie zakończy
 
 ### Podklasa łotra: Złodziej
 
-_Hunt for Treasure as a Classic Adventurer_
+_Poluj na skarby jak klasyczny poszukiwacz przygód_
 
 Łącząc cechy włamywacza, poszukiwacza skarbów i odkrywcy, jesteś uosobieniem poszukiwacza przygód. Oprócz doskonalenia zwinności i skradania się zyskujesz zdolności przydatne przy eksploracji ruin i maksymalnym wykorzystaniu znalezionych magicznych przedmiotów.
 
@@ -6882,7 +6882,7 @@ Jesteś biegły w przygotowywaniu zasadzek i szybkim uchodzeniu z niebezpieczeń
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Wybierz 2: Wiedza tajemna, Oszustwo, Intuicja, Zastraszanie, Perswazja, or Religia</td>
+ <td>Wybierz 2: Wiedza tajemna, Oszustwo, Intuicja, Zastraszanie, Perswazja lub Religia</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
@@ -6890,11 +6890,11 @@ Jesteś biegły w przygotowywaniu zasadzek i szybkim uchodzeniu z niebezpieczeń
  </tr>
  <tr>
  <td>Biegłość w pancerzu</td>
- <td>None</td>
+ <td>Brak</td>
  </tr>
  <tr>
  <td>Wyposażenie startowe</td>
- <td>Wybierz A lub B: (A) Spear, 2 Sztylety, Arcane Focus (crystal), Zestaw poszukiwacza przygód, i 28 sz; lub (B) 50 sz</td>
+ <td>Wybierz A lub B: (A) Włócznia, 2 Sztylety, Fokus magii wtajemniczeń (kryształ), Zestaw poszukiwacza przygód, i 28 sz; lub (B) 50 sz</td>
  </tr>
  </tbody>
 </table>
@@ -6903,13 +6903,13 @@ Jesteś biegły w przygotowywaniu zasadzek i szybkim uchodzeniu z niebezpieczeń
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Sorcerer .
-• Zyskaj Sorcerer's level 1 features, które są wymienione w tabeli Cech Sorcerer.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy czarnoksiężnika .
+• Zyskaj cechy czarnoksiężnika 1. poziomu, które są wymienione w tabeli Cech czarnoksiężnika.
 
 #### Jako postać wieloklasowa
 
-• Zyskaj Punkt Wytrzymałości Die from the Core Sorcerer .
-• Zyskaj Sorcerer's level 1 features, które są wymienione w tabeli Cech Sorcerer. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
+• Zyskaj kość wytrzymałości z tabeli Podstawowe cechy czarnoksiężnika.
+• Zyskaj cechy czarnoksiężnika 1. poziomu, które są wymienione w tabeli Cech czarnoksiężnika. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
 
 ### Cechy klasy czarnoksiężnika
 
@@ -6920,13 +6920,13 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Sorcery Points</th>
- <th>Cantrips</th>
- <th>Prepared Spells</th>
- <th colspan="9">——Spell Slots per Spell Level——</th>
+ <th>Cechy klasy</th>
+ <th>Punkty zaklinania</th>
+ <th>Sztuczki</th>
+ <th>Przygotowane czary</th>
+ <th colspan="9">——Komórki czarów na krąg czaru——</th>
  </tr>
  <tr>
  <th>
@@ -6956,7 +6956,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Spellcasting, Innate Sorcery</td>
+ <td>Rzucanie czarów, Wrodzona magia</td>
  <td>—</td>
  <td>4</td>
  <td>2</td>
@@ -6973,7 +6973,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Font of Magic, Metamagic</td>
+ <td>Źródło magii, Metamagia</td>
  <td>2</td>
  <td>4</td>
  <td>4</td>
@@ -6990,7 +6990,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Sorcerer Subclass</td>
+ <td>Podklasa czarnoksiężnika</td>
  <td>3</td>
  <td>4</td>
  <td>6</td>
@@ -7007,7 +7007,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>4</td>
  <td>5</td>
  <td>7</td>
@@ -7024,7 +7024,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Sorcerous Restoration</td>
+ <td>Przywrócenie mocy</td>
  <td>5</td>
  <td>5</td>
  <td>9</td>
@@ -7041,7 +7041,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>6</td>
  <td>5</td>
  <td>10</td>
@@ -7058,7 +7058,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>7</td>
  <td>+3</td>
- <td>Sorcery Incarnate</td>
+ <td>Ucieleśnienie magii</td>
  <td>7</td>
  <td>5</td>
  <td>11</td>
@@ -7075,7 +7075,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>8</td>
  <td>5</td>
  <td>12</td>
@@ -7109,7 +7109,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Metamagic</td>
+ <td>Metamagia</td>
  <td>10</td>
  <td>6</td>
  <td>15</td>
@@ -7143,7 +7143,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>12</td>
  <td>6</td>
  <td>16</td>
@@ -7177,7 +7177,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>14</td>
  <td>6</td>
  <td>17</td>
@@ -7211,7 +7211,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>16</td>
  <td>6</td>
  <td>18</td>
@@ -7228,7 +7228,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>17</td>
  <td>+6</td>
- <td>Metamagic</td>
+ <td>Metamagia</td>
  <td>17</td>
  <td>6</td>
  <td>19</td>
@@ -7245,7 +7245,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>18</td>
  <td>+6</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>18</td>
  <td>6</td>
  <td>20</td>
@@ -7262,7 +7262,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>19</td>
  <td>6</td>
  <td>21</td>
@@ -7279,7 +7279,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Arcane Apotheosis</td>
+ <td>Tajemna apoteoza</td>
  <td>20</td>
  <td>6</td>
  <td>22</td>
@@ -7367,74 +7367,73 @@ Zyskujesz atut lub inny atut do wyboru, który spełnia wymagania. jest zalecany
 
 Gdy twoja Wrodzona magia jest aktywna, możesz raz w każdej swojej turze użyć jednej opcji Metamagii bez wydawania na nią Punktów zaklinania.
 
-### Metamagic Options
+### Opcje metamagii
 
-The following options are available to your Metamagic feature. The options are presented in alphabetical order.
+Poniższe opcje są dostępne dla twojej cechy Metamagia. Opcje są przedstawione w kolejności alfabetycznej.
 
-#### Careful Spell
+#### Ostrożny czar
 
-_Cost: 1 Sorcery Point_
+_Koszt: 1 punkt zaklinania_
 
-Gdy rzucasz czar zmuszający inne istoty do rzutu obronnego, możesz chronić niektóre z nich przed pełnią mocy czaru. Aby to zrobić, wydaj 1 Punkt czarodziejski i wybierz liczbę tych istot równą twojemu modyfikatorowi z Charyzmy (minimum jedną). Wybrana istota automatycznie odnosi sukces w rzucie obronnym przeciwko czarowi, a
-it takes no damage if it would normally take half damage on a successful save.
+Gdy rzucasz czar zmuszający inne istoty do rzutu obronnego, możesz chronić niektóre z nich przed pełnią mocy czaru. Aby to zrobić, wydaj 1 Punkt czarodziejski i wybierz liczbę tych istot równą twojemu modyfikatorowi z Charyzmy (minimum jedną). Wybrana istota automatycznie odnosi sukces w rzucie obronnym przeciwko czarowi i nie otrzymuje żadnych obrażeń, jeśli normalnie otrzymywałaby połowę obrażeń przy udanym rzucie.
 
-#### Distant Spell
+#### Daleki czar
 
-_Cost: 1 Sorcery Point_
+_Koszt: 1 punkt zaklinania_
 
 Gdy rzucasz czar o zasięgu co najmniej 1,5 metra, możesz wydać 1 Punkt czarodziejski, aby podwoić zasięg czaru. Albo gdy rzucasz czar o zasięgu Dotyk, możesz wydać 1 Punkt czarodziejski, aby zasięg czaru wyniósł 9 metrów.
 
-#### Empowered Spell
+#### Wzmocniony czar
 
-_Cost: 1 Sorcery Point_
+_Koszt: 1 punkt zaklinania_
 
 Gdy rzucasz na obrażenia czarem, możesz wydać 1 Punkt czarodziejski, aby przerzucić liczbę kości obrażeń równą twojemu modyfikatorowi z Charyzmy (minimum jedną), i musisz użyć nowych wyników.
 
-You can use Empowered Spell even if you've already used a different Metamagic option during the casting of the spell.
+Możesz użyć Wzmocnionego czaru nawet jeśli podczas rzucania tego czaru skorzystałeś już z innej opcji metamagii.
 
-#### Extended Spell
+#### Przedłużony czar
 
-_Cost: 1 Sorcery Point_
+_Koszt: 1 punkt zaklinania_
 
 Gdy rzucasz czar o czasie trwania 1 minuty lub dłuższym, możesz wydać 1 Punkt czarodziejski, aby podwoić jego czas trwania, maksymalnie do 24 godzin.
 
-If the affected spell requires Concentration, you have ułatwienie on any saving throw you make to maintain that Concentration.
+Jeśli dotknięty czar wymaga koncentracji, masz ułatwienie przy wszystkich rzutach obronnych, które wykonujesz, aby utrzymać tę koncentrację.
 
-#### Heightened Spell
+#### Wzmożony czar
 
-_Cost: 2 Sorcery Points_
+_Koszt: 2 punkty zaklinania_
 
 Gdy rzucasz czar zmuszający istotę do rzutu obronnego, możesz wydać 2 Punkty czarodziejskie, aby nadać jednemu celowi czaru utrudnienie w rzutach obronnych przeciwko temu czarowi.
 
-#### Quickened Spell
+#### Przyspieszony czar
 
-_Cost: 2 Sorcery Points_
+_Koszt: 2 punkty zaklinania_
 
 Gdy rzucasz czar o czasie rzucania równym akcji, możesz wydać 2 Punkty czarodziejskie, aby zmienić czas rzucania na akcję dodatkową przy tym rzuceniu. Nie możesz zmodyfikować czaru w ten sposób, jeśli w tej turze już rzuciłeś czar od 1. kręgu wzwyż, ani nie możesz rzucić czaru od 1. kręgu wzwyż w tej turze po zmodyfikowaniu czaru w ten sposób.
 
-#### Seeking Spell
+#### Poszukujący czar
 
-_Cost: 1 Sorcery Point_
+_Koszt: 1 punkt zaklinania_
 
-If you make an attack roll for a spell i miss, you can spend 1 Sorcery Point to reroll the d20, i you must use the new roll.
+Jeśli wykonujesz test ataku czarem i chybisz, możesz wydać 1 punkt zaklinania, aby przerzucić k20, i musisz użyć nowego wyniku.
 
-You can use Seeking Spell even if you've already used a different Metamagic option during the casting of the spell.
+Możesz użyć Poszukującego czaru nawet jeśli podczas rzucania tego czaru skorzystałeś już z innej opcji metamagii.
 
-#### Subtle Spell
+#### Subtelny czar
 
-_Cost: 1 Sorcery Point_
+_Koszt: 1 punkt zaklinania_
 
 Gdy rzucasz czar, możesz wydać 1 Punkt czarodziejski, aby rzucić go bez komponentów werbalnych, somatycznych i materialnych, z wyjątkiem komponentów materialnych zużywanych przez czar lub mających określony koszt w opisie czaru.
 
-#### Transmuted Spell
+#### Przekształcony czar
 
-_Cost: 1 Sorcery Point_
+_Koszt: 1 punkt zaklinania_
 
 Gdy rzucasz czar zadający obrażenia typu z poniższej listy, możesz wydać 1 Punkt czarodziejski, aby zmienić ten typ obrażeń na inny z wymienionych: kwas, zimno, ogień, elektryczność, trucizna, grzmot.
 
-#### Twinned Spell
+#### Podwojony czar
 
-_Cost: 1 Sorcery Point_
+_Koszt: 1 punkt zaklinania_
 
 Gdy rzucasz czar, taki jak _Zauroczenie osoby_, który można rzucić wyższą komórką czaru, aby ukierunkować go na dodatkową istotę, możesz wydać 1 Punkt czarodziejski, aby zwiększyć efektywny krąg czaru o 1.
 
@@ -7447,9 +7446,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -7469,7 +7468,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>C</td>
  </tr>
  <tr>
- <td>Elementalism</td>
+ <td>Żywiołomagia</td>
  <td>Przemian</td>
  <td>—</td>
  </tr>
@@ -7524,13 +7523,13 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>—</td>
  </tr>
  <tr>
- <td>Sorcerous Burst</td>
+ <td>Czarodziejski wybuch</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
  <tr>
  <td>Prawdziwe uderzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  </tbody>
@@ -7541,9 +7540,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -7558,7 +7557,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>—</td>
  </tr>
  <tr>
- <td>Chromatic Orb</td>
+ <td>Barwna kula</td>
  <td>Wywoływania</td>
  <td>M</td>
  </tr>
@@ -7569,12 +7568,12 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tr>
  <tr>
  <td>Rozumienie języków</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
  <td>Wykrycie magii</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
@@ -7608,7 +7607,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>—</td>
  </tr>
  <tr>
- <td>Ice Knife</td>
+ <td>Lodowy nóż</td>
  <td>Przywoływania</td>
  <td>—</td>
  </tr>
@@ -7623,12 +7622,12 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>—</td>
  </tr>
  <tr>
- <td>Magiczny Pocisk</td>
+ <td>Magiczny pocisk</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
  <tr>
- <td>Ray of Sickness</td>
+ <td>Promień zatrucia</td>
  <td>Nekromancji</td>
  <td>—</td>
  </tr>
@@ -7660,9 +7659,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -7682,7 +7681,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>C</td>
  </tr>
  <tr>
- <td>Ciemność.</td>
+ <td>Ciemność</td>
  <td>Wywoływania</td>
  <td>C</td>
  </tr>
@@ -7693,11 +7692,11 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tr>
  <tr>
  <td>Wykrycie myśli</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
- <td>Dragon's Breath</td>
+ <td>Oddech smoka</td>
  <td>Przemian</td>
  <td>C</td>
  </tr>
@@ -7768,7 +7767,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tr>
  <tr>
  <td>Widzenie niewidzialnego</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -7799,9 +7798,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -7812,7 +7811,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tr>
  <tr>
  <td>Jasnowidzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -7881,7 +7880,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>C</td>
  </tr>
  <tr>
- <td>Wolno</td>
+ <td>Spowolnienie</td>
  <td>Przemian</td>
  <td>C</td>
  </tr>
@@ -7892,7 +7891,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tr>
  <tr>
  <td>Języki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -7918,9 +7917,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -7935,7 +7934,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>—</td>
  </tr>
  <tr>
- <td>Charm Monster</td>
+ <td>Zauroczenie potwora</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -7980,7 +7979,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>C, M</td>
  </tr>
  <tr>
- <td>Vitriolic Sphere</td>
+ <td>Kwasowa sfera</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
@@ -7997,19 +7996,19 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Animowanie obiektu</td>
+ <td>Animowanie obiektów</td>
  <td>Przemian</td>
  <td>C</td>
  </tr>
  <tr>
- <td>Wielka magiczna dłoń</td>
+ <td>Dłoń Bigby’ego</td>
  <td>Wywoływania</td>
  <td>C</td>
  </tr>
@@ -8024,7 +8023,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>—</td>
  </tr>
  <tr>
- <td>Tworzenie</td>
+ <td>Cieniste formowanie</td>
  <td>Iluzji</td>
  <td>—</td>
  </tr>
@@ -8054,7 +8053,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>C</td>
  </tr>
  <tr>
- <td>Krąg teleportacji</td>
+ <td>Krąg teleportacyjny</td>
  <td>Przywoływania</td>
  <td>M</td>
  </tr>
@@ -8071,9 +8070,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -8103,7 +8102,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  <td>C</td>
  </tr>
  <tr>
- <td>Mrożąca sfera</td>
+ <td>Mrożąca sfera Otiluke’a</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
@@ -8129,7 +8128,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tr>
  <tr>
  <td>Prawdziwe widzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>M</td>
  </tr>
  </tbody>
@@ -8140,9 +8139,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -8194,9 +8193,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -8238,9 +8237,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -8274,9 +8273,9 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
 
 ### Podklasa czarnoksiężnika: Magia smoka
 
-_Breathe the Magic of Dragons_
+_Oddychaj magią smoków_
 
-Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons' power. Or perhaps you handled a treasure taken from a dragon's hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
+Twoja wrodzona magia pochodzi z daru smoka. Być może starożytny smok stający w obliczu śmierci przekazał część swojej mocy tobie lub twojemu przodkowi. Możliwe, że wchłonąłeś magię z miejsca przesiąkniętego mocą smoków, trzymałeś skarb ze smoczego skarbca nasączony smoczą mocą albo masz smoka wśród przodków.
 
 #### Poziom 3: Smocza odporność
 
@@ -8322,7 +8321,7 @@ Zawsze gdy rozpoczynasz rzucanie tego czaru, możesz go zmodyfikować, aby nie w
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Wybierz 2: Wiedza tajemna, Oszustwo, Historia, Zastraszanie, Śledztwo, Natura, or Religia</td>
+ <td>Wybierz 2: Wiedza tajemna, Oszustwo, Historia, Zastraszanie, Śledztwo, Natura lub Religia</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
@@ -8334,7 +8333,7 @@ Zawsze gdy rozpoczynasz rzucanie tego czaru, możesz go zmodyfikować, aby nie w
  </tr>
  <tr>
  <td>Wyposażenie startowe</td>
- <td>Wybierz A lub B: (A) Skórzany pancerz, Sierp, 2 Sztylety, Arcane Focus (orb), Book (occult lore), Scholar's Pack, i 15 sz; lub (B) 100 sz</td>
+ <td>Wybierz A lub B: (A) Skórzany pancerz, Sierp, 2 Sztylety, Fokus magii wtajemniczeń (kula), Księga (wiedza okultystyczna), Zestaw uczonego, i 15 sz; lub (B) 100 sz</td>
  </tr>
  </tbody>
 </table>
@@ -8343,13 +8342,13 @@ Zawsze gdy rozpoczynasz rzucanie tego czaru, możesz go zmodyfikować, aby nie w
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Warlock .
-• Zyskaj Warlock's level 1 features, które są wymienione w tabeli Cech Warlock.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy czarownika .
+• Zyskaj cechy czarownika 1. poziomu, które są wymienione w tabeli Cech czarownika.
 
 #### Jako postać wieloklasowa
 
 • Zyskaj następujące cechy z tabeli Podstawowe cechy czarownika: Kość wytrzymałości oraz wyszkolenie w lekkich pancerzach.
-• Zyskaj Warlock's level 1 features, które są wymienione w tabeli Cech Warlock. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
+• Zyskaj cechy czarownika 1. poziomu, które są wymienione w tabeli Cech czarownika. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
 
 ### Cechy klasy czarownika
 
@@ -8360,21 +8359,21 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Eldritch Invocations</th>
- <th>Cantrips</th>
- <th>Prepared Spells</th>
- <th>Spell Slots</th>
- <th>Slot Level</th>
+ <th>Cechy klasy</th>
+ <th>Nieziemskie inwokacje</th>
+ <th>Sztuczki</th>
+ <th>Przygotowane czary</th>
+ <th>Komórki czarów</th>
+ <th>Krąg komórki</th>
  </tr>
  </thead>
  <tbody>
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Eldritch Invocations, Pact Magic</td>
+ <td>Nieziemskie inwokacje, Magia paktu</td>
  <td>1</td>
  <td>2</td>
  <td>2</td>
@@ -8384,7 +8383,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Magical Cunning</td>
+ <td>Magiczny spryt</td>
  <td>3</td>
  <td>2</td>
  <td>3</td>
@@ -8394,7 +8393,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Warlock Subclass</td>
+ <td>Podklasa czarownika</td>
  <td>3</td>
  <td>2</td>
  <td>4</td>
@@ -8404,7 +8403,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>3</td>
  <td>3</td>
  <td>5</td>
@@ -8424,7 +8423,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>5</td>
  <td>3</td>
  <td>7</td>
@@ -8444,7 +8443,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>6</td>
  <td>3</td>
  <td>9</td>
@@ -8454,7 +8453,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>9</td>
  <td>+4</td>
- <td>Contact Patron</td>
+ <td>Kontakt z patronem</td>
  <td>7</td>
  <td>3</td>
  <td>10</td>
@@ -8464,7 +8463,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>7</td>
  <td>4</td>
  <td>10</td>
@@ -8474,7 +8473,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>11</td>
  <td>+4</td>
- <td>Mystic Arcanum (level 6 spell)</td>
+ <td>Mistyczne arkanum (czar 6. kręgu)</td>
  <td>7</td>
  <td>4</td>
  <td>11</td>
@@ -8484,7 +8483,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>8</td>
  <td>4</td>
  <td>11</td>
@@ -8494,7 +8493,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>13</td>
  <td>+5</td>
- <td>Mystic Arcanum (level 7 spell)</td>
+ <td>Mistyczne arkanum (czar 7. kręgu)</td>
  <td>8</td>
  <td>4</td>
  <td>12</td>
@@ -8504,7 +8503,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>8</td>
  <td>4</td>
  <td>12</td>
@@ -8514,7 +8513,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>15</td>
  <td>+5</td>
- <td>Mystic Arcanum (level 8 spell)</td>
+ <td>Mistyczne arkanum (czar 8. kręgu)</td>
  <td>9</td>
  <td>4</td>
  <td>13</td>
@@ -8524,7 +8523,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>9</td>
  <td>4</td>
  <td>13</td>
@@ -8534,7 +8533,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>17</td>
  <td>+6</td>
- <td>Mystic Arcanum (level 9 spell)</td>
+ <td>Mistyczne arkanum (czar 9. kręgu)</td>
  <td>9</td>
  <td>4</td>
  <td>14</td>
@@ -8554,7 +8553,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>10</td>
  <td>4</td>
  <td>15</td>
@@ -8564,7 +8563,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Eldritch Master</td>
+ <td>Mistyczny władca</td>
  <td>10</td>
  <td>4</td>
  <td>15</td>
@@ -8641,206 +8640,206 @@ Zyskujesz atut lub inny atut do wyboru, który spełnia wymagania. jest zalecany
 
 Kiedy używasz swojej zdolności Magiczny Spryt, odzyskujesz wszystkie zużyte komórki czarów Magii Paktu.
 
-### Eldritch Invocation Options
+### Opcje nieziemskich inwokacji
 
-Eldritch Invocation options appear in alphabetical order.
+Opcje nieziemskich inwokacji są przedstawione w kolejności alfabetycznej.
 
-#### Agonizing Blast
+#### Bolesny wybuch
 
-_Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
+_Wymaganie wstępne: czarownik 2+ poziomu, sztuczka czarownika zadająca obrażenia_
 
-Choose one of your known Warlock cantrips that deals damage. You can add your Charyzma modifier to that spell's damage rolls.
+Wybierz jedną ze znanych sztuczek czarownika zadających obrażenia. Możesz dodać swój modyfikator z Charyzmy do rzutów na obrażenia tym czarem.
 
-_Repeatable._ You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+_Powtarzalna._ Możesz zyskać tę inwokację więcej niż raz. Za każdym razem wybierz inną kwalifikującą się sztuczkę.
 
-#### Armor of Shadows
+#### Zbroja cieni
 
-You can cast _Mage Armor_ on yourself without expending a spell slot.
+Możesz rzucić na siebie _Zbroję maga_ bez zużywania komórki czaru.
 
-#### Ascendant Step
+#### Wznoszący krok
 
-_Prerequisite: Level 5+ Warlock_
+_Wymaganie wstępne: czarownik 5+ poziomu_
 
-You can cast _Levitate_ on yourself without expending a spell slot.
+Możesz rzucić na siebie _Lewitację_ bez zużywania komórki czaru.
 
-#### Devil's Sight
+#### Wzrok diabła
 
-_Prerequisite: Level 2+ Warlock_
+_Wymaganie wstępne: czarownik 2+ poziomu_
 
-You can see normally in Dim Light i Darkness—both magical i nonmagical—within 120 metrów of yourself.
+Widzisz normalnie w słabym świetle i ciemności — zarówno magicznej, jak i niemagicznej — w promieniu 120 metrów od siebie.
 
-#### Devouring Blade
+#### Pożerające ostrze
 
-_Prerequisite: Level 12+ Warlock, Thirsting Blade Invocation_
+_Wymaganie wstępne: czarownik 12+ poziomu, inwokacja Spragnione ostrze_
 
 Dodatkowy atak z inwokacji Spragniona Ostrza daje dwa dodatkowe ataki zamiast jednego.
 
-#### Eldritch Mind
+#### Nieziemski umysł
 
-You have ułatwienie on Kondycja saving throws that you make to maintain Concentration.
+Masz ułatwienie przy rzutach obronnych na Kondycję, które wykonujesz, aby utrzymać koncentrację.
 
-#### Eldritch Smite
+#### Nieziemskie ugodzenie
 
-_Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation_
+_Wymaganie wstępne: czarownik 5+ poziomu, inwokacja Pakt ostrza_
 
 Raz na turę, gdy trafisz istotę swoją bronią paktu, możesz zużyć komórkę czaru Magii paktu, aby zadać celowi dodatkowe 1k8 obrażeń od mocy,
-plus another 1d8 per level of the spell slot, i you can give the target the Prone condition if it is Huge or smaller.
+plus kolejne 1k8 za każdy krąg zużytej komórki czaru, i możesz nadać celowi stan leżący, jeśli jest olbrzymi lub mniejszy.
 
-#### Eldritch Spear
+#### Nieziemska włócznia
 
-_Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
+_Wymaganie wstępne: czarownik 2+ poziomu, sztuczka czarownika zadająca obrażenia_
 
 Wybierz jedną ze znanych sztuczek czarownika zadających obrażenia i mających zasięg co najmniej 3 metry. Gdy rzucasz ten czar, jego zasięg zwiększa się o liczbę metrów równą 30 razy twój poziom czarownika.
 
-_Repeatable._ You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+_Powtarzalna._ Możesz zyskać tę inwokację więcej niż raz. Za każdym razem wybierz inną kwalifikującą się sztuczkę.
 
-#### Fiendish Vigor
+#### Czarcia witalność
 
-_Prerequisite: Level 2+ Warlock_
+_Wymaganie wstępne: czarownik 2+ poziomu_
 
 Możesz rzucić na siebie _Fałszywe życie_ bez zużywania komórki czaru. Gdy rzucasz ten czar tą cechą, nie rzucasz kością na Tymczasowe Punkty Wytrzymałości — automatycznie otrzymujesz najwyższy możliwy wynik.
 
-#### Gaze of Two Minds
+#### Spojrzenie dwóch umysłów
 
-_Prerequisite: Level 5+ Warlock_
+_Wymaganie wstępne: czarownik 5+ poziomu_
 
-You can use a akcję dodatkową to touch a willing creature i perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a akcję dodatkową on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
+Możesz użyć akcji dodatkowej, aby dotknąć chętnej istoty i postrzegać świat jej zmysłami do końca swojej następnej tury. Dopóki istota znajduje się na tej samej płaszczyźnie istnienia co ty, możesz w kolejnych turach wykonywać akcję dodatkową, aby podtrzymywać to połączenie, przedłużając je do końca swojej następnej tury. Połączenie kończy się, jeśli nie podtrzymujesz go w ten sposób.
 
-While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, i you can cast spells as if you were in your space or the other creature's space if the two of you are within 18 metrów of each other.
+Postrzegając świat zmysłami innej istoty, korzystasz z jej specjalnych zmysłów i możesz rzucać czary tak, jakbyś znajdował się w swojej przestrzeni lub przestrzeni tej istoty, jeśli oboje jesteście w odległości do 18 metrów od siebie.
 
-#### Gift of the Depths
+#### Dar głębin
 
-_Prerequisite: Level 5+ Warlock_
+_Wymaganie wstępne: czarownik 5+ poziomu_
 
 Możesz oddychać pod wodą i zyskujesz szybkość pływania równą swojej szybkości.
 
 Możesz też raz rzucić _Oddychanie pod wodą_ bez zużywania komórki czaru. Możliwość takiego rzucenia odzyskujesz po zakończeniu długiego odpoczynku.
 
-#### Gift of the Protectors
+#### Dar obrońców
 
-_Prerequisite: Level 9+ Warlock, Pact of the Tome Invocation_
+_Wymaganie wstępne: czarownik 9+ poziomu, inwokacja Pakt księgi_
 
 Nowa strona pojawia się w twojej _Księdze Cieni_, gdy ją przywołujesz. Za twoją zgodą istota może wykonać akcję, aby zapisać na niej swoje imię; strona może zawierać liczbę imion równą twojemu modyfikatorowi z Charyzmy (minimum jedno imię).
 
-When any creature whose name is on the page is reduced to 0 Punkty Wytrzymałości but not killed outright, the creature magically drops to 1 Punkt Wytrzymałości instead. Once this magic is triggered, no creature can benefit from it until you finish a długi odpoczynek.
+Gdy dowolna istota, której imię jest na stronie, zostaje zredukowana do 0 Punktów Wytrzymałości, ale nie ginie natychmiast, magicznie spada do 1 Punktu Wytrzymałości. Gdy ta magia zostanie uruchomiona, żadna istota nie może z niej skorzystać, dopóki nie zakończysz długiego odpoczynku.
 
 Akcją Magii możesz zetrzeć imię ze strony, dotykając jej.
 
-#### Investment of the Chain Master
+#### Inwestycja mistrza łańcucha
 
-_Prerequisite: Level 5+ Warlock, Pact of the Chain Invocation_
+_Wymaganie wstępne: czarownik 5+ poziomu, inwokacja Pakt łańcucha_
 
 Gdy rzucasz _Znalezienie chowańca_, nasycasz przywołanego chowańca odrobiną swojej nieziemskiej mocy, dając mu następujące korzyści.
 
-_Aerial or Aquatic._ The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 metrów.
+_Powietrzny lub wodny._ Chowańec zyskuje szybkość lotu lub szybkość pływania (do wyboru) równą 40 metrów.
 
 _Szybki atak._ Akcją dodatkową możesz rozkazać chowańcowi wykonanie akcji Atak.
 
-_Necrotic or Radiant Damage._ Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
+_Obrażenia nekrotyczne lub od światłości._ Ilekroć chowańec zadaje obrażenia obuchowe, kłute lub cięte, możesz sprawić, by zadawał obrażenia nekrotyczne lub od światłości.
 
-_Your Save DC._ If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+_Twój ST._ Jeśli chowańec zmusza istotę do rzutu obronnego, używa twojego ST rzutu przeciw czarom.
 
-_Resistance._ When the familiar takes damage, you can take a reakcję to grant it Resistance against that damage.
+_Odporność._ Gdy chowańec otrzymuje obrażenia, możesz wykonać reakcję, aby nadać mu odporność na te obrażenia.
 
-#### Lessons of the First Ones
+#### Lekcje pierwszych
 
-_Prerequisite: Level 2+ Warlock_
+_Wymaganie wstępne: czarownik 2+ poziomu_
 
-You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice (see "Feats").
+Otrzymałeś wiedzę od pradawnej istoty z multiversum, co pozwala ci zyskać jeden atut pochodzenia według własnego wyboru (patrz „Atuty”).
 
-_Repeatable._ You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
+_Powtarzalna._ Możesz zyskać tę inwokację więcej niż raz. Za każdym razem wybierz inny atut pochodzenia.
 
-#### Lifedrinker
+#### Pijawka życia
 
-_Prerequisite: Level 9+ Warlock, Pact of the Blade Invocation_
+_Wymaganie wstępne: czarownik 9+ poziomu, inwokacja Pakt ostrza_
 
 Raz na turę, gdy trafisz istotę swoją bronią paktu, możesz zadać jej dodatkowe 1k6 obrażeń nekrotycznych, psychicznych lub od światłości (do wyboru), a także wydać jedną ze swoich Kości Wytrzymałości, rzucić nią i odzyskać Punkty Wytrzymałości równe wynikowi plus twój modyfikator z Kondycji (minimum 1 Punkt Wytrzymałości).
 
-#### Mask of Many Faces
+#### Maska wielu twarzy
 
-_Prerequisite: Level 2+ Warlock_
+_Wymaganie wstępne: czarownik 2+ poziomu_
 
-You can cast _Disguise Self_ without expending a spell slot.
+Możesz rzucić _Przebranie siebie_ bez zużywania komórki czaru.
 
-#### Master of Myriad Forms
+#### Mistrz niezliczonych form
 
-_Prerequisite: Level 5+ Warlock_
+_Wymaganie wstępne: czarownik 5+ poziomu_
 
-You can cast _Alter Self_ without expending a spell slot.
+Możesz rzucić _Zmianę siebie_ bez zużywania komórki czaru.
 
-#### Misty Visions
+#### Mgliste wizje
 
-_Prerequisite: Level 2+ Warlock_
+_Wymaganie wstępne: czarownik 2+ poziomu_
 
-You can cast _Silent Image_ without expending a spell slot.
+Możesz rzucić _Milczący obraz_ bez zużywania komórki czaru.
 
-#### One with Shadows
+#### Jedność z cieniami
 
-_Prerequisite: Level 5+ Warlock_
+_Wymaganie wstępne: czarownik 5+ poziomu_
 
-While you're in an area of Dim Light or Darkness, you can cast _Invisibility_ on yourself without expending a spell slot.
+Będąc w obszarze słabego światła lub ciemności, możesz rzucić na siebie _Niewidzialność_ bez zużywania komórki czaru.
 
-#### Otherworldly Leap
+#### Nieziemski skok
 
-_Prerequisite: Level 2+ Warlock_
+_Wymaganie wstępne: czarownik 2+ poziomu_
 
-You can cast _Jump_ on yourself without expending a spell slot.
+Możesz rzucić na siebie _Skok_ bez zużywania komórki czaru.
 
-#### Pact of the Blade
+#### Pakt ostrza
 
 Akcją dodatkową możesz przywołać w dłoni broń paktu — prostą lub bojową broń do walki wręcz według własnego wyboru, z którą się wiążesz — albo stworzyć więź z magiczną bronią, której dotykasz; nie możesz wiązać się z magiczną bronią, jeśli ktoś inny jest do niej dostrojony lub inny czarownik jest z nią związany. Dopóki więź trwa, masz biegłość w tej broni i możesz używać jej jako magicznego fokusu.
 
-Whenever you attack with the bonded weapon, you can use your Charyzma modifier for the attack i damage rolls instead of using Siła or Zręczność; i you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
+Ilekroć atakujesz powiązaną bronią, możesz użyć modyfikatora z Charyzmy do testów ataku i rzutów na obrażenia zamiast Siły lub Zręczności; możesz też sprawić, by broń zadawała obrażenia nekrotyczne, psychiczne lub od światłości albo swój normalny typ obrażeń.
 
-Your bond with the weapon ends if you use this feature's akcję dodatkową again, if the weapon is more than 1,5 metra away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+Twoja więź z bronią kończy się, jeśli ponownie użyjesz akcji dodatkowej tej cechy, jeśli broń znajduje się dalej niż 1,5 metra od ciebie przez 1 minutę lub dłużej, albo jeśli umrzesz. Przywołana broń znika, gdy więź się kończy.
 
-#### Pact of the Chain
+#### Pakt łańcucha
 
-You learn the _Find Familiar_ spell i can cast it as a akcję Magii without expending a spell slot.
+Uczysz się czaru _Znalezienie chowańca_ i możesz rzucić go jako akcję magiczną bez zużywania komórki czaru.
 
 Gdy rzucasz ten czar, wybierasz jedną ze zwykłych form chowańca lub jedną z następujących form specjalnych: **chochlik, pseudosmok, quasit, szkielet, sfinks cudów, sprite** lub **jadowity wąż** (patrz rozdział „Potwory” po blok statystyk chowańca).
 
 Dodatkowo, gdy wykonujesz akcję Atak, możesz zrezygnować z jednego własnego ataku, aby pozwolić chowańcowi wykonać jeden własny atak reakcją.
 
-#### Pact of the Tome
+#### Pakt księgi
 
-Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or długi odpoczynek. This _Book of Shadows_ (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
+Składając w dłoni nitki cienia, przywołujesz księgę na końcu krótkiego lub długiego odpoczynku. Ta _Księga cieni_ (sam decydujesz o jej wyglądzie) zawiera nieziemską magię dostępną tylko dla ciebie i zapewnia poniższe korzyści. Księga znika, jeśli przywołasz inną księgę tą cechą lub jeśli umrzesz.
 
-_Cantrips i Rituals._ When the book appears, choose three cantrips, i choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, i they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, i they function as Warlock spells for you.
+_Sztuczki i rytuały._ Gdy księga się pojawia, wybierz trzy sztuczki oraz dwa czary 1. kręgu z etykietą Rytuał. Czary mogą pochodzić z listy czarów dowolnej klasy i muszą być czarami, których nie masz już przygotowanych. Dopóki księga jest przy tobie, masz wybrane czary przygotowane i działają one jak czary czarownika.
 
-_Spellcasting Focus._ You can use the book as a Spellcasting Focus.
+_Fokus rzucania czarów._ Możesz używać księgi jako fokusu rzucania czarów.
 
-#### Repelling Blast
+#### Odepchujący wybuch
 
-_Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll_
+_Wymaganie wstępne: czarownik 2+ poziomu, sztuczka czarownika zadająca obrażenia testem ataku_
 
 Wybierz jedną ze znanych sztuczek czarownika wymagającą testu ataku. Gdy trafisz Dużą lub mniejszą istotę tą sztuczką, możesz odepchnąć ją na odległość do 3 metrów prosto od siebie.
 
-_Repeatable._ You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+_Powtarzalna._ Możesz zyskać tę inwokację więcej niż raz. Za każdym razem wybierz inną kwalifikującą się sztuczkę.
 
-#### Thirsting Blade
+#### Spragnione ostrze
 
-_Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation_
+_Wymaganie wstępne: czarownik 5+ poziomu, inwokacja Pakt ostrza_
 
 Zyskujesz cechę Dodatkowy atak wyłącznie dla swojej broni paktu. Dzięki niej możesz atakować tą bronią dwa razy zamiast raz, gdy wykonujesz akcję Atak w swojej turze.
 
-#### Visions of Distant Realms
+#### Wizje odległych sfer
 
-_Prerequisite: Level 9+ Warlock_
+_Wymaganie wstępne: czarownik 9+ poziomu_
 
-You can cast _Arcane Eye_ without expending a spell slot.
+Możesz rzucić _Magiczne oko_ bez zużywania komórki czaru.
 
-#### Whispers of the Grave
+#### Szepty grobu
 
-_Prerequisite: Level 7+ Warlock_
+_Wymaganie wstępne: czarownik 7+ poziomu_
 
-You can cast _Speak with Dead_ without expending a spell slot.
+Możesz rzucić _Rozmawianie z umarłymi_ bez zużywania komórki czaru.
 
-#### Witch Sight
+#### Wiedźmi wzrok
 
-_Prerequisite: Level 15+ Warlock_
+_Wymaganie wstępne: czarownik 15+ poziomu_
 
-You have Truesight with a range of 9 metrów.
+Masz prawdziwe widzenie o zasięgu 9 metrów.
 
 ### Lista czarów czarownika
 
@@ -8851,9 +8850,9 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -8889,7 +8888,7 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  </tr>
  <tr>
  <td>Prawdziwe uderzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  </tbody>
@@ -8900,9 +8899,9 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -8918,12 +8917,12 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  </tr>
  <tr>
  <td>Rozumienie języków</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
  <td>Wykrycie magii</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
@@ -8937,12 +8936,12 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  <td>—</td>
  </tr>
  <tr>
- <td>Hex</td>
+ <td>Urok</td>
  <td>Uroków</td>
  <td>C</td>
  </tr>
  <tr>
- <td>Ohydny śmiech</td>
+ <td>Ohydny śmiech Tashy</td>
  <td>Uroków</td>
  <td>C</td>
  </tr>
@@ -8958,7 +8957,7 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  </tr>
  <tr>
  <td>Rozmawianie ze zwierzętami</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
@@ -8974,14 +8973,14 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Ciemność.</td>
+ <td>Ciemność</td>
  <td>Wywoływania</td>
  <td>C</td>
  </tr>
@@ -9001,8 +9000,8 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  <td>C</td>
  </tr>
  <tr>
- <td>Mind Spike</td>
- <td>Wieszczenia</td>
+ <td>Kolce umysłu</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -9038,9 +9037,9 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -9091,7 +9090,7 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  </tr>
  <tr>
  <td>Języki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -9107,9 +9106,9 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -9124,7 +9123,7 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  <td>—</td>
  </tr>
  <tr>
- <td>Charm Monster</td>
+ <td>Zauroczenie potwora</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -9146,15 +9145,15 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
  <td>Kontakt z inną sferą</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
@@ -9179,11 +9178,11 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  </tr>
  <tr>
  <td>Wizja</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
- <td>Krąg teleportacji</td>
+ <td>Krąg teleportacyjny</td>
  <td>Przywoływania</td>
  <td>M</td>
  </tr>
@@ -9195,9 +9194,9 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -9218,7 +9217,7 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  </tr>
  <tr>
  <td>Prawdziwe widzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>M</td>
  </tr>
  </tbody>
@@ -9229,9 +9228,9 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -9263,14 +9262,14 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Befuddlement</td>
+ <td>Zamroczenie</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -9302,9 +9301,9 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -9315,7 +9314,7 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
  </tr>
  <tr>
  <td>Profetyzm</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -9348,9 +9347,9 @@ Ta sekcja przedstawia listę czarów czarownika. Czary są uporządkowane wedłu
 
 ### Podklasa czarownika: Patron Czart
 
-_Make a Deal with the Lower Planes_
+_Zawrzyj układ z Sferami Niższymi_
 
-Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord, an archdevil, or another fiend that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
+Twój pakt czerpie moc z Sfer Niższych, krain potępienia. Możesz zawrzeć układ z lordem demonów, arcyczartem lub innym potężnym czartem. Cele tego patrona są złe — korupcja lub zniszczenie wszystkiego, ostatecznie także ciebie — a twoja droga zależy od tego, w jakim stopniu stawiasz im opór.
 
 #### Poziom 3: Mroczne błogosławieństwo
 
@@ -9394,7 +9393,7 @@ Po użyciu tej zdolności nie możesz użyć jej ponownie, dopóki nie zakończy
  </tr>
  <tr>
  <td>Biegłości w umiejętnościach</td>
- <td>Wybierz 2: Wiedza tajemna, Historia, Intuicja, Śledztwo, Medycyna, Natura, or Religia</td>
+ <td>Wybierz 2: Wiedza tajemna, Historia, Intuicja, Śledztwo, Medycyna, Natura lub Religia</td>
  </tr>
  <tr>
  <td>Biegłości w broniach</td>
@@ -9402,11 +9401,11 @@ Po użyciu tej zdolności nie możesz użyć jej ponownie, dopóki nie zakończy
  </tr>
  <tr>
  <td>Biegłość w pancerzu</td>
- <td>None</td>
+ <td>Brak</td>
  </tr>
  <tr>
  <td>Wyposażenie startowe</td>
- <td>Wybierz A lub B: (A) 2 Sztylety, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, i 5 sz; lub (B) 55 sz</td>
+ <td>Wybierz A lub B: (A) 2 Sztylety, Fokus magii wtajemniczeń (kostur), Szata, Księga czarów, Zestaw uczonego, i 5 sz; lub (B) 55 sz</td>
  </tr>
  </tbody>
 </table>
@@ -9415,13 +9414,13 @@ Po użyciu tej zdolności nie możesz użyć jej ponownie, dopóki nie zakończy
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy Wizard .
-• Zyskaj Wizard's level 1 features, które są wymienione w tabeli Cech Wizard.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy maga .
+• Zyskaj cechy maga 1. poziomu, które są wymienione w tabeli Cech maga.
 
 #### Jako postać wieloklasowa
 
-• Zyskaj Punkt Wytrzymałości Die from the Core Wizard .
-• Zyskaj Wizard's level 1 features, które są wymienione w tabeli Cech Wizard. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
+• Zyskaj kość wytrzymałości z tabeli Podstawowe cechy maga .
+• Zyskaj cechy maga 1. poziomu, które są wymienione w tabeli Cech maga. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
 
 ### Cechy klasy maga
 
@@ -9432,12 +9431,12 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
 <table>
  <thead>
  <tr>
- <th>Level</th>
+ <th>Poziom</th>
  <th>premia do biegłości</th>
- <th>Class Features</th>
- <th>Cantrips</th>
- <th>Prepared Spells</th>
- <th colspan="9">——Spell Slots per Spell Level——</th>
+ <th>Cechy klasy</th>
+ <th>Sztuczki</th>
+ <th>Przygotowane czary</th>
+ <th colspan="9">——Komórki czarów na krąg czaru——</th>
  </tr>
  <tr>
  <th>
@@ -9465,7 +9464,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Spellcasting, Ritual Adept, Arcane Recovery</td>
+ <td>Rzucanie czarów, Biegłość w rytuałach, Odzyskiwanie mocy tajemnej</td>
  <td>3</td>
  <td>4</td>
  <td>2</td>
@@ -9481,7 +9480,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>2</td>
  <td>+2</td>
- <td>Scholar</td>
+ <td>Uczony</td>
  <td>3</td>
  <td>5</td>
  <td>3</td>
@@ -9497,7 +9496,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Wizard Subclass</td>
+ <td>Podklasa maga</td>
  <td>3</td>
  <td>6</td>
  <td>4</td>
@@ -9513,7 +9512,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>4</td>
  <td>+2</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>4</td>
  <td>7</td>
  <td>4</td>
@@ -9529,7 +9528,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>5</td>
  <td>+3</td>
- <td>Memorize Spell</td>
+ <td>Zapamiętaj zaklęcie</td>
  <td>4</td>
  <td>9</td>
  <td>4</td>
@@ -9545,7 +9544,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>6</td>
  <td>+3</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>4</td>
  <td>10</td>
  <td>4</td>
@@ -9577,7 +9576,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>8</td>
  <td>+3</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>4</td>
  <td>12</td>
  <td>4</td>
@@ -9609,7 +9608,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>10</td>
  <td>+4</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>5</td>
  <td>15</td>
  <td>4</td>
@@ -9641,7 +9640,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>12</td>
  <td>+4</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>5</td>
  <td>16</td>
  <td>4</td>
@@ -9673,7 +9672,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>14</td>
  <td>+5</td>
- <td>Subclass feature</td>
+ <td>Cecha podklasy</td>
  <td>5</td>
  <td>18</td>
  <td>4</td>
@@ -9705,7 +9704,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>16</td>
  <td>+5</td>
- <td>Ability Score Improvement</td>
+ <td>Zwiększenie cechy</td>
  <td>5</td>
  <td>21</td>
  <td>4</td>
@@ -9737,7 +9736,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>18</td>
  <td>+6</td>
- <td>Spell Mastery</td>
+ <td>Mistrzowskie czarowanie</td>
  <td>5</td>
  <td>23</td>
  <td>4</td>
@@ -9753,7 +9752,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>19</td>
  <td>+6</td>
- <td>Epic Boon</td>
+ <td>Epicki dar</td>
  <td>5</td>
  <td>24</td>
  <td>4</td>
@@ -9769,7 +9768,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <tr>
  <td>20</td>
  <td>+6</td>
- <td>Signature Spells</td>
+ <td>Ulubione zaklęcia</td>
  <td>5</td>
  <td>25</td>
  <td>4</td>
@@ -9825,15 +9824,15 @@ Podczas nauki magii specjalizowałeś się również w innej dziedzinie. Wybierz
 
 Zyskujesz podklasę maga według własnego wyboru. Podklasa Wywoływacz jest opisana po opisie tej klasy. Podklasa to specjalizacja, która daje ci cechy na określonych poziomach maga. Przez resztę kariery zyskujesz każdą cechę swojej podklasy, która odpowiada twojemu poziomowi maga lub jest niższa.
 
-> **Expanding i Replacing a Spellbook**
+> **Rozszerzanie i zastępowanie księgi czarów**
 >
 > Czary dodawane do księgi czarów wraz z poziomami odzwierciedlają twoje badania magiczne, ale podczas przygód możesz znaleźć inne czary do dopisania. Na przykład możesz odkryć czar maga na _Zwoju czaru_ i przepisać go do księgi.
 >
 > _Kopiowanie czaru do księgi._ Gdy znajdziesz czar maga od 1. kręgu wzwyż, możesz skopiować go do księgi czarów, jeśli jest z kręgu, który możesz przygotować, i masz czas na przepisanie. Za każdy krąg czaru przepisanie zajmuje 2 godziny i kosztuje 50 sz. Potem możesz przygotować ten czar jak pozostałe w księdze.
 >
-> _Copying the Book._ You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour i 10 sz for each level of the copied spell.
+> _Kopiowanie księgi._ Możesz skopiować czar ze swojej księgi czarów do innej księgi. To działa jak przepisywanie nowego czaru do księgi, ale szybciej, ponieważ już wiesz, jak rzucić ten czar. Potrzebujesz tylko 1 godziny i 10 sz za każdy krąg kopiowanego czaru.
 >
-> If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
+> Jeśli zgubisz księgę czarów, możesz użyć tej samej procedury, aby przepisać przygotowane czary maga do nowej księgi. Uzupełnienie reszty nowej księgi wymaga znalezienia nowych czarów. Z tego powodu wielu magów trzyma zapasową księgę czarów.
 
 #### Poziom 4: Zwiększenie cechy
 
@@ -9865,9 +9864,9 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -9887,7 +9886,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C</td>
  </tr>
  <tr>
- <td>Elementalism</td>
+ <td>Żywiołomagia</td>
  <td>Przemian</td>
  <td>—</td>
  </tr>
@@ -9943,7 +9942,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Prawdziwe uderzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  </tbody>
@@ -9954,9 +9953,9 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -9976,7 +9975,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>—</td>
  </tr>
  <tr>
- <td>Chromatic Orb</td>
+ <td>Barwna kula</td>
  <td>Wywoływania</td>
  <td>M</td>
  </tr>
@@ -9987,12 +9986,12 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Rozumienie języków</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
  <td>Wykrycie magii</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, R</td>
  </tr>
  <tr>
@@ -10021,7 +10020,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>R, M</td>
  </tr>
  <tr>
- <td>Wędrujący dysk</td>
+ <td>Wędrujący dysk Tensera</td>
  <td>Przywoływania</td>
  <td>R</td>
  </tr>
@@ -10036,18 +10035,18 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>—</td>
  </tr>
  <tr>
- <td>Ohydny śmiech</td>
+ <td>Ohydny śmiech Tashy</td>
  <td>Uroków</td>
  <td>C</td>
  </tr>
  <tr>
- <td>Ice Knife</td>
+ <td>Lodowy nóż</td>
  <td>Przywoływania</td>
  <td>—</td>
  </tr>
  <tr>
- <td>Zidentyfikuj</td>
- <td>Wieszczenia</td>
+ <td>Identyfikacja</td>
+ <td>Wieszczenie</td>
  <td>R, M</td>
  </tr>
  <tr>
@@ -10071,7 +10070,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>—</td>
  </tr>
  <tr>
- <td>Magiczny Pocisk</td>
+ <td>Magiczny pocisk</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
@@ -10081,7 +10080,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C, M</td>
  </tr>
  <tr>
- <td>Ray of Sickness</td>
+ <td>Promień zatrucia</td>
  <td>Nekromancji</td>
  <td>—</td>
  </tr>
@@ -10118,14 +10117,14 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Kwasowa strzała</td>
+ <td>Kwasowa strzała Melfa</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
@@ -10140,13 +10139,13 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>M</td>
  </tr>
  <tr>
- <td>Magiczna aura arkanisty</td>
+ <td>Magiczna aura Nystula</td>
  <td>Iluzji</td>
  <td>—</td>
  </tr>
  <tr>
  <td>Wróżba</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R, M</td>
  </tr>
  <tr>
@@ -10165,7 +10164,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>M</td>
  </tr>
  <tr>
- <td>Ciemność.</td>
+ <td>Ciemność</td>
  <td>Wywoływania</td>
  <td>C</td>
  </tr>
@@ -10176,11 +10175,11 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Wykrycie myśli</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
- <td>Dragon's Breath</td>
+ <td>Oddech smoka</td>
  <td>Przemian</td>
  <td>C</td>
  </tr>
@@ -10231,7 +10230,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Odnalezienie obiektu</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -10245,8 +10244,8 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>—</td>
  </tr>
  <tr>
- <td>Mind Spike</td>
- <td>Wieszczenia</td>
+ <td>Kolce umysłu</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -10276,7 +10275,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Widzenie niewidzialnego</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -10307,9 +10306,9 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -10330,7 +10329,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Jasnowidzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -10415,7 +10414,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Nadanie wiadomości</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -10424,7 +10423,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C</td>
  </tr>
  <tr>
- <td>Wolno</td>
+ <td>Spowolnienie</td>
  <td>Przemian</td>
  <td>C</td>
  </tr>
@@ -10439,13 +10438,13 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C</td>
  </tr>
  <tr>
- <td>Chatka</td>
+ <td>Chatka Leomunda</td>
  <td>Wywoływania</td>
  <td>R</td>
  </tr>
  <tr>
  <td>Języki</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -10466,15 +10465,15 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Magiczne Oko</td>
- <td>Wieszczenia</td>
+ <td>Magiczne oko</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -10483,7 +10482,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C</td>
  </tr>
  <tr>
- <td>Czarne macki</td>
+ <td>Czarne macki Evarda</td>
  <td>Przywoływania</td>
  <td>C</td>
  </tr>
@@ -10493,7 +10492,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>—</td>
  </tr>
  <tr>
- <td>Charm Monster</td>
+ <td>Zauroczenie potwora</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -10518,8 +10517,8 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>—</td>
  </tr>
  <tr>
- <td>Wieszczenia</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
+ <td>Wieszczenie</td>
  <td>R, M</td>
  </tr>
  <tr>
@@ -10528,7 +10527,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>—</td>
  </tr>
  <tr>
- <td>Wierny ogar</td>
+ <td>Wierny ogar Mordenkainena</td>
  <td>Przywoływania</td>
  <td>—</td>
  </tr>
@@ -10554,7 +10553,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Odnalezienie istoty</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C</td>
  </tr>
  <tr>
@@ -10568,17 +10567,17 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C</td>
  </tr>
  <tr>
- <td>Osobiste sanktuarium</td>
+ <td>Osobiste sanktuarium Mordenkainena</td>
  <td>Odpychania</td>
  <td>—</td>
  </tr>
  <tr>
- <td>Sprężysta sfera</td>
+ <td>Sprężysta sfera Otiluke’a</td>
  <td>Odpychania</td>
  <td>C</td>
  </tr>
  <tr>
- <td>Sekretny kufer</td>
+ <td>Sekretny kufer Leomunda</td>
  <td>Przywoływania</td>
  <td>M</td>
  </tr>
@@ -10593,7 +10592,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C, M</td>
  </tr>
  <tr>
- <td>Vitriolic Sphere</td>
+ <td>Kwasowa sfera</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
@@ -10610,19 +10609,19 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Animowanie obiektu</td>
+ <td>Animowanie obiektów</td>
  <td>Przemian</td>
  <td>C</td>
  </tr>
  <tr>
- <td>Wielka magiczna dłoń</td>
+ <td>Dłoń Bigby’ego</td>
  <td>Wywoływania</td>
  <td>C</td>
  </tr>
@@ -10643,11 +10642,11 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Kontakt z inną sferą</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
- <td>Tworzenie</td>
+ <td>Cieniste formowanie</td>
  <td>Iluzji</td>
  <td>—</td>
  </tr>
@@ -10673,7 +10672,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Legendarna wiedza</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>M</td>
  </tr>
  <tr>
@@ -10698,7 +10697,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Wizja</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>C, M</td>
  </tr>
  <tr>
@@ -10707,7 +10706,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>—</td>
  </tr>
  <tr>
- <td>Summon Dragon</td>
+ <td>Przywołanie smoka</td>
  <td>Przywoływania</td>
  <td>C, M</td>
  </tr>
@@ -10717,12 +10716,12 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C</td>
  </tr>
  <tr>
- <td>Telepatia</td>
- <td>Wieszczenia</td>
+ <td>Telepatyczna więź Rary’ego</td>
+ <td>Wieszczenie</td>
  <td>R</td>
  </tr>
  <tr>
- <td>Krąg teleportacji</td>
+ <td>Krąg teleportacyjny</td>
  <td>Przywoływania</td>
  <td>M</td>
  </tr>
@@ -10744,9 +10743,9 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -10786,7 +10785,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C</td>
  </tr>
  <tr>
- <td>Mrożąca sfera</td>
+ <td>Mrożąca sfera Otiluke’a</td>
  <td>Wywoływania</td>
  <td>—</td>
  </tr>
@@ -10801,12 +10800,12 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>M</td>
  </tr>
  <tr>
- <td>Błyskawiczne przywołanie</td>
+ <td>Błyskawiczne przywołanie Drawmĳa</td>
  <td>Przywoływania</td>
  <td>R, M</td>
  </tr>
  <tr>
- <td>Nieodparty taniec</td>
+ <td>Nieodparty taniec Ottona</td>
  <td>Uroków</td>
  <td>C</td>
  </tr>
@@ -10837,7 +10836,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Prawdziwe widzenie</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>M</td>
  </tr>
  <tr>
@@ -10853,14 +10852,14 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
  <tr>
- <td>Magiczny miecz</td>
+ <td>Miecz Mordenkainena</td>
  <td>Wywoływania</td>
  <td>C, M</td>
  </tr>
@@ -10885,7 +10884,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C, M</td>
  </tr>
  <tr>
- <td>Wspaniała posiadłość</td>
+ <td>Wspaniała posiadłość Mordenkainena</td>
  <td>Przywoływania</td>
  <td>M</td>
  </tr>
@@ -10942,9 +10941,9 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -10954,12 +10953,12 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  <td>C</td>
  </tr>
  <tr>
- <td>Antypatia / Sympatia</td>
+ <td>Antypatia/Sympatia</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
  <tr>
- <td>Befuddlement</td>
+ <td>Zamroczenie</td>
  <td>Uroków</td>
  <td>—</td>
  </tr>
@@ -11016,9 +11015,9 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 <table>
  <thead>
  <tr>
- <th>Spell</th>
- <th>School</th>
- <th>Special</th>
+ <th>Czar</th>
+ <th>Szkoła</th>
+ <th>Specjalne</th>
  </tr>
  </thead>
  <tbody>
@@ -11029,7 +11028,7 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
  </tr>
  <tr>
  <td>Profetyzm</td>
- <td>Wieszczenia</td>
+ <td>Wieszczenie</td>
  <td>—</td>
  </tr>
  <tr>
@@ -11087,9 +11086,9 @@ Ta sekcja przedstawia listę czarów maga. Czary są uporządkowane według krę
 
 ### Podklasa maga: Wywoływacz
 
-_Create Explosive Elemental Effects_
+_Twórz wybuchowe efekty żywiołowe_
 
-Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, i burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
+Twoje studia koncentrują się na magii tworzącej potężne efekty żywiołowe, takie jak przenikliwy mróz, palący płomień, toczący się grzmot, trzaskające błyskawice i żrący kwas. Niektórzy wywoływacze służą w wojsku jako artyleria niszcząca armie z dystansu. Inni wykorzystują swoją moc, by chronić innych, a jeszcze inni dążą do własnych korzyści.
 
 #### Poziom 3: Uczony w wywoływaniu
 

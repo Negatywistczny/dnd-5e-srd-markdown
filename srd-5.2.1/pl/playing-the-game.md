@@ -750,7 +750,7 @@ Obecność lub brak światła określa kategorię oświetlenia w obszarze, jak z
 
 **Przyciemnione światło.** Przyciemnione światło, zwane też cieniami, tworzy lekko zasłonięty obszar. Obszar przyciemnionego światła zwykle stanowi granicę między jasnym światłem a otaczającą ciemnością. Miękkie światło zmierzchu i świtu też liczy się jako przyciemnione. Pełnia księżyca może skąpać krainę w przyciemnionym świetle.
 
-**Ciemność.** Ciemność tworzy silnie zasłonięty obszar. Bohaterowie spotykają ciemność na zewnątrz w nocy (nawet przy większości księżycowych nocy), w nieoświetlonym lochu lub w obszarze magicznej ciemności.
+**Ciemność** Ciemność tworzy silnie zasłonięty obszar. Bohaterowie spotykają ciemność na zewnątrz w nocy (nawet przy większości księżycowych nocy), w nieoświetlonym lochu lub w obszarze magicznej ciemności.
 
 #### Zmysły specjalne
 
@@ -1219,7 +1219,7 @@ _Masywne obrażenia._ Gdy obrażenia redukują postać do 0 PW i zostają nadwy�
 
 #### Śmierć postaci
 
-Jeśli twoja postać umiera, inni mogą znaleźć magiczny sposób wskrzeszenia — na przykład czarem _Wskrzeszenie umarłych_. Możesz też porozmawiać z MG o stworzeniu nowej postaci do grupy. Więcej o śmierci znajdziesz w „Słowniku zasad”.
+Jeśli twoja postać umiera, inni mogą znaleźć magiczny sposób wskrzeszenia — na przykład czarem _Wskrzeszenie_. Możesz też porozmawiać z MG o stworzeniu nowej postaci do grupy. Więcej o śmierci znajdziesz w „Słowniku zasad”.
 
 #### Utrata przytomności
 

@@ -1172,7 +1172,7 @@ Dzban mieści do 1 galona.
 
 Drabina ma wysokość 3 metry. Aby po niej zejść lub wejść, należy się wspiąć.
 #### Lampa (5 ss)
-A Lamp burns Oil as fuel to cast Bright Lekka in a 15-foot radius and Dim Lekka for an additional 9 metr.
+Lampa spala olej jako paliwo i zapewnia jasne światło w promieniu 15 stóp oraz słabe światło na dodatkowe 9 metrów.
 #### Latarnia kierunkowa (10 sz)
 
 Latarnia kierunkowa rzuca Jasne światło w stożku o promieniu 60 stóp i Słabe światło w promieniu kolejnych 60 stóp. Po zapaleniu pali się przez 6 godzin na jednej kolbie (1 pinta) oleju.
@@ -1610,7 +1610,7 @@ Przygody dają szansę — choć nie gwarancję — znalezienia magicznych przed
 
 Niektóre magiczne przedmioty są nie do odróżnienia od niemagicznych odpowiedników, inne wyraźnie emanują magią. Dotknięcie magicznego przedmiotu wystarcza, by poczuć, że jest niezwykły, lecz poznanie jego właściwości nie następuje automatycznie.
 
-Czar _Zidentyfikuj_ to najszybszy sposób ujawnienia właściwości przedmiotu. Alternatywnie możesz skupić się na jednym magicznym przedmiocie podczas Krótkiego Odpoczynku, pozostając z nim w fizycznym kontakcie. Po zakończeniu odpoczynku poznajesz jego właściwości i sposób użycia (lecz nie ewentualną klątwę).
+Czar _Identyfikacja_ to najszybszy sposób ujawnienia właściwości przedmiotu. Alternatywnie możesz skupić się na jednym magicznym przedmiocie podczas Krótkiego Odpoczynku, pozostając z nim w fizycznym kontakcie. Po zakończeniu odpoczynku poznajesz jego właściwości i sposób użycia (lecz nie ewentualną klątwę).
 
 Czasem magiczny przedmiot niesie wskazówkę co do swoich właściwości. Słowo władania aktywujące pierścień może być wyryte wewnątrz obrączki, a pióropuszowy wzór może sugerować, że to _Pierścień spadania jak piórko_.
 
