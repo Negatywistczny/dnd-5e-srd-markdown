@@ -18,20 +18,20 @@ W słowniku stosuje się następujące konwencje:
 | --- | --- | --- | --- |
 | KP | Klasa Pancerza | M | Materiałowy komponent |
 | K | Koncentracja | N | Neutralny |
-| ZZ | Chaotyczny Zły | NZ | Neutralny Zły |
-| ZD | Chaotyczny Dobry | ND | Neutralny Dobry |
+| CD | Chaotyczny Dobry | ND | Neutralny Dobry |
+| CN | Chaotyczny Neutralny | NZ | Neutralny Zły |
+| CZ | Chaotyczny Zły | Kon. | Kondycja |
 | Cha. | Charyzma | BN | Bohater niezależny |
-| ZN | Chaotyczny Neutralny | Kon. | Kondycja |
-| SM | Srebrna moneta | PdB | Premia z biegłości |
-| SW | Stopień wyzwania | PM | Platynowa moneta |
+| sm | Sztuka miedzi | PdB | Premia z biegłości |
+| ss | Sztuka srebra | sp | Sztuka platyny |
+| SW | Stopień wyzwania | se | Sztuka elektrum |
 | ST | Stopień trudności | R | Rytuał |
 | Zr. | Zręczność | S | Somatyczny komponent |
-| EM | Elektrum | MP | Mistrz Podziemi |
-| ZM | Złota moneta | Si. | Siła |
-| PW | Punkty wytrzymałości | W | Werbalny komponent |
+| sz | Sztuka złota | MP | Mistrz Podziemi |
+| PW | Punkty wytrzymałości | Si. | Siła |
 | Int. | Inteligencja | Mąd. | Mądrość |
 | PZ | Praworządny Zły | PD | Punkty doświadczenia |
-| PD | Praworządny Dobry | | |
+| PgD | Praworządny Dobry | W | Werbalny komponent |
 | PN | Praworządny Neutralny | | |
 
 ## Definicje zasad

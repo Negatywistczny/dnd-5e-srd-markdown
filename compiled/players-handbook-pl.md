@@ -2033,7 +2033,7 @@ Charakter stworzenia w szerokim sensie opisuje jego postawę etyczną i ideały.
 
 Poniższe krótkie opisy dziewięciu charakterów ukazują typowe zachowanie stworzeń o danym charakterze. Poszczególne jednostki mogą od nich znacząco odbiegać.
 
-_Praworządne dobre (PD)._ Stworzenia praworządne dobre postępują godnie i wedle oczekiwań społeczeństwa. Ktoś, kto bez wahania walczy z niesprawiedliwością i chroni niewinnych, jest prawdopodobnie praworządny dobry.
+_Praworządne dobre (PgD)._ Stworzenia praworządne dobre postępują godnie i wedle oczekiwań społeczeństwa. Ktoś, kto bez wahania walczy z niesprawiedliwością i chroni niewinnych, jest prawdopodobnie praworządny dobry.
 
 _Neutralne dobre (ND)._ Stworzenia neutralne dobre robią, co w ich mocy, działając w ramach zasad, lecz nie czując się nimi związane. Życzliwa osoba, która pomaga innym według ich potrzeb, jest prawdopodobnie neutralna dobra.
 
