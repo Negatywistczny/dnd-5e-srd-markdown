@@ -4,17 +4,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Blade Ward](http://dnd2024.wikidot.com/spell:blade-ward) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
@@ -104,10 +93,3 @@
 | [Imprisonment](http://dnd2024.wikidot.com/spell:imprisonment) | *Abjuration* | Warlock, Wizard | 1 minute | 30 feet | V, S, M(C) | Until dispelled |
 | [Mass Heal](http://dnd2024.wikidot.com/spell:mass-heal) | *Abjuration* | Cleric | Action | 60 feet | V, S | Instantaneous |
 | [Prismatic Wall](http://dnd2024.wikidot.com/spell:prismatic-wall) | *Abjuration* | Bard, Wizard | Action | 60 feet | V, S | 10 minutes |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView6afce1a61eb267e0b65c372aef2c745f = new YAHOO.widget.TabView('wiki-tabview-6afce1a61eb267e0b65c372aef2c745f');
-                }, "dummy-ondomready-block");
-        
-//]]>

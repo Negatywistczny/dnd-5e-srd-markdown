@@ -5,17 +5,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Blade Ward](http://dnd2024.wikidot.com/spell:blade-ward) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
@@ -194,10 +183,3 @@
 | [Power Word Kill](http://dnd2024.wikidot.com/spell:power-word-kill) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
 | [Prismatic Wall](http://dnd2024.wikidot.com/spell:prismatic-wall) | *Abjuration* | Bard, Wizard | Action | 60 feet | V, S | 10 minutes |
 | [True Polymorph](http://dnd2024.wikidot.com/spell:true-polymorph) | *Transmutation* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView39037be4c0170e822f387c17850a558f = new YAHOO.widget.TabView('wiki-tabview-39037be4c0170e822f387c17850a558f');
-                }, "dummy-ondomready-block");
-        
-//]]>

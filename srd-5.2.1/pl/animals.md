@@ -2,7 +2,7 @@
 
 ## Allosaurus
 
-_Duża Bestia (Dinozaur), Bezcharakterowa_
+_Duża Bestia (Dinozaur), Nieokreślona_
 
 **KP** 13 **Inicjatywa** +1 (11) <br>
 **PW** 51 (6k10 + 18) <br>
@@ -60,7 +60,7 @@ _Duża Bestia (Dinozaur), Bezcharakterowa_
 **Umiejętności** Percepcja +5<br>
 **Zmysły** Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Akcje
 
@@ -72,7 +72,7 @@ _Duża Bestia (Dinozaur), Bezcharakterowa_
 
 ## Ankylosaurus
 
-_Wielka Bestia (Dinozaur), Bezcharakterowa_
+_Wielka Bestia (Dinozaur), Nieokreślona_
 
 **KP** 15 **Inicjatywa** +0 (10) <br>
 **PW** 68 (8k12 + 16) <br>
@@ -129,7 +129,7 @@ _Wielka Bestia (Dinozaur), Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 3 (PD 700; premia do biegłości +2)
+**SW** 3 (PD 700; premia z biegłości +2)
 
 ### Akcje
 
@@ -141,7 +141,7 @@ _Wielka Bestia (Dinozaur), Bezcharakterowa_
 
 ## Małpa człekokształtna
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 19 (3k8 + 6) <br>
@@ -199,7 +199,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Atletyka +5, Percepcja +3<br>
 **Zmysły** Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 ### Akcje
 
@@ -213,7 +213,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Archelon
 
-_Wielka Bestia (Dinozaur), Bezcharakterowa_
+_Wielka Bestia (Dinozaur), Nieokreślona_
 
 **KP** 17 **Inicjatywa** +3 (13) <br>
 **PW** 90 (12k12 + 12) <br>
@@ -271,7 +271,7 @@ _Wielka Bestia (Dinozaur), Bezcharakterowa_
 **Umiejętności** Skradanie się +5<br>
 **Zmysły** Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 4 (PD 1,100; premia do biegłości +2)
+**SW** 4 (PD 1,100; premia z biegłości +2)
 
 ### Cechy
 
@@ -289,7 +289,7 @@ _Wielka Bestia (Dinozaur), Bezcharakterowa_
 
 ## Pawian
 
-_Mała Bestia, Bezcharakterowa_
+_Mała Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 3 (1k6) <br>
@@ -346,7 +346,7 @@ _Mała Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -362,7 +362,7 @@ _Mała Bestia, Bezcharakterowa_
 
 ## Borsuk
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +0 (10) <br>
 **PW** 5 (1k4 + 3) <br>
@@ -421,7 +421,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Odporności** od trucizny<br>
 **Zmysły** Widzenie w ciemności 9 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Akcje
 
@@ -431,7 +431,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Nietoperz
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -486,9 +486,9 @@ _Malutka Bestia, Bezcharakterowa_
   </tbody>
 </table>
 
-**Zmysły** Ślepy wzrok 18 m; Pasywna Percepcja 11<br>
+**Zmysły** Ślepowidzenie 18 m; Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Akcje
 
@@ -498,7 +498,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Niedźwiedź czarny
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 19 (3k8 + 6) <br>
@@ -556,7 +556,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +5<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 ### Akcje
 
@@ -568,7 +568,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Krwiastrząb
 
-_Mała Bestia, Bezcharakterowa_
+_Mała Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 7 (2k6) <br>
@@ -626,7 +626,7 @@ _Mała Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +6<br>
 **Zmysły** Pasywna Percepcja 16<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Cechy
 
@@ -642,7 +642,7 @@ _Mała Bestia, Bezcharakterowa_
 
 ## Dzik
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +0 (10) <br>
 **PW** 13 (2k8 + 4) <br>
@@ -699,7 +699,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 9<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 
@@ -715,7 +715,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Niedźwiedź brunatny
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 22 (3k10 + 6) <br>
@@ -773,7 +773,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Akcje
 
@@ -787,7 +787,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Wielbłąd
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 10 **Inicjatywa** −1 (9) <br>
 **PW** 17 (2k10 + 6) <br>
@@ -844,7 +844,7 @@ _Duża Bestia, Bezcharakterowa_
 
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Akcje
 
@@ -854,7 +854,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Kot
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 2 (1k4) <br>
@@ -912,7 +912,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3, Skradanie się +4<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -928,7 +928,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Wąż dusiciel
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +2 (12) <br>
 **PW** 13 (2k10 + 2) <br>
@@ -984,9 +984,9 @@ _Duża Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Percepcja +2, Skradanie się +4<br>
-**Zmysły** Ślepy wzrok 3 m; Pasywna Percepcja 12<br>
+**Zmysły** Ślepowidzenie 3 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Akcje
 
@@ -998,7 +998,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Krab
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +0 (10) <br>
 **PW** 3 (1k4 + 1) <br>
@@ -1054,9 +1054,9 @@ _Malutka Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Skradanie się +2<br>
-**Zmysły** Ślepy wzrok 9 m; Pasywna Percepcja 9<br>
+**Zmysły** Ślepowidzenie 9 m; Pasywna Percepcja 9<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -1072,7 +1072,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Krokodyl
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +0 (10) <br>
 **PW** 13 (2k10 + 2) <br>
@@ -1130,7 +1130,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Skradanie się +2<br>
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 ### Cechy
 
@@ -1146,7 +1146,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Jeleń
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 4 (1k8) <br>
@@ -1204,7 +1204,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +4<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -1220,7 +1220,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Straszliwy wilk
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 14 **Inicjatywa** +2 (12) <br>
 **PW** 22 (3k10 + 6) <br>
@@ -1278,7 +1278,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +5, Skradanie się +4<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Cechy
 
@@ -1294,7 +1294,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Koń pociągowy
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 10 **Inicjatywa** +0 (10) <br>
 **PW** 15 (2k10 + 4) <br>
@@ -1351,7 +1351,7 @@ _Duża Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Akcje
 
@@ -1361,7 +1361,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Orzeł
 
-_Mała Bestia, Bezcharakterowa_
+_Mała Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 4 (1k6 + 1) <br>
@@ -1419,7 +1419,7 @@ _Mała Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +6<br>
 **Zmysły** Pasywna Percepcja 16<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Akcje
 
@@ -1429,7 +1429,7 @@ _Mała Bestia, Bezcharakterowa_
 
 ## Słoń
 
-_Wielka Bestia, Bezcharakterowa_
+_Wielka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** −1 (9) <br>
 **PW** 76 (8k12 + 24) <br>
@@ -1486,7 +1486,7 @@ _Wielka Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 4 (PD 1,100; premia do biegłości +2)
+**SW** 4 (PD 1,100; premia z biegłości +2)
 
 ### Akcje
 
@@ -1504,7 +1504,7 @@ _Wielka Bestia, Bezcharakterowa_
 
 ## Łoś
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 10 **Inicjatywa** +0 (10) <br>
 **PW** 11 (2k10) <br>
@@ -1562,7 +1562,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +2<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Akcje
 
@@ -1572,7 +1572,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Wąż latający
 
-_Malutka Potworność, Bezcharakterowa_
+_Malutka Potworność, Nieokreślona_
 
 **KP** 14 **Inicjatywa** +2 (12) <br>
 **PW** 5 (2k4) <br>
@@ -1627,9 +1627,9 @@ _Malutka Potworność, Bezcharakterowa_
   </tbody>
 </table>
 
-**Zmysły** Ślepy wzrok 3 m; Pasywna Percepcja 11<br>
+**Zmysły** Ślepowidzenie 3 m; Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Cechy
 
@@ -1645,7 +1645,7 @@ _Malutka Potworność, Bezcharakterowa_
 
 ## Żaba
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -1703,7 +1703,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +1, Skradanie się +3<br>
 **Zmysły** Widzenie w ciemności 9 m; Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -1721,7 +1721,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Olbrzymia małpa człekokształtna
 
-_Wielka Bestia, Bezcharakterowa_
+_Wielka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +5 (15) <br>
 **PW** 168 (16k12 + 64) <br>
@@ -1779,7 +1779,7 @@ _Wielka Bestia, Bezcharakterowa_
 **Umiejętności** Atletyka +9, Percepcja +4, Przetrwanie +4<br>
 **Zmysły** Pasywna Percepcja 14<br>
 **Języki** Brak<br>
-**SW** 7 (PD 2,900; premia do biegłości +3)
+**SW** 7 (PD 2,900; premia z biegłości +3)
 
 ### Akcje
 
@@ -1799,7 +1799,7 @@ _Wielka Bestia, Bezcharakterowa_
 
 ## Olbrzymi borsuk
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +0 (10) <br>
 **PW** 15 (2k8 + 6) <br>
@@ -1858,7 +1858,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Odporności** od trucizny<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Akcje
 
@@ -1868,7 +1868,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Olbrzymi nietoperz
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 22 (4k10) <br>
@@ -1923,9 +1923,9 @@ _Duża Bestia, Bezcharakterowa_
   </tbody>
 </table>
 
-**Zmysły** Ślepy wzrok 36 m; Pasywna Percepcja 11<br>
+**Zmysły** Ślepowidzenie 36 m; Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Akcje
 
@@ -1935,7 +1935,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Olbrzymi dzik
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +0 (10) <br>
 **PW** 42 (5k10 + 15) <br>
@@ -1992,7 +1992,7 @@ _Duża Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 8<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Cechy
 
@@ -2008,7 +2008,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Olbrzymia stonoga
 
-_Mała Bestia, Bezcharakterowa_
+_Mała Bestia, Nieokreślona_
 
 **KP** 14 **Inicjatywa** +2 (12) <br>
 **PW** 9 (2k6 + 2) <br>
@@ -2063,9 +2063,9 @@ _Mała Bestia, Bezcharakterowa_
   </tbody>
 </table>
 
-**Zmysły** Ślepy wzrok 9 m; Pasywna Percepcja 8<br>
+**Zmysły** Ślepowidzenie 9 m; Pasywna Percepcja 8<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Akcje
 
@@ -2075,7 +2075,7 @@ _Mała Bestia, Bezcharakterowa_
 
 ## Olbrzymi wąż dusiciel
 
-_Wielka Bestia, Bezcharakterowa_
+_Wielka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 60 (8k12 + 8) <br>
@@ -2131,9 +2131,9 @@ _Wielka Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Percepcja +2<br>
-**Zmysły** Ślepy wzrok 3 m; Pasywna Percepcja 12<br>
+**Zmysły** Ślepowidzenie 3 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Akcje
 
@@ -2147,7 +2147,7 @@ _Wielka Bestia, Bezcharakterowa_
 
 ## Olbrzymi krab
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 15 **Inicjatywa** +1 (11) <br>
 **PW** 13 (3k8) <br>
@@ -2203,9 +2203,9 @@ _Średnia Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Skradanie się +3<br>
-**Zmysły** Ślepy wzrok 9 m; Pasywna Percepcja 9<br>
+**Zmysły** Ślepowidzenie 9 m; Pasywna Percepcja 9<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Cechy
 
@@ -2221,7 +2221,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Olbrzymi krokodyl
 
-_Wielka Bestia, Bezcharakterowa_
+_Wielka Bestia, Nieokreślona_
 
 **KP** 14 **Inicjatywa** −1 (9) <br>
 **PW** 85 (9k12 + 27) <br>
@@ -2279,7 +2279,7 @@ _Wielka Bestia, Bezcharakterowa_
 **Umiejętności** Skradanie się +5<br>
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 5 (PD 1,800; premia do biegłości +3)
+**SW** 5 (PD 1,800; premia z biegłości +3)
 
 ### Cechy
 
@@ -2358,7 +2358,7 @@ _Duży Niebianin, Neutralny Dobry_
 **Odporności** nekrotyczne, od światła<br>
 **Zmysły** Pasywna Percepcja 16<br>
 **Języki** Niebiański; rozumie Wspólny i Pierwotny (Powietrzny), ale nie może się nimi posługiwać<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Akcje
 
@@ -2429,7 +2429,7 @@ _Wielki Niebianin, Neutralny Dobry_
 **Odporności** nekrotyczne, od światła<br>
 **Zmysły** Widzenie w ciemności 27 m; Pasywna Percepcja 14<br>
 **Języki** Niebiański; rozumie Wspólny, Elficki i Leśny, ale nie może się nimi posługiwać<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Akcje
 
@@ -2439,7 +2439,7 @@ _Wielki Niebianin, Neutralny Dobry_
 
 ## Olbrzymi żuk ogniowy
 
-_Mała Bestia, Bezcharakterowa_
+_Mała Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +0 (10) <br>
 **PW** 4 (1k6 + 1) <br>
@@ -2495,9 +2495,9 @@ _Mała Bestia, Bezcharakterowa_
 </table>
 
 **Odporności** od ognia<br>
-**Zmysły** Ślepy wzrok 9 m; Pasywna Percepcja 8<br>
+**Zmysły** Ślepowidzenie 9 m; Pasywna Percepcja 8<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -2513,7 +2513,7 @@ _Mała Bestia, Bezcharakterowa_
 
 ## Olbrzymia żaba
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 18 (4k8) <br>
@@ -2571,7 +2571,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +2, Skradanie się +4<br>
 **Zmysły** Widzenie w ciemności 9 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 
@@ -2592,7 +2592,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Olbrzymi kozioł
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 19 (3k10 + 3) <br>
@@ -2650,7 +2650,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 ### Akcje
 
@@ -2660,7 +2660,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Olbrzymia hiena
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 45 (6k10 + 12) <br>
@@ -2718,7 +2718,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Akcje
 
@@ -2734,7 +2734,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Olbrzymia jaszczurka
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +1 (11) <br>
 **PW** 19 (3k10 + 3) <br>
@@ -2791,7 +2791,7 @@ _Duża Bestia, Bezcharakterowa_
 
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 
@@ -2807,7 +2807,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Olbrzymia ośmiornica
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 45 (7k10 + 7) <br>
@@ -2865,7 +2865,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +4, Skradanie się +5<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Cechy
 
@@ -2883,7 +2883,7 @@ _Duża Bestia, Bezcharakterowa_
 
 <hr>
 
-**_Chmura atramentu (1/dzień)._** _Wyzwalacz:_ Ośmiornica otrzymuje obrażenia pod wodą. _Reakcja:_ Ośmiornica uwalnia atrament, który wypełnia Sześcian o boku 3 m wycentrowany na niej, i ośmiornica porusza się do pełnej swojej Szybkości pływania. Sześcian jest mocno zasłonięty przez 1 minutę albo do chwili, gdy silny prąd lub podobny efekt rozproszy atrament.
+**_Chmura atramentu (1/dzień)._** _Wyzwalacz:_ Ośmiornica otrzymuje obrażenia pod wodą. _Reakcja:_ Ośmiornica uwalnia atrament, który wypełnia Sześcian o boku 3 m wycentrowany na niej, i ośmiornica porusza się do pełnej swojej Szybkości pływania. Sześcian jest silnie przesłonięty przez 1 minutę albo do chwili, gdy silny prąd lub podobny efekt rozproszy atrament.
 
 ## Olbrzymia sowa
 
@@ -2946,7 +2946,7 @@ _Duży Niebianin, Neutralny_
 **Odporności** nekrotyczne, od światła<br>
 **Zmysły** Widzenie w ciemności 36 m; Pasywna Percepcja 16<br>
 **Języki** Niebiański; rozumie Wspólny, Elficki i Leśny, ale nie może się nimi posługiwać<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 
@@ -2966,7 +2966,7 @@ _Duży Niebianin, Neutralny_
 
 ## Olbrzymi szczur
 
-_Mała Bestia, Bezcharakterowa_
+_Mała Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 7 (2k6) <br>
@@ -3024,7 +3024,7 @@ _Mała Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +2<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Cechy
 
@@ -3040,7 +3040,7 @@ _Mała Bestia, Bezcharakterowa_
 
 ## Olbrzymi skorpion
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 15 **Inicjatywa** +1 (11) <br>
 **PW** 52 (7k10 + 14) <br>
@@ -3095,9 +3095,9 @@ _Duża Bestia, Bezcharakterowa_
   </tbody>
 </table>
 
-**Zmysły** Ślepy wzrok 18 m; Pasywna Percepcja 9<br>
+**Zmysły** Ślepowidzenie 18 m; Pasywna Percepcja 9<br>
 **Języki** Brak<br>
-**SW** 3 (PD 700; premia do biegłości +2)
+**SW** 3 (PD 700; premia z biegłości +2)
 
 ### Akcje
 
@@ -3111,7 +3111,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Olbrzymi konik morski
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 14 **Inicjatywa** +1 (11) <br>
 **PW** 16 (3k10) <br>
@@ -3168,7 +3168,7 @@ _Duża Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 ### Cechy
 
@@ -3190,7 +3190,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Olbrzymi rekin
 
-_Wielka Bestia, Bezcharakterowa_
+_Wielka Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 92 (8k12 + 40) <br>
@@ -3246,9 +3246,9 @@ _Wielka Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Percepcja +3<br>
-**Zmysły** Ślepy wzrok 18 m; Pasywna Percepcja 13<br>
+**Zmysły** Ślepowidzenie 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 5 (PD 1,800; premia do biegłości +3)
+**SW** 5 (PD 1,800; premia z biegłości +3)
 
 ### Cechy
 
@@ -3266,7 +3266,7 @@ _Wielka Bestia, Bezcharakterowa_
 
 ## Olbrzymi pająk
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 14 **Inicjatywa** +3 (13) <br>
 **PW** 26 (4k10 + 4) <br>
@@ -3324,7 +3324,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +4, Skradanie się +7<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Cechy
 
@@ -3344,7 +3344,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Olbrzymia ropucha
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 39 (6k10 + 6) <br>
@@ -3401,7 +3401,7 @@ _Duża Bestia, Bezcharakterowa_
 
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Cechy
 
@@ -3422,7 +3422,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Olbrzymi jadowity wąż
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 14 **Inicjatywa** +4 (14) <br>
 **PW** 11 (2k8 + 2) <br>
@@ -3478,9 +3478,9 @@ _Średnia Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Percepcja +2<br>
-**Zmysły** Ślepy wzrok 3 m; Pasywna Percepcja 12<br>
+**Zmysły** Ślepowidzenie 3 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Akcje
 
@@ -3549,7 +3549,7 @@ _Duża Potworność, Neutralny Zły_
 **Odporności** nekrotyczne<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Rozumie Wspólny, ale nie może mówić<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Cechy
 
@@ -3565,7 +3565,7 @@ _Duża Potworność, Neutralny Zły_
 
 ## Olbrzymia osa
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +2 (12) <br>
 **PW** 22 (5k8) <br>
@@ -3622,7 +3622,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 ### Cechy
 
@@ -3638,7 +3638,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Olbrzymia łasica
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 9 (2k8) <br>
@@ -3696,7 +3696,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Akrobatyka +5, Percepcja +3, Skradanie się +5<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Akcje
 
@@ -3706,7 +3706,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Olbrzymi pogoniec
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 11 (2k8 + 2) <br>
@@ -3762,9 +3762,9 @@ _Średnia Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Percepcja +3, Skradanie się +7<br>
-**Zmysły** Ślepy wzrok 3 m, Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
+**Zmysły** Ślepowidzenie 3 m, Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 
@@ -3780,7 +3780,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Koza
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 10 **Inicjatywa** +0 (10) <br>
 **PW** 4 (1k8) <br>
@@ -3838,7 +3838,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +2<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Akcje
 
@@ -3848,7 +3848,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Jastrząb
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -3906,7 +3906,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +6<br>
 **Zmysły** Pasywna Percepcja 16<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Akcje
 
@@ -3916,7 +3916,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Hipopotam
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 14 **Inicjatywa** −2 (8) <br>
 **PW** 82 (11k10 + 22) <br>
@@ -3974,7 +3974,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3<br>
 **Zmysły** Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 4 (PD 1,100; premia do biegłości +2)
+**SW** 4 (PD 1,100; premia z biegłości +2)
 
 ### Cechy
 
@@ -3992,7 +3992,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Rekin łowca
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 45 (6k10 + 12) <br>
@@ -4048,9 +4048,9 @@ _Duża Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Percepcja +2<br>
-**Zmysły** Ślepy wzrok 18 m; Pasywna Percepcja 12<br>
+**Zmysły** Ślepowidzenie 18 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Cechy
 
@@ -4066,7 +4066,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Hiena
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 5 (1k8 + 1) <br>
@@ -4124,7 +4124,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -4140,7 +4140,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Szakal
 
-_Mała Bestia, Bezcharakterowa_
+_Mała Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 3 (1k6) <br>
@@ -4198,7 +4198,7 @@ _Mała Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +5, Skradanie się +4<br>
 **Zmysły** Widzenie w ciemności 27 m; Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Akcje
 
@@ -4208,7 +4208,7 @@ _Mała Bestia, Bezcharakterowa_
 
 ## Orka
 
-_Wielka Bestia, Bezcharakterowa_
+_Wielka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 90 (12k12 + 12) <br>
@@ -4264,9 +4264,9 @@ _Wielka Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Percepcja +3, Skradanie się +4<br>
-**Zmysły** Ślepy wzrok 36 m; Pasywna Percepcja 13<br>
+**Zmysły** Ślepowidzenie 36 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 3 (PD 700; premia do biegłości +2)
+**SW** 3 (PD 700; premia z biegłości +2)
 
 ### Cechy
 
@@ -4282,7 +4282,7 @@ _Wielka Bestia, Bezcharakterowa_
 
 ## Lew
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 22 (4k10) <br>
@@ -4340,7 +4340,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3, Skradanie się +4<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Cechy
 
@@ -4362,7 +4362,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Jaszczurka
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 10 **Inicjatywa** +0 (10) <br>
 **PW** 2 (1k4) <br>
@@ -4419,7 +4419,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 **Zmysły** Widzenie w ciemności 9 m; Pasywna Percepcja 9<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -4435,7 +4435,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Mamut
 
-_Wielka Bestia, Bezcharakterowa_
+_Wielka Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +2 (12) <br>
 **PW** 126 (11k12 + 55) <br>
@@ -4492,7 +4492,7 @@ _Wielka Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 6 (PD 2,300; premia do biegłości +3)
+**SW** 6 (PD 2,300; premia z biegłości +3)
 
 ### Akcje
 
@@ -4510,7 +4510,7 @@ _Wielka Bestia, Bezcharakterowa_
 
 ## Mastif
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 5 (1k8 + 1) <br>
@@ -4568,7 +4568,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +5<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Akcje
 
@@ -4578,7 +4578,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Muł
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 10 **Inicjatywa** +0 (10) <br>
 **PW** 11 (2k8 + 2) <br>
@@ -4635,7 +4635,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Cechy
 
@@ -4651,7 +4651,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Ośmiornica
 
-_Mała Bestia, Bezcharakterowa_
+_Mała Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 3 (1k6) <br>
@@ -4709,7 +4709,7 @@ _Mała Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +2, Skradanie się +6<br>
 **Zmysły** Widzenie w ciemności 9 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -4729,11 +4729,11 @@ _Mała Bestia, Bezcharakterowa_
 
 <hr>
 
-**_Chmura atramentu (1/dzień)._** _Wyzwalacz:_ Istota kończy turę w zasięgu 1,5 m od ośmiornicy pod wodą. _Reakcja:_ Ośmiornica uwalnia atrament, który wypełnia Sześcian o boku 1,5 m wycentrowany na niej, i ośmiornica porusza się do pełnej swojej Szybkości pływania. Sześcian jest mocno zasłonięty przez 1 minutę albo do chwili, gdy silny prąd lub podobny efekt rozproszy atrament.
+**_Chmura atramentu (1/dzień)._** _Wyzwalacz:_ Istota kończy turę w zasięgu 1,5 m od ośmiornicy pod wodą. _Reakcja:_ Ośmiornica uwalnia atrament, który wypełnia Sześcian o boku 1,5 m wycentrowany na niej, i ośmiornica porusza się do pełnej swojej Szybkości pływania. Sześcian jest silnie przesłonięty przez 1 minutę albo do chwili, gdy silny prąd lub podobny efekt rozproszy atrament.
 
 ## Sowa
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -4791,7 +4791,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +5, Skradanie się +5<br>
 **Zmysły** Widzenie w ciemności 36 m; Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -4807,7 +4807,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Pantera
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 13 (3k8) <br>
@@ -4865,7 +4865,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +4, Skradanie się +7<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Akcje
 
@@ -4881,7 +4881,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Pirania
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -4938,7 +4938,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 8<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -4954,7 +4954,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Plezjozaur
 
-_Duża Bestia (Dinozaur), Bezcharakterowa_
+_Duża Bestia (Dinozaur), Nieokreślona_
 
 **KP** 13 **Inicjatywa** +2 (12) <br>
 **PW** 68 (8k10 + 24) <br>
@@ -5012,7 +5012,7 @@ _Duża Bestia (Dinozaur), Bezcharakterowa_
 **Umiejętności** Percepcja +3, Skradanie się +4<br>
 **Zmysły** Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Cechy
 
@@ -5028,7 +5028,7 @@ _Duża Bestia (Dinozaur), Bezcharakterowa_
 
 ## Niedźwiedź biały
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 42 (5k10 + 15) <br>
@@ -5087,7 +5087,7 @@ _Duża Bestia, Bezcharakterowa_
 **Odporności** Cold<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Akcje
 
@@ -5099,7 +5099,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Kucyk
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 10 **Inicjatywa** +0 (10) <br>
 **PW** 11 (2k8 + 2) <br>
@@ -5156,7 +5156,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Akcje
 
@@ -5166,7 +5166,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Pteranodon
 
-_Medium Beast (Dinosaur), Unaligned_
+_Średnia Bestia (Dinozaur), Nieokreślona_
 
 **KP** 13 **Inicjatywa** +2 (12) <br>
 **PW** 13 (3k8) <br>
@@ -5224,7 +5224,7 @@ _Medium Beast (Dinosaur), Unaligned_
 **Umiejętności** Percepcja +1<br>
 **Zmysły** Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 
@@ -5240,7 +5240,7 @@ _Medium Beast (Dinosaur), Unaligned_
 
 ## Szczur
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 10 **Inicjatywa** +0 (10) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -5298,7 +5298,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +2<br>
 **Zmysły** Widzenie w ciemności 9 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -5314,7 +5314,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Kruk
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 2 (1k4) <br>
@@ -5372,7 +5372,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3<br>
 **Zmysły** Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -5388,7 +5388,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Rekin rafowy
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 22 (4k8 + 4) <br>
@@ -5444,9 +5444,9 @@ _Średnia Bestia, Bezcharakterowa_
 </table>
 
 **Umiejętności** Percepcja +2<br>
-**Zmysły** Ślepy wzrok 9 m; Pasywna Percepcja 12<br>
+**Zmysły** Ślepowidzenie 9 m; Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 ### Cechy
 
@@ -5464,7 +5464,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Nosorożec
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** −1 (9) <br>
 **PW** 45 (6k10 + 12) <br>
@@ -5521,7 +5521,7 @@ _Duża Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Akcje
 
@@ -5531,7 +5531,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Koń wierzchowy
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 13 (2k10 + 2) <br>
@@ -5588,7 +5588,7 @@ _Duża Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Akcje
 
@@ -5598,7 +5598,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Tygrys szablozębny
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 52 (7k10 + 14) <br>
@@ -5656,7 +5656,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +5, Skradanie się +7<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Cechy
 
@@ -5680,7 +5680,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Skorpion
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +0 (10) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -5735,9 +5735,9 @@ _Malutka Bestia, Bezcharakterowa_
   </tbody>
 </table>
 
-**Zmysły** Ślepy wzrok 3 m; Pasywna Percepcja 9<br>
+**Zmysły** Ślepowidzenie 3 m; Pasywna Percepcja 9<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Akcje
 
@@ -5747,7 +5747,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Konik morski
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +1 (11) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -5805,7 +5805,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +2, Skradanie się +5<br>
 **Zmysły** Pasywna Percepcja 12<br>
 **Języki** Brak<br>
-**SW** 0 (PD 0; premia do biegłości +2)
+**SW** 0 (PD 0; premia z biegłości +2)
 
 ### Cechy
 
@@ -5821,7 +5821,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Pająk
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -5879,7 +5879,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Umiejętności** Skradanie się +4<br>
 **Zmysły** Widzenie w ciemności 9 m; Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -5897,7 +5897,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Rój nietoperzy
 
-_Duży Rój malutkich bestii, Bezcharakterowy_
+_Duży Rój malutkich bestii, Nieokreślony_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 11 (2k10) <br>
@@ -5954,9 +5954,9 @@ _Duży Rój malutkich bestii, Bezcharakterowy_
 
 **Odporności** obuchowe, kłute, tnące<br>
 **Niewrażliwości** Zauroczenie, Przerażenie, Pochwycenie, Sparaliżowanie, Skamienienie, Powalenie, Unieruchomienie, Ogłuszenie<br>
-**Zmysły** Ślepy wzrok 18 m; Pasywna Percepcja 11<br>
+**Zmysły** Ślepowidzenie 18 m; Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 
@@ -5972,11 +5972,11 @@ _Duży Rój malutkich bestii, Bezcharakterowy_
 
 ## Rój owadów
 
-_Średni Rój malutkich bestii, Bezcharakterowy_
+_Średni Rój malutkich bestii, Nieokreślony_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 19 (3k8 + 6) <br>
-**Szybkość** 6 m, Wspinaczka lub Lot 6 m (wybór MG) <br>
+**Szybkość** 6 m, Wspinaczka lub Lot 6 m (wybór MP) <br>
 
 <table>
   <thead>
@@ -6029,9 +6029,9 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 
 **Odporności** obuchowe, kłute, tnące<br>
 **Niewrażliwości** Zauroczenie, Przerażenie, Pochwycenie, Sparaliżowanie, Skamienienie, Powalenie, Unieruchomienie, Ogłuszenie<br>
-**Zmysły** Ślepy wzrok 9 m; Pasywna Percepcja 8<br>
+**Zmysły** Ślepowidzenie 9 m; Pasywna Percepcja 8<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 ### Cechy
 
@@ -6049,7 +6049,7 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 
 ## Rój Piranii
 
-_Średni Rój malutkich bestii, Bezcharakterowy_
+_Średni Rój malutkich bestii, Nieokreślony_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 28 (8k8 − 8) <br>
@@ -6108,7 +6108,7 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 **Niewrażliwości** Zauroczenie, Przerażenie, Pochwycenie, Sparaliżowanie, Skamienienie, Powalenie, Unieruchomienie, Ogłuszenie<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 8<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Cechy
 
@@ -6126,7 +6126,7 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 
 ## Rój szczurów
 
-_Średni Rój malutkich bestii, Bezcharakterowy_
+_Średni Rój malutkich bestii, Nieokreślony_
 
 **KP** 10 **Inicjatywa** +0 (10) <br>
 **PW** 14 (4k8 − 4) <br>
@@ -6185,7 +6185,7 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 **Niewrażliwości** Zauroczenie, Przerażenie, Pochwycenie, Sparaliżowanie, Skamienienie, Powalenie, Unieruchomienie, Ogłuszenie<br>
 **Zmysły** Widzenie w ciemności 9 m; Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 
@@ -6201,7 +6201,7 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 
 ## Rój kruków
 
-_Średni Rój malutkich bestii, Bezcharakterowy_
+_Średni Rój malutkich bestii, Nieokreślony_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 11 (2k8 + 2) <br>
@@ -6261,7 +6261,7 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 **Niewrażliwości** Zauroczenie, Przerażenie, Pochwycenie, Sparaliżowanie, Skamienienie, Powalenie, Unieruchomienie, Ogłuszenie<br>
 **Zmysły** Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 
@@ -6279,7 +6279,7 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 
 ## Kłębowisko jadowitych węży
 
-_Średni Rój malutkich bestii, Bezcharakterowy_
+_Średni Rój malutkich bestii, Nieokreślony_
 
 **KP** 14 **Inicjatywa** +4 (14) <br>
 **PW** 36 (8k8) <br>
@@ -6336,9 +6336,9 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 
 **Odporności** obuchowe, kłute, tnące<br>
 **Niewrażliwości** Zauroczenie, Przerażenie, Pochwycenie, Sparaliżowanie, Skamienienie, Powalenie, Unieruchomienie, Ogłuszenie<br>
-**Zmysły** Ślepy wzrok 3 m; Pasywna Percepcja 10<br>
+**Zmysły** Ślepowidzenie 3 m; Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 ### Cechy
 
@@ -6354,7 +6354,7 @@ _Średni Rój malutkich bestii, Bezcharakterowy_
 
 ## Tygrys
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 30 (4k10 + 8) <br>
@@ -6412,7 +6412,7 @@ _Duża Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3, Skradanie się +7<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 ### Akcje
 
@@ -6428,7 +6428,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Triceratops
 
-_Wielka Bestia (Dinozaur), Bezcharakterowa_
+_Wielka Bestia (Dinozaur), Nieokreślona_
 
 **KP** 14 **Inicjatywa** −1 (9) <br>
 **PW** 114 (12k12 + 36) <br>
@@ -6485,7 +6485,7 @@ _Wielka Bestia (Dinozaur), Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 5 (PD 1,800; premia do biegłości +3)
+**SW** 5 (PD 1,800; premia z biegłości +3)
 
 ### Akcje
 
@@ -6497,7 +6497,7 @@ _Wielka Bestia (Dinozaur), Bezcharakterowa_
 
 ## Tyranozaur
 
-_Wielka Bestia (Dinozaur), Bezcharakterowa_
+_Wielka Bestia (Dinozaur), Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 136 (13k12 + 52) <br>
@@ -6555,7 +6555,7 @@ _Wielka Bestia (Dinozaur), Bezcharakterowa_
 **Umiejętności** Percepcja +4<br>
 **Zmysły** Pasywna Percepcja 14<br>
 **Języki** Brak<br>
-**SW** 8 (PD 3,900; premia do biegłości +3)
+**SW** 8 (PD 3,900; premia z biegłości +3)
 
 ### Akcje
 
@@ -6569,7 +6569,7 @@ _Wielka Bestia (Dinozaur), Bezcharakterowa_
 
 ## Jadowity wąż
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 5 (2k4) <br>
@@ -6624,9 +6624,9 @@ _Malutka Bestia, Bezcharakterowa_
   </tbody>
 </table>
 
-**Zmysły** Ślepy wzrok 3 m; Pasywna Percepcja 10<br>
+**Zmysły** Ślepowidzenie 3 m; Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 ### Akcje
 
@@ -6636,7 +6636,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Sęp
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 10 **Inicjatywa** +0 (10) <br>
 **PW** 5 (1k8 + 1) <br>
@@ -6694,7 +6694,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +3<br>
 **Zmysły** Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Cechy
 
@@ -6710,7 +6710,7 @@ _Średnia Bestia, Bezcharakterowa_
 
 ## Rumak bojowy
 
-_Duża Bestia, Bezcharakterowa_
+_Duża Bestia, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 19 (3k10 + 3) <br>
@@ -6767,7 +6767,7 @@ _Duża Bestia, Bezcharakterowa_
 
 **Zmysły** Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 ### Akcje
 
@@ -6777,7 +6777,7 @@ _Duża Bestia, Bezcharakterowa_
 
 ## Łasica
 
-_Malutka Bestia, Bezcharakterowa_
+_Malutka Bestia, Nieokreślona_
 
 **KP** 13 **Inicjatywa** +3 (13) <br>
 **PW** 1 (1k4 − 1) <br>
@@ -6835,7 +6835,7 @@ _Malutka Bestia, Bezcharakterowa_
 **Umiejętności** Akrobatyka +5, Percepcja +3, Skradanie się +5<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 ### Akcje
 
@@ -6845,7 +6845,7 @@ _Malutka Bestia, Bezcharakterowa_
 
 ## Wilk
 
-_Średnia Bestia, Bezcharakterowa_
+_Średnia Bestia, Nieokreślona_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 11 (2k8 + 2) <br>
@@ -6903,7 +6903,7 @@ _Średnia Bestia, Bezcharakterowa_
 **Umiejętności** Percepcja +5, Skradanie się +4<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 ### Cechy
 

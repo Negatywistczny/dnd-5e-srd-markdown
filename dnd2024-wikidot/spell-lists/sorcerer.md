@@ -5,17 +5,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Acid Splash](http://dnd2024.wikidot.com/spell:acid-splash) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
@@ -208,10 +197,3 @@
 | [Power Word Kill](http://dnd2024.wikidot.com/spell:power-word-kill) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
 | [Time Stop](http://dnd2024.wikidot.com/spell:time-stop) | *Transmutation* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
 | [Wish](http://dnd2024.wikidot.com/spell:wish) | *Conjuration* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabViewaa2e50209e721d12a55d51c4201eee28 = new YAHOO.widget.TabView('wiki-tabview-aa2e50209e721d12a55d51c4201eee28');
-                }, "dummy-ondomready-block");
-        
-//]]>

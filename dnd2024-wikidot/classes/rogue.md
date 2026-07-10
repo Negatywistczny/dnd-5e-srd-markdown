@@ -65,13 +65,13 @@ Some Rogues began their careers as criminals, while other used their cunning to 
 
 As a Rogue, you gain the following class features when you reach the specified Rogue levels. These features are listed in the Rogue Features table.
 
-### Level 1: Expertise []()
+### Level 1: Expertise
 
 You gain Expertise in two of your skill proficiencies of your choice. Sleight of Hand and Stealth are recommended if you have proficiency in them.
 
 At Rogue Level 6, you gain Expertise in two more of your skill proficiencies of your Choice.
 
-### Level 1: Sneak Attack []()
+### Level 1: Sneak Attack
 
 You know how to strike subtly and exploit a foe's distraction. Once per turn you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
 
@@ -79,21 +79,21 @@ You don't need Advantage on the attack roll if at least one of your allies is wi
 
 The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 
-### Level 1: Thieves' Cant []()
+### Level 1: Thieves' Cant
 
 You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice, which you choose from the language tables in Chapter 2.
 
-### Level 1: Weapon Mastery []()
+### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
 
-### Level 2: Cunning Action []()
+### Level 2: Cunning Action
 
 Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
 
-### Level 3: Rogue Subclass []()
+### Level 3: Rogue Subclass
 
 You gain a Rogue subclass of your choice. The Arcane Trickster, Assassin, Soulknife, and the Thief subclasses are detailed after this class's description. A Subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass’s features that are of your Rogue level or lower.
 
@@ -108,15 +108,15 @@ You gain a Rogue subclass of your choice. The Arcane Trickster, Assassin, Soulkn
 | [Soulknife](http://dnd2024.wikidot.com/rogue:soulknife) |
 | [Thief](http://dnd2024.wikidot.com/rogue:thief) |
 
-### Level 3: Steady Aim []()
+### Level 3: Steady Aim
 
 As a Bonus Action, you give yourself Advantage on your next attack roll on your current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.
 
-### Level 4: Ability Score Improvement []()
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement feat](http://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](http://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
-### Level 5: Cunning Strike []()
+### Level 5: Cunning Strike
 
 You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove 1d6 from the Sneak Attack's damage before rolling.
 
@@ -130,23 +130,23 @@ To use this effect, you must have a Poisoner's Kit on your person.
 
 **Withdraw (Cost: 1d6).** Immediately after the attack, you move up to half your speed without provoking Opportunity Attacks.
 
-### Level 5: Uncanny Dodge []()
+### Level 5: Uncanny Dodge
 
 When an attacker that you can see hits you with an attack roll, you can take a Reaction to halve the attack's damage against you (round down).
 
-### Level 7: Evasion []()
+### Level 7: Evasion
 
 You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.
 
-### Level 7: Reliable Talent []()
+### Level 7: Reliable Talent
 
 Whenever you make an ability check that uses one of your skill or tool proficiencies, you can treat a d20 roll of 9 or lower as a 10.
 
-### Level 11: Improved Cunning Strike []()
+### Level 11: Improved Cunning Strike
 
 You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect.
 
-### Level 14: Devious Strikes []()
+### Level 14: Devious Strikes
 
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
 
@@ -156,19 +156,19 @@ You've practiced new ways to use your Sneak Attack deviously. The following effe
 
 **Obscure (Cost: 3d6).** The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.
 
-### Level 15: Slippery Mind []()
+### Level 15: Slippery Mind
 
 Your mind is exceptionally difficult to control. You gain proficiency in Wisdom and Charisma saving throws.
 
-### Level 18: Elusive []()
+### Level 18: Elusive
 
 You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have advantage against you unless you have the Incapacitated condition.
 
-### Level 19: Epic Boon []()
+### Level 19: Epic Boon
 
 You gain an [Epic Boon feat](http://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of the Night Spirit](http://dnd2024.wikidot.com/feat:boon-of-the-night-spirit) is recommended.
 
-### Level 20: Stroke of Luck []()
+### Level 20: Stroke of Luck
 
 You have a marvelous knack for succeeding when you need to. If you fail a d20 Test, you can turn the roll into a 20.
 

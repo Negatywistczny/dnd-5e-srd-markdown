@@ -90,7 +90,7 @@ A Bard's life is spent traveling, gathering lore, telling stories, and living on
 
 As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
 
-### Level 1: Bardic Inspiration []()
+### Level 1: Bardic Inspiration
 
 You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
 
@@ -102,7 +102,7 @@ Once within the next hour when the creature fails a D20 Test, the creature can r
 
 **At Higher Levels.** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
 
-### Level 1: Spellcasting []()
+### Level 1: Spellcasting
 
 You have learned to cast spells through your bardic arts. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the [Bard spell list](http://dnd2024.wikidot.com/bard:spell-list) later in the class's description.
 
@@ -126,19 +126,19 @@ If another Bard feature gives you spells that you always have prepared, those sp
 
 **Spellcasting Focus.** You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
 
-### Level 2: Expertise []()
+### Level 2: Expertise
 
 You gain Expertise (see the rules glossary) in two of your skill proficiencies of your choice. Performance and Persuasion are recommended if you have proficiency in them.
 
 At Bard level 9, you gain Expertise in two more of your skill proficiencies of your choice.
 
-### Level 2: Jack of all Trades []()
+### Level 2: Jack of all Trades
 
 You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.
 
 For example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.
 
-### Level 3: Bard Subclass []()
+### Level 3: Bard Subclass
 
 You gain a Bard subclass of your choice. The College of Dance, College of Glamour, College of Lore, and College of Valor subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass’s features that are of your Bard level or lower.
 
@@ -153,32 +153,32 @@ You gain a Bard subclass of your choice. The College of Dance, College of Glamou
 | [College of the Moon](http://dnd2024.wikidot.com/bard:college-of-the-moon) |
 | [College of Valor](http://dnd2024.wikidot.com/bard:college-of-valor) |
 
-### Level 4: Ability Score Improvement []()
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement feat](http://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](http://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
 
-### Level 5: Font of Inspiration []()
+### Level 5: Font of Inspiration
 
 You now regain all your expended uses of Bardic Inspiration when you finish a Short or Long Rest.
 
 In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
 
-### Level 7: Countercharm []()
+### Level 7: Countercharm
 
 You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the Charmed or Frightened condition, you can take a Reaction to cause the save to be rerolled, and the new roll has Advantage.
 
-### Level 10: Magical Secrets []()
+### Level 10: Magical Secrets
 
 You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the [Bard](http://dnd2024.wikidot.com/bard:spell-list), [Cleric](http://dnd2024.wikidot.com/cleric:spell-list), [Druid](http://dnd2024.wikidot.com/druid:spell-list), and [Wizard](http://dnd2024.wikidot.com/wizard:spell-list) spell lists, and the chosen spells count as Bard spells for you (see a class’s section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
 
-### Level 18: Superior Inspiration []()
+### Level 18: Superior Inspiration
 
 When you roll Initiative, you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
 
-### Level 19: Epic Boon []()
+### Level 19: Epic Boon
 
 You gain an [Epic Boon feat](http://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Spell Recall](http://dnd2024.wikidot.com/feat:boon-of-spell-recall) is recommended.
 
-### Level 20: Words of Creation []()
+### Level 20: Words of Creation
 
 You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [Power Word: Heal](http://dnd2024.wikidot.com/spell:power-word-heal) and [Power Word: Kill](http://dnd2024.wikidot.com/spell:power-word-kill) spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.

@@ -5,17 +5,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Guidance](http://dnd2024.wikidot.com/spell:guidance) | *Divination* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
@@ -171,10 +160,3 @@
 | [Mass Heal](http://dnd2024.wikidot.com/spell:mass-heal) | *Abjuration* | Cleric | Action | 60 feet | V, S | Instantaneous |
 | [Power Word Heal](http://dnd2024.wikidot.com/spell:power-word-heal) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
 | [True Resurrection](http://dnd2024.wikidot.com/spell:true-resurrection) | *Necromancy* | Cleric, Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView2151a1e6eb02461cdd93ca0da12578f7 = new YAHOO.widget.TabView('wiki-tabview-2151a1e6eb02461cdd93ca0da12578f7');
-                }, "dummy-ondomready-block");
-        
-//]]>

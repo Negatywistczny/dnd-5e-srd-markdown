@@ -88,7 +88,7 @@ Druids are concerned with the delicate ecological balance that sustains plant an
 
 As a Druid, you gain the following class features when you reach the specified Druid levels. These features are listed in the Druid Features table.
 
-### Level 1: Spellcasting []()
+### Level 1: Spellcasting
 
 You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [Druid spell list](http://dnd2024.wikidot.com/druid:spell-list) later in the class’s description.
 
@@ -112,13 +112,13 @@ If another Druid feature gives you spells that you always have prepared, those s
 
 **Spellcasting Focus.** You can use a Druidic Focus as a Spellcasting Focus for your Druid spells.
 
-### Level 1: Druidic []()
+### Level 1: Druidic
 
 You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [Speak with Animals](http://dnd2024.wikidot.com/spell:speak-with-animals) spell prepared.
 
 You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence (Investigation) check but can’t decipher it without magic.
 
-### Level 1: Primal Order []()
+### Level 1: Primal Order
 
 You have dedicated yourself to one of the following sacred roles of your choice.
 
@@ -126,7 +126,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 **Warden.** Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
 
-### Level 2: Wild Shape []()
+### Level 2: Wild Shape
 
 The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.
 
@@ -156,13 +156,13 @@ When choosing known forms, you may look in the Monster Manual or elsewhere for e
 
 **Objects.** Your ability to handle objects is determined by the form’s limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it’s practical for the new form to wear a piece of equipment based on the creature’s size and shape. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you’re in that form.
 
-### Level 2: Wild Companion []()
+### Level 2: Wild Companion
 
 You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the [Find Familiar](http://dnd2024.wikidot.com/spell:find-familiar) spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
-### Level 3: Druid Subclass []()
+### Level 3: Druid Subclass
 
 You gain a Druid subclass of your choice. The Circle of the Land, Circle of the Moon, Circle of the Sea, and Circle of the Stars subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level or lower.
 
@@ -175,17 +175,17 @@ You gain a Druid subclass of your choice. The Circle of the Land, Circle of the 
 | [Circle of the Sea](http://dnd2024.wikidot.com/druid:circle-of-the-sea) |
 | [Circle of the Stars](http://dnd2024.wikidot.com/druid:circle-of-the-stars) |
 
-### Level 4: Ability Score Improvement []()
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement feat](http://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](http://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
-### Level 5: Wild Resurgence []()
+### Level 5: Wild Resurgence
 
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
 
 In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can’t do so again until you finish a Long Rest.
 
-### Level 7: Elemental Fury []()
+### Level 7: Elemental Fury
 
 The might of the elements flows through you. You gain one of the following options of your choice.
 
@@ -193,7 +193,7 @@ The might of the elements flows through you. You gain one of the following optio
 
 **Primal Strike.** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form’s attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
 
-### Level 15: Improved Elemental Fury []()
+### Level 15: Improved Elemental Fury
 
 The option you chose for Elemental Fury grows more powerful, as detailed below.
 
@@ -201,15 +201,15 @@ The option you chose for Elemental Fury grows more powerful, as detailed below.
 
 **Primal Strike.** The extra damage of your Primal Strike increases to 2d8.
 
-### Level 18: Beast Spells []()
+### Level 18: Beast Spells
 
 While using Wild Shape, you can cast spells in Beast form, except for any spell that has a Material component with a cost specified or that consumes its Material component.
 
-### Level 19: Epic Boon []()
+### Level 19: Epic Boon
 
 You gain an [Epic Boon feat](http://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](http://dnd2024.wikidot.com/feat:boon-of-dimensional-travel) is recommended.
 
-### Level 20: Archdruid []()
+### Level 20: Archdruid
 
 The vitality of nature constantly blooms within you, granting you the following benefits.
 

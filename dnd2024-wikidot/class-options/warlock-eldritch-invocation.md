@@ -4,8 +4,6 @@
 
 ---
 
-[Fold](javascript:;)[Unfold](javascript:;)Table of Contents[Agonizing Blast](#toc0)[Armor of Shadows](#toc1)[Ascendant Step](#toc2)[Devil’s Sight](#toc3)[Devouring Blade](#toc4)[Eldritch Mind](#toc5)[Eldritch Smite](#toc6)[Eldritch Spear](#toc7)[Fiendish Vigor](#toc8)[Gaze of Two Minds](#toc9)[Gift of the Depths](#toc10)[Gift of the Protectors](#toc11)[Investment of the Chain Master](#toc12)[Lessons of the First Ones](#toc13)[Lifedrinker](#toc14)[Mask of Many Faces](#toc15)[Master of Myriad Forms](#toc16)[Misty Visions](#toc17)[One with Shadows](#toc18)[Otherworldly Leap](#toc19)[Pact of the Blade](#toc20)[Pact of the Chain](#toc21)[Pact of the Tome](#toc22)[Repelling Blast](#toc23)[Thirsting Blade](#toc24)[Visions of Distant Realms](#toc25)[Whispers of the Grave](#toc26)[Witch Sight](#toc27)### Agonizing Blast
-
 Source: Player's Handbook
 
 *Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*

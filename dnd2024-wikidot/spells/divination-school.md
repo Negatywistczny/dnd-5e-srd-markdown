@@ -4,17 +4,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Guidance](http://dnd2024.wikidot.com/spell:guidance) | *Divination* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
@@ -77,10 +66,3 @@
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Foresight](http://dnd2024.wikidot.com/spell:foresight) | *Divination* | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView9d7350ffe9805112148c53e086d6d72a = new YAHOO.widget.TabView('wiki-tabview-9d7350ffe9805112148c53e086d6d72a');
-                }, "dummy-ondomready-block");
-        
-//]]>

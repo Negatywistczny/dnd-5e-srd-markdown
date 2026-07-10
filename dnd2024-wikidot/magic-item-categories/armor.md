@@ -4,13 +4,6 @@
 
 ---
 
-- [*Common*](javascript:;)
-- [*Uncommon*](javascript:;)
-- [*Rare*](javascript:;)
-- [*Very Rare*](javascript:;)
-- [*Legendary*](javascript:;)
-- [*Artifact*](javascript:;)
-
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 | [Armor of Gleaming](http://dnd2024.wikidot.com/magic-item:armor-of-gleaming) | Armor | - | B+100 GP |
@@ -64,10 +57,3 @@
 
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView4b0326b733e1d6a0dea24656b213e828 = new YAHOO.widget.TabView('wiki-tabview-4b0326b733e1d6a0dea24656b213e828');
-                }, "dummy-ondomready-block");
-        
-//]]>

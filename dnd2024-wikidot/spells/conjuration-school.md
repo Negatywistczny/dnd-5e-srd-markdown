@@ -4,17 +4,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Mage Hand](http://dnd2024.wikidot.com/spell:mage-hand) | *Conjuration* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 minute |
@@ -123,10 +112,3 @@
 | [Gate](http://dnd2024.wikidot.com/spell:gate) | *Conjuration* | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 minute |
 | [Storm of Vengeance](http://dnd2024.wikidot.com/spell:storm-of-vengeance) | *Conjuration* | Druid | Action | 1 mile | V, S | *^C^*, up to 1 minute |
 | [Wish](http://dnd2024.wikidot.com/spell:wish) | *Conjuration* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView28b1e4c6f05d12a5b4ba98979979c83b = new YAHOO.widget.TabView('wiki-tabview-28b1e4c6f05d12a5b4ba98979979c83b');
-                }, "dummy-ondomready-block");
-        
-//]]>

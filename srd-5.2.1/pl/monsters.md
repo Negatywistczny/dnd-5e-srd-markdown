@@ -70,7 +70,7 @@ Potwór może mieć jedną lub więcej etykiet w nawiasach po typie stworzenia. 
 
 Charakter podany w bloku statystyk potwora to domyślna sugestia, jak odgrywać potwora, inspirowana jego tradycyjną rolą w grze lub folklorem. Możesz zmienić charakter potwora, aby dopasować go do swoich potrzeb fabularnych. Charakter neutralny w szczególności zachęca do rozważenia, czy dana istota skłania się ku któremuś z pozostałych charakterów.
 
-Rozdział „Tworzenie postaci” opisuje dziewięć charakterów oraz stworzenia bezcharakterowe.
+Rozdział „Tworzenie postaci” opisuje dziewięć charakterów oraz stworzenia nieokreślone.
 
 ### Klasa Pancerza
 
@@ -78,7 +78,7 @@ Klasa Pancerza (KP) potwora uwzględnia jego naturalny pancerz, Zręczność, wy
 
 ### Inicjatywa
 
-Wpis Inicjatywa określa modyfikator inicjatywy potwora, a następnie w nawiasie podaje wynik inicjatywy. Użyj modyfikatora, gdy rzucasz, aby ustalić inicjatywę potwora. Modyfikator inicjatywy potwora zwykle jest równy jego modyfikatorowi z Zręczności, ale niektóre potwory mają dodatkowe modyfikatory, takie jak premia do biegłości.
+Wpis Inicjatywa określa modyfikator inicjatywy potwora, a następnie w nawiasie podaje wynik inicjatywy. Użyj modyfikatora, gdy rzucasz, aby ustalić inicjatywę potwora. Modyfikator inicjatywy potwora zwykle jest równy jego modyfikatorowi z Zręczności, ale niektóre potwory mają dodatkowe modyfikatory, takie jak premia z biegłości.
 
 Jeśli nie chcesz rzucać na inicjatywę potwora, użyj wyniku inicjatywy jako jego inicjatywy w walce. Inicjatywa jest opisana szczegółowo w rozdziale „Zasady gry”.
 
@@ -146,7 +146,7 @@ Każdy potwór ma sześć wartości cech wraz z odpowiadającymi im modyfikatora
 
 ### Umiejętności
 
-Wpis Umiejętności określa biegłości w umiejętnościach potwora, jeśli jakieś posiada. Na przykład bardzo czujny i skradający się potwór może mieć premie do testów Mądrości (Percepcja) i Zręczności (Skradanie się). Premia do umiejętności to suma odpowiedniego modyfikatora z cechy potwora i jego premii do biegłości. Mogą obowiązywać dodatkowe modyfikatory.
+Wpis Umiejętności określa biegłości w umiejętnościach potwora, jeśli jakieś posiada. Na przykład bardzo czujny i skradający się potwór może mieć premie do testów Mądrości (Percepcja) i Zręczności (Skradanie się). Premia do umiejętności to suma odpowiedniego modyfikatora z cechy potwora i jego premii z biegłości. Mogą obowiązywać dodatkowe modyfikatory.
 
 ### Odporności i podatności
 
@@ -186,7 +186,7 @@ Uważaj przy dawaniu potworom magicznych przedmiotów nastawionych na walkę, po
 
 ### Zmysły
 
-Wpis Zmysły określa wynik pasywnej percepcji potwora oraz wszelkie specjalne zmysły, które posiada. Pasywna percepcja i specjalne zmysły opisano w „Słowniku zasad”.
+Wpis Zmysły określa pasywną Mądrość (Percepcja) potwora oraz wszelkie specjalne zmysły, które posiada. Pasywna Mądrość (Percepcja) i specjalne zmysły opisano w „Słowniku zasad”.
 
 ### Języki
 
@@ -323,11 +323,11 @@ O ile zasada nie stanowi inaczej, potwór przywołany czarem lub inną magiczną
   </tbody>
 </table>
 
-#### Premia do biegłości
+#### Premia z biegłości
 
-Premia do biegłości (PB) potwora zależy od jego SW, jak pokazano w tabeli Premia do biegłości według Skali Wyzwania, i odzwierciedlana jest w rzutach obronnych, umiejętnościach oraz innych statystykach, gdzie wyjątkowe predyspozycje potwora mają znaczenie.
+Premia z biegłości (PB) potwora zależy od jego SW, jak pokazano w tabeli Premia z biegłości według Skali Wyzwania, i odzwierciedlana jest w rzutach obronnych, umiejętnościach oraz innych statystykach, gdzie wyjątkowe predyspozycje potwora mają znaczenie.
 
-**Premia do biegłości według Skali Wyzwania**
+**Premia z biegłości według Skali Wyzwania**
 
 <table>
   <thead>

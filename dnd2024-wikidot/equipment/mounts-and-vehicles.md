@@ -4,8 +4,6 @@
 
 ---
 
-[Fold](javascript:;)[Unfold](javascript:;)Table of Contents[Mounts and Cargo](#toc0)[Mounts and Other Animals](#toc1)[Barding](#toc2)[Saddles](#toc3)[Tack, Harness, and Drawn Vehicles](#toc4)[Large Vehicles](#toc5)[Speed](#toc6)[Crew](#toc7)[Passengers](#toc8)[Damage Threshold](#toc9)[Ship Repair](#toc10)[Airborne and Waterborne Vehicles](#toc11)[Eberron: Forge of the Artificer Airships](#toc12)A mount can help you move more quickly through the wilderness, but its primary purpose is to carry gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal’s carrying capacity. See appendix B for the animals’ stat blocks.
-
 # Mounts and Cargo
 
 An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, add their carrying capacities together.

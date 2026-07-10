@@ -64,7 +64,7 @@ Sorcerers are rare. Some family lines produce exactly one Sorcerer in every gene
 
 As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. These features are listed in the Sorcerer Features table.
 
-### Level 1: Spellcasting []()
+### Level 1: Spellcasting
 
 Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](http://dnd2024.wikidot.com/sorcerer:spell-list) later in the class’s description.
 
@@ -86,7 +86,7 @@ If another Sorcerer feature gives you spells that you always have prepared, thos
 
 **Spellcasting Focus.** You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
 
-### Level 1: Innate Sorcery []()
+### Level 1: Innate Sorcery
 
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
@@ -95,7 +95,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
 
-### Level 2: Font of Magic []()
+### Level 2: Font of Magic
 
 You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 
@@ -119,7 +119,7 @@ Any spell slot you create with this feature vanishes when you finish a Long Rest
 | 4 | 6 | 7 |
 | 5 | 7 | 9 |
 
-### Level 2: Metamagic []()
+### Level 2: Metamagic
 
 Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “[Metamagic Options](http://dnd2024.wikidot.com/sorcerer:metamagic)” later in this class’s description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
@@ -127,7 +127,7 @@ You can use only one Metamagic option on a spell when you cast it unless otherwi
 
 Whenever you gain a Sorcerer level, you can replace one of your [Metamagic](http://dnd2024.wikidot.com/sorcerer:metamagic) options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
 
-### Level 3: Sorcerer Subclass []()
+### Level 3: Sorcerer Subclass
 
 You gain a Sorcerer subclass of your choice. The Aberrant Sorcery, Clockwork Sorcery, Draconic Sorcery, and Wild Magic Sorcery subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass’s features that are of your Sorcerer level or lower.
 
@@ -142,24 +142,24 @@ You gain a Sorcerer subclass of your choice. The Aberrant Sorcery, Clockwork Sor
 | [Spellfire Sorcery](http://dnd2024.wikidot.com/sorcerer:spellfire-sorcery) |
 | [Wild Magic Sorcery](http://dnd2024.wikidot.com/sorcerer:wild-magic-sorcery) |
 
-### Level 4: Ability Score Improvement []()
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement feat](http://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](http://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
-### Level 5: Sorcerous Restoration []()
+### Level 5: Sorcerous Restoration
 
 When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a Long Rest.
 
-### Level 7: Sorcery Incarnate []()
+### Level 7: Sorcery Incarnate
 
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
 
 In addition, while your Innate Sorcery feature is active, you can use up to two of your [Metamagic](http://dnd2024.wikidot.com/sorcerer:metamagic) options on each spell you cast.
 
-### Level 19: Epic Boon []()
+### Level 19: Epic Boon
 
 You gain an [Epic Boon feat](http://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](http://dnd2024.wikidot.com/feat:boon-of-dimensional-travel) is recommended.
 
-### Level 20: Arcane Apotheosis []()
+### Level 20: Arcane Apotheosis
 
 While your Innate Sorcery feature is active, you can use one [Metamagic](http://dnd2024.wikidot.com/sorcerer:metamagic) option on each of your turns without spending Sorcery Points on it.

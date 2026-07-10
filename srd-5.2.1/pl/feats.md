@@ -24,7 +24,7 @@ _Atut pochodzenia_
 
 Zyskujesz następujące korzyści.
 
-_Biegłość w inicjatywie._ Gdy wykonujesz rzut na inicjatywę, możesz dodać swoją premię do biegłości do wyniku.
+_Biegłość w inicjatywie._ Gdy wykonujesz rzut na inicjatywę, możesz dodać swoją premię z biegłości do wyniku.
 
 _Wymiana inicjatywy._ Natychmiast po wykonaniu rzutu na inicjatywę możesz zamienić swoją inicjatywę z inicjatywą jednego chętnego sojusznika w tej samej walce. Nie możesz dokonać tej zamiany, jeśli ty lub sojusznik macie stan obezwładniony.
 

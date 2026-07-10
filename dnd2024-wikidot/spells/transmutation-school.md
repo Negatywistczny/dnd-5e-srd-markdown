@@ -4,17 +4,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Druidcraft](http://dnd2024.wikidot.com/spell:druidcraft) | *Transmutation* | Druid | Action | 30 feet | V, S | Instantaneous |
@@ -113,10 +102,3 @@
 | [Shapechange](http://dnd2024.wikidot.com/spell:shapechange) | *Transmutation* | Druid, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 hour |
 | [Time Stop](http://dnd2024.wikidot.com/spell:time-stop) | *Transmutation* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
 | [True Polymorph](http://dnd2024.wikidot.com/spell:true-polymorph) | *Transmutation* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabViewac43cab54dc33d39ccd2d17cf7807481 = new YAHOO.widget.TabView('wiki-tabview-ac43cab54dc33d39ccd2d17cf7807481');
-                }, "dummy-ondomready-block");
-        
-//]]>

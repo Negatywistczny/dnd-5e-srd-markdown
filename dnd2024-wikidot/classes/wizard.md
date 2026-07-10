@@ -66,7 +66,7 @@ But the lure of knowledge calls even the most unadventurous Wizards from the saf
 
 As a Wizard, you gain the following class features when you reach the specified Wizard levels. These features are listed in the Wizard Features table.
 
-### Level 1: Spellcasting []()
+### Level 1: Spellcasting
 
 As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the [Wizard spell list](http://dnd2024.wikidot.com/wizard:spell-list) later in the class’s description.
 
@@ -108,21 +108,21 @@ You can copy a spell from your spellbook into another book. This is like copying
 
 If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
 
-### Level 1: Ritual Adept []()
+### Level 1: Ritual Adept
 
 You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn’t have the spell prepared, but you must read from the book to cast a spell in this way.
 
-### Level 1: Arcane Recovery []()
+### Level 1: Arcane Recovery
 
 You can regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels’ worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
 
 Once you use this feature, you can't do so again until you finish a Long Rest.
 
-### Level 2: Scholar []()
+### Level 2: Scholar
 
 While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
 
-### Level 3: Arcane Tradition []()
+### Level 3: Arcane Tradition
 
 You gain a Wizard subclass of your choice. The Abjurer, Diviner, Evoker, and Illusionist subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
 
@@ -136,24 +136,24 @@ You gain a Wizard subclass of your choice. The Abjurer, Diviner, Evoker, and Ill
 | [Evoker](http://dnd2024.wikidot.com/wizard:evoker) |
 | [Illusionist](http://dnd2024.wikidot.com/wizard:illusionist) |
 
-### Level 4: Ability Score Improvement []()
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement feat](http://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](http://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
-### Level 5: Memorize Spell []()
+### Level 5: Memorize Spell
 
 Whenever you finish a Short Rest, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
 
-### Level 18: Spell Mastery []()
+### Level 18: Spell Mastery
 
 You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell in your spellbook that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. To cast either spell at a higher level, you must expend a spell slot.
 
 Whenever you finish a Long Rest, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
 
-### Level 19: Epic Boon []()
+### Level 19: Epic Boon
 
 You gain an [Epic Boon feat](http://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Spell Recall](http://dnd2024.wikidot.com/feat:boon-of-spell-recall) is recommended.
 
-### Level 20: Signature Spells []()
+### Level 20: Signature Spells
 
 Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.

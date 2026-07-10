@@ -5,12 +5,6 @@
 
 ---
 
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Alarm](http://dnd2024.wikidot.com/spell:alarm) | *Abjuration* | Artificer, Ranger, Wizard | 1 minute or *^R^* | 30 feet | V, S, M | 8 hours |
@@ -90,10 +84,3 @@
 | [Steel Wind Strike](http://dnd2024.wikidot.com/spell:steel-wind-strike) | *Conjuration* | Ranger, Wizard | Action | 30 feet | S, M | Instantaneous |
 | [Swift Quiver](http://dnd2024.wikidot.com/spell:swift-quiver) | *Transmutation* | Ranger | Bonus Action | Self | V, S, M | *^C^*, up to 1 minute |
 | [Tree Stride](http://dnd2024.wikidot.com/spell:tree-stride) | *Conjuration* | Druid, Ranger | Action | Self | V, S | *^C^*, up to 1 minute |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView18e350419a6963ed1deef4ef0eb52986 = new YAHOO.widget.TabView('wiki-tabview-18e350419a6963ed1deef4ef0eb52986');
-                }, "dummy-ondomready-block");
-        
-//]]>

@@ -11,6 +11,8 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup, NavigableString, Tag
 
+from clean_wikidot_artifacts import clean_wikidot_artifacts
+
 BASE_URL = "http://dnd2024.wikidot.com"
 DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parent.parent / "dnd2024-wikidot"
 REQUEST_DELAY = 0.5
@@ -156,7 +158,7 @@ def extract_page_content(html: str) -> tuple[str, str]:
 
     markdown = "".join(block_to_markdown(child) for child in content.children).strip()
     markdown = re.sub(r"\n{3,}", "\n\n", markdown)
-    return title, markdown
+    return title, clean_wikidot_artifacts(markdown).strip()
 
 
 def extract_source(markdown: str) -> str | None:

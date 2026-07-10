@@ -4,8 +4,6 @@
 
 ---
 
-[Fold](javascript:;)[Unfold](javascript:;)Table of Contents[Gaining a Bastion](#toc0)[Bastion Turns](#toc1)[Frequency of Bastion Turns](#toc2)[Bastion Map](#toc3)[Mobile Bastions](#toc4)[Combining Bastions](#toc5)[Facility Space](#toc6)[Haunted Bastions](#toc7)[Bastions in the Mists](#toc8)[Basic Facilities](#toc9)[Adding Basic Facilities](#toc10)[Enlarging Basic Facilities](#toc11)[Special Facilities](#toc12)[Requirements](#toc13)[Space](#toc14)[Hirelings](#toc15)[Orders](#toc16)[Craft](#toc17)[Empower](#toc18)[Harvest](#toc19)[Maintain](#toc20)[Recruit](#toc21)[Research](#toc22)[Trade](#toc23)[Special Facility Descriptions](#toc24)[Arcane Study](#toc25)[Archive](#toc26)[Armory](#toc27)[Barrack](#toc28)[Demiplane](#toc29)[Gaming Hall](#toc30)[Garden](#toc31)[Greenhouse](#toc32)[Guildhall](#toc33)[Laboratory](#toc34)[Library](#toc35)[Meditation Chamber](#toc36)[Menagerie](#toc37)[Observatory](#toc38)[Pub](#toc39)[Reliquary](#toc40)[Sacristy](#toc41)[Sanctuary](#toc42)[Sanctum](#toc43)[Scriptorium](#toc44)[Smithy](#toc45)[Stable](#toc46)[Storehouse](#toc47)[Teleportation Circle](#toc48)[Theater](#toc49)[Training Area](#toc50)[Trophy Room](#toc51)[War Room](#toc52)[Workshop](#toc53)[Forgotten Realms: Heroes of Faerun Facilities](#toc54)[Amethyst Dragon Den](#toc55)[Cult of the Dragon Archive](#toc56)[Emerald Enclave Grove](#toc57)[Harper Hideout](#toc58)[Lords' Alliance Noble Residence](#toc59)[Order of the Gauntlet Tournament Field](#toc60)[Red Wizard Necropolis](#toc61)[Zhentarim Travel Station](#toc62)[Eberron: Forge of the Artificer Facilities](#toc63)[Artificer's Forge](#toc64)[Construct Forge](#toc65)[Dragonmark Outpost](#toc66)[Inquisitive's Agency](#toc67)[Kundarak Vault](#toc68)[Lyrandar Helm](#toc69)[Manifest Zone](#toc70)[Museum](#toc71)[Navigator's Helm](#toc72)[Orien Helm](#toc73)[Ravenloft: The Horrors Within Facilities](#toc74)[Ancient Altar](#toc75)[Cabinet of Curiosities](#toc76)[Infirmary](#toc77)[Lightning Generator](#toc78)[Liminal Space](#toc79)[Rookery](#toc80)[Séance Parlor](#toc81)[Spirit Vault](#toc82)[Bastion Events](#toc83)[Event Descriptions](#toc84)[All Is Well](#toc85)[Attack](#toc86)[Criminal Hireling](#toc87)[Extraordinary Opportunity](#toc88)[Friendly Visitors](#toc89)[Guest](#toc90)[Lost Hirelings](#toc91)[Magical Discovery](#toc92)[Refugees](#toc93)[Request for Aid](#toc94)[Treasure](#toc95)[Haunted Bastions](#toc96)[Haunting Descriptions](#toc97)[Cursed Hireling.](#toc98)[Free-Roaming Spirit.](#toc99)[Friendly Ghost.](#toc100)[Hidden Room.](#toc101)[Lightning Storm.](#toc102)[Living Dead.](#toc103)[Mist Wanderers.](#toc104)[Mysterious Priest.](#toc105)[Ill Luck.](#toc106)[Poltergeist.](#toc107)[Spatial Warp.](#toc108)[Spectral Vision.](#toc109)[Vistani Visitors.](#toc110)[Fall of a Bastion](#toc111)A Bastion is a location that belongs to a player character: a home, a stronghold, and a place of power that the character develops over the course of a campaign. A Bastion offers a character temporary refuge from the dangerous world of adventuring, and it provides opportunities for a character to craft magic items, conduct research, harvest poisons, build ships, and carry out a range of other activities.
-
 As DM, you decide whether Bastions are available in a campaign. Bastions are best suited to campaigns that allow characters to return to their Bastions during intervals when they’re not actively adventuring. Not every character needs to have a Bastion. It’s fine for some players in your campaign to opt in to Bastion ownership and others to opt out.
 
 There’s no need to choose between going on adventures and commanding a Bastion; a character can do both at once. A Bastion has special facilities that generate benefits, and these facilities can also undertake projects while the character is otherwise occupied.
@@ -233,7 +231,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 
 *Certain orders that can be issued to these facilities have additional prerequisites.
 
-### Arcane Study []()
+### Arcane Study
 
 *Level 5 Bastion Facility*
 
@@ -257,7 +255,7 @@ An Arcane Study is a place of quiet research that contains one or more desks and
 
 **Craft: Magic Item (Arcana).** If you are level 9+, you can commission the facility’s hireling to craft a Common or an Uncommon magic item chosen by you from the Arcana tables in chapter 7. The facility has the tool required to craft the item, and the hireling has proficiency with that tool as well as proficiency in the Arcana skill. See the “Crafting Magic Items” section in chapter 7 for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hireling can assist), and you must have all those spells prepared every day you spend crafting the item.
 
-### Archive []()
+### Archive
 
 *Level 13 Bastion Facility*
 
@@ -287,7 +285,7 @@ An Archive is a repository of valuable books, maps, and scrolls. It is usually a
 
 **Enlarging the Facility.** You can enlarge your Archive to a Vast facility by spending 2,000 GP. If you do so, you gain two additional reference books chosen from the list above.
 
-### Armory []()
+### Armory
 
 Level 5 Bastion Facility
 
@@ -305,7 +303,7 @@ An Armory contains mannequins for displaying armor, hooks for holding Shields, r
 
 While your Armory is stocked, your Bastion Defenders are harder to kill. When any event causes you to roll dice to determine if your Bastion loses one or more of its defenders (see “Bastion Events” at the end of this chapter), roll 1d8 in place of each d6 you would normally roll. When the event is over, the equipment in your Armory is expended regardless of how many Bastion Defenders you have or how many you lost, leaving your Armory depleted until you issue another Trade order to the facility and pay the cost to restock it.
 
-### Barrack []()
+### Barrack
 
 *Level 5 Bastion Facility*
 
@@ -325,7 +323,7 @@ Keep track of the Bastion Defenders housed in each of your Barracks. If you lose
 
 **Enlarging the Facility.** You can enlarge your Barrack to a Vast facility by spending 2,000 GP. A Vast Barrack can accommodate up to twenty-five Bastion Defenders.
 
-### Demiplane []()
+### Demiplane
 
 *Level 17 Bastion Facility*
 
@@ -345,7 +343,7 @@ Only you and your Bastion’s hirelings can open the door, which leads to a Demi
 
 **Fabrication.** While in the Demiplane, you can take a Magic action to create a nonmagical object of your choice from nothing, causing it to appear in an unoccupied space in the Demiplane. The object can be no bigger than 5 feet in any dimension; can’t have a value over 5 GP; and must be made of wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. You must finish a Long Rest before you can take this action again.
 
-### Gaming Hall []()
+### Gaming Hall
 
 *Level 9 Bastion Facility*
 
@@ -368,7 +366,7 @@ A Gaming Hall offers recreational activities like chess and games of darts, card
 | 86-95 | 4d6 x 10 GP |
 | 96-00 | 10d6 x 10 GP |
 
-### Garden []()
+### Garden
 
 *Level 5 Bastion Facility*
 
@@ -395,7 +393,7 @@ While in your Bastion, you can instruct the facility’s hireling to change the 
 | Herb | Garden of rare herbs, some of which have medicinal uses | Herbs that are used to create either ten Healer’s Kits or one [Potion of Healing](http://dnd2024.wikidot.com/magic-item:potion-of-healing) |
 | Poison | Garden stocked with plants and fungi from which poisons and antitoxin can be extracted | Plants that are used to create either two vials of Antitoxin or one vial of Basic Poison |
 
-### Greenhouse []()
+### Greenhouse
 
 *Level 9 Bastion Facility*
 
@@ -417,7 +415,7 @@ A Greenhouse is an enclosure where rare plants and fungi are nurtured in a contr
 
 **Harvest:** Poison. You commission the facility’s hireling to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: Assassin’s Blood, Malice, Pale Tincture, or Truth Serum. See “Poison” in chapter 3 for each poison’s effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money.
 
-### Guildhall []()
+### Guildhall
 
 *Level 17 Bastion Facility*
 
@@ -445,7 +443,7 @@ Your guild has roughly fifty members made up of skilled folk who live and work o
 | Shipbuilders’ Guild | Crossed oars | You assign shipbuilders to build one of the vehicles in the Airborne and Waterborne Vehicles table of the Player’s Handbook. You pay the full cost of the vehicle, and the work takes 1 day per 1,000 GP of the vehicle’s cost (a Rowboat can be made in 1 day). |
 | Thieves’ Guild | White key | You assign thieves to infiltrate a location within 50 miles of your Bastion and steal a nonmagical object from it. The object can be no bigger than 5 feet in any dimension and is delivered to your Bastion in 1d6 + 1 days. The DM may decide this activity leaves you at risk of retaliation from law enforcement or the victim. |
 
-### Laboratory []()
+### Laboratory
 
 *Level 9 Bastion Facility*
 
@@ -465,7 +463,7 @@ A Laboratory contains storage space for alchemical supplies and workspaces for c
 
 **Craft: Poison.** You commission the facility’s hireling to craft a vial containing one application of a poison. The poison must be one of the following: Burnt Othur Fumes, Essence of Ether, or Torpor. This work takes 7 days, and you must pay half the poison’s cost. See “Poison” in chapter 3 for descriptions and costs of poisons.
 
-### Library []()
+### Library
 
 *Level 5 Bastion Facility*
 
@@ -481,7 +479,7 @@ This Library contains a collection of books plus one or more desks and reading c
 
 **Research: Topical Lore.** When you issue the Research order to this facility, you commission the facility’s hireling to research a topic. The topic can be a legend, a known event or location, a person of significance, a type of creature, or a famous object. The work takes 7 days. When the research concludes, the hireling obtains up to three accurate pieces of information about the topic that were previously unknown to you and shares this knowledge with you the next time you speak with them. The DM determines what information you learn.
 
-### Meditation Chamber []()
+### Meditation Chamber
 
 *Level 13 Bastion Facility*
 
@@ -508,7 +506,7 @@ A Meditation Chamber is a relaxing space that helps align one’s mind, body, an
 | 5 | Wisdom |
 | 6 | Charisma |
 
-### Menagerie []()
+### Menagerie
 
 *Level 13 Bastion Facility*
 
@@ -554,7 +552,7 @@ With the DM’s consent, you can add different creatures than those shown in the
 | 2 | 2,000 GP |
 | 3 | 3,500 GP |
 
-### Observatory []()
+### Observatory
 
 *Level 13 Bastion Facility*
 
@@ -572,7 +570,7 @@ Situated atop your Bastion, your Observatory contains a telescope aimed at the n
 
 **Empower: Eldritch Discovery.** When you issue the Empower order to this facility, you enable yourself or the facility’s hireling to explore the eldritch mysteries of the stars for 7 consecutive nights. At the end of that time, roll a die. If the number rolled is even, nothing is gained. If the number rolled is odd, an unknown power bestows one of the following Charms on you or another creature of your choice that is on the same plane of existence as you: Charm of Darkvision, Charm of Heroism, or Charm of Vitality (all described in chapter 3).
 
-### Pub []()
+### Pub
 
 *Level 13 Bastion Facility*
 
@@ -604,7 +602,7 @@ At the start of a Bastion turn, you can switch to one of the other options. Your
 
 **Enlarging the Facility.** You can enlarge your Pub to a Vast facility by spending 2,000 GP. If you do so, the Pub can have two magical beverages from the Pub Special list on tap at a time. A Vast Pub gains three additional hirelings, for a total of four. These new hirelings are servers. Assign names and personalities to them as you see fit.
 
-### Reliquary []()
+### Reliquary
 
 *Level 13 Bastion Facility*
 
@@ -622,7 +620,7 @@ This vault holds sacred objects.
 
 **Harvest: Talisman.** When you issue the Harvest order to this facility, you commission its hireling to produce a specially prepared talisman for your use. The talisman usually takes the form of an amulet, a rune-carved box, or a statuette, but it can be any Tiny, nonmagical object that has religious significance. The work takes 7 days and costs no money. You can use this talisman in place of one spell’s Material components, provided the components have a cost of 1,000 GP or less. If the spell normally consumes its components, the talisman isn’t consumed. After the talisman has been used in this way, it can’t be used again until you return it to your Reliquary and use another Harvest order to prepare it.
 
-### Sacristy []()
+### Sacristy
 
 *Level 9 Bastion Facility*
 
@@ -644,7 +642,7 @@ A Sacristy serves as a preparation and storage room for the sacred items and rel
 
 **Spell Refreshment.** Having a Sacristy allows you to regain one expended spell slot of level 5 or lower after spending an entire Short Rest in your Bastion. You can’t gain this benefit again until you finish a Long Rest.
 
-### Sanctuary []()
+### Sanctuary
 
 *Level 5 Bastion Facility*
 
@@ -662,7 +660,7 @@ Icons of your religion are displayed in this facility, which includes a quiet pl
 
 **Craft: Sacred Focus.** When you issue the Craft order to this facility, you commission the facility’s hireling to craft a Druidic Focus (wooden staff) or a Holy Symbol. The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
 
-### Sanctum []()
+### Sanctum
 
 *Level 17 Bastion Facility*
 
@@ -682,7 +680,7 @@ A Sanctum is a place of solace and healing.
 
 **Sanctum Recall.** While the Sanctum exists, you always have the [Word of Recall](http://dnd2024.wikidot.com/spell:word-of-recall) spell prepared. When you cast [Word of Recall](http://dnd2024.wikidot.com/spell:word-of-recall), you can make your Sanctum the destination of the spell instead of another place you have previously designated. In addition, one creature of your choice that arrives in the Sanctum via this spell gains the benefit of a [Heal](http://dnd2024.wikidot.com/spell:heal) spell.
 
-### Scriptorium []()
+### Scriptorium
 
 *Level 9 Bastion Facility*
 
@@ -704,7 +702,7 @@ A Scriptorium contains desks and writing supplies.
 
 **Craft: Paperwork.** You commission the facility’s hireling to create up to fifty copies of a broadsheet, a pamphlet, or another loose-leaf paper product. The work takes 7 days and costs you 1 GP per copy. At no additional cost in time or money, the facility’s hireling can distribute the paperwork to one or more locations within 50 miles of your Bastion.
 
-### Smithy []()
+### Smithy
 
 *Level 5 Bastion Facility*
 
@@ -724,7 +722,7 @@ This Smithy contains a forge, an anvil, and other tools needed to craft weapons,
 
 **Craft: Magic Item (Armament).** If you are level 9+, can you commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the Armaments tables in chapter 7. The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the Arcana skill. See the “Crafting Magic Items” section in chapter 7 for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
 
-### Stable []()
+### Stable
 
 *Level 9 Bastion Facility*
 
@@ -746,7 +744,7 @@ When you sell a mount from your Stable, the buyer pays you 20 percent more than 
 
 **Enlarging the Facility.** You can enlarge your Stable to a Vast facility by spending 2,000 GP. If you do so, the Stable is large enough to house six Large animals.
 
-### Storehouse []()
+### Storehouse
 
 *Level 5 Bastion Facility*
 
@@ -764,7 +762,7 @@ A Storehouse is a cool, dark space meant to contain trade goods objects from the
 
 When you sell goods from your Storehouse, the buyer pays you 10 percent more than the standard price; this profit increases to 20 percent when you reach level 9, 50 percent when you reach level 13, and 100 percent when you reach level 17.
 
-### Teleportation Circle []()
+### Teleportation Circle
 
 *Level 9 Bastion Facility*
 
@@ -784,7 +782,7 @@ While you are in your Bastion, you can ask the spellcaster to cast one Wizard sp
 
 The spellcaster stays for 14 days or until they cast a spell for you. The spellcaster won’t defend your Bastion and departs immediately if the Bastion is attacked (see “Bastion Events” at the end of the chapter).
 
-### Theater []()
+### Theater
 
 *Level 9 Bastion Facility*
 
@@ -810,7 +808,7 @@ You or another character can contribute to a production in the following ways:
 
 At the end of a rehearsal period, each character who contributed to the concert or production can make a DC 15 Charisma (Performance) check. If more of these checks succeed than fail, you and any other character who contributed to the concert or production each gain a Theater die, a d6. This die changes to a d8 when you reach level 13 and a d10 when you reach level 17. At any point after the rehearsals end, a character can expend their Theater die to roll it and add the number rolled to one D20 Test they make, immediately after rolling the d20. If a character hasn’t expended their Theater die before gaining another, their first die is lost.
 
-### Training Area []()
+### Training Area
 
 *Level 9 Bastion Facility*
 
@@ -836,7 +834,7 @@ When a Training Area becomes part of your Bastion, choose one trainer from the E
 
 **Empower: Training.** When you issue the Empower order to this facility, the facility’s hirelings conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit depends on which trainer is present in the facility, as noted in the Expert Trainers table. The benefit lasts for 7 days.
 
-### Trophy Room []()
+### Trophy Room
 
 *Level 9 Bastion Facility*
 
@@ -856,7 +854,7 @@ This room houses a collection of mementos, such as weapons from old battles, the
 
 **Research: Trinket Trophy.** You commission the facility’s hireling to search for a trinket that might be of use to you. The work takes 7 days. When the research concludes, roll any die. If the number rolled is odd, the hireling finds nothing useful. If the number rolled is even, the hireling finds a magic item. Roll on the Implements - Common table in chapter 7 to determine what it is.
 
-### War Room []()
+### War Room
 
 *Level 17 Bastion Facility*
 
@@ -878,7 +876,7 @@ The War Room contains war memorabilia plus a large table surrounded by enough ch
 
 **Recruit: Soldiers.** You commission one or more of your lieutenants to assemble a small army. Each lieutenant can muster one hundred Guards (see the Monster Manual) in 7 days to fight for your cause. Reduce that number to twenty if you want them to be mounted on Riding Horses (see the Monster Manual). It costs you 1 GP per day to feed each guard and each horse in your army. Wherever the army goes, it must be led by you or at least one of your lieutenants, or else it disbands immediately. The army also disbands if it goes 1 day without being fed. Otherwise, the army remains until it is destroyed or you command it to disband. You can’t issue this Recruit order again until your current army disbands or is destroyed.
 
-### Workshop []()
+### Workshop
 
 *Level 5 Bastion Facility*
 
@@ -939,7 +937,7 @@ Woodcarver’s Tools
 | 9 | [Order of the Gauntlet Tournament Field](#order-of-the-gauntlet-tournament-field) | Membership in the Order of the Gauntlet | Empower |
 | 13 | [Cult of the Dragon Archive](#cult-of-the-dragon-archive) | Membership in the Cult of the Dragon | Research |
 
-### Amethyst Dragon Den []()
+### Amethyst Dragon Den
 
 *Level 5 Bastion Facility*
 
@@ -955,7 +953,7 @@ This den for an amethyst dragon is an enclosed open chamber with a pool, and one
 
 **Empower: Psionic Defenses.** When you issue the Empower order to this facility, latent draconic power fills the facility, allowing you to train in psionic combat. This training takes 8 hours per day for 7 days, after which you gain Resistance to Psychic damage. This benefit lasts for 7 days.
 
-### Cult of the Dragon Archive []()
+### Cult of the Dragon Archive
 
 *Level 13 Bastion Facility*
 
@@ -975,7 +973,7 @@ A Cult of the Dragon Archive contains extensive records on specific topics, incl
 
 **Enlarging the Facility.** You can enlarge your Cult of the Dragon Archive to a Vast facility by spending 2,000 GP. If you do so, you gain two reference books chosen from those listed in the Archive entry in chapter 8 of the Dungeon Master’s Guide.
 
-### Emerald Enclave Grove []()
+### Emerald Enclave Grove
 
 *Level 9 Bastion Facility*
 
@@ -1009,7 +1007,7 @@ Creatures in your Emerald Enclave Grove count as Bastion Defenders. Deduct any y
 | Treant | Large |
 | Unicorn | Large |
 
-### Harper Hideout []()
+### Harper Hideout
 
 *Level 5 Bastion Facility*
 
@@ -1031,7 +1029,7 @@ The Harper stays for 7 days. While at your Bastion, the Harper can share their k
 
 The Harper won’t defend your Bastion and departs immediately if the Bastion is attacked.
 
-### Lords' Alliance Noble Residence []()
+### Lords' Alliance Noble Residence
 
 *Level 9 Bastion Facility*
 
@@ -1053,7 +1051,7 @@ The visiting noble gossips about events and inhabitants in their home settlement
 
 The visiting noble won’t defend your Bastion and departs immediately if the Bastion is attacked.
 
-### Order of the Gauntlet Tournament Field []()
+### Order of the Gauntlet Tournament Field
 
 *Level 9 Bastion Facility*
 
@@ -1071,7 +1069,7 @@ Your hireling is a Knight whose alignment matches your own. If your Bastion lack
 
 **Empower: Hold Tournament.** When you issue the Empower order to this facility, you host a tournament at your Bastion. It takes 7 days for word of the tournament to spread to nearby settlements, and another 7 days for contestants to travel to your Bastion and participate in the tournament. You must spend 2,000 GP for prizes. At the conclusion of the tournament, your Renown Score with the Order of the Gauntlet increases by 1.
 
-### Red Wizard Necropolis []()
+### Red Wizard Necropolis
 
 *Level 5 Bastion Facility*
 
@@ -1089,7 +1087,7 @@ Red Wizards defend their strongholds with Undead minions. A Red Wizard Necropoli
 
 Keep track of Undead Bastion Defenders you lose and deduct them from your Bastion Defenders roster. An Undead Bastion Defender returns to your Red Wizard Necropolis 14 days after being destroyed. Undead Bastion Defenders can’t return from being killed if the facility is shut down or fully occupied.
 
-### Zhentarim Travel Station []()
+### Zhentarim Travel Station
 
 *Level 5 Bastion Facility*
 
@@ -1122,7 +1120,7 @@ The Zhentarim maintain stations to facilitate safe and swift long-distance trave
 | 13 | [Museum](#Museum) | None | Research |
 | 17 | [Construct Forge](#Construct-Forge) | Ability to use Artisan’s Tools as a Spellcasting Focus | Recruit |
 
-### Artificer's Forge []()
+### Artificer's Forge
 
 *Level 13 Bastion Facility*
 
@@ -1142,7 +1140,7 @@ An Artificer’s Forge includes two magewright hirelings who are skilled in crea
 
 **Charge Refreshment.** Whenever a magic item in your Bastion regains charges, it regains 1 extra expended charge.
 
-### Construct Forge []()
+### Construct Forge
 
 *Level 17 Bastion Facility*
 
@@ -1173,7 +1171,7 @@ Constructs made in this facility count as Bastion Defenders. Deduct any you lose
 
 *The Warforged Titan stat block appears in Eberron: Rising from the Last War. Creating new Warforged Titans is illegal under the terms of the Treaty of Korth, which ended the Last War. Violating that treaty risks reigniting open war across Khorvaire.
 
-### Dragonmark Outpost []()
+### Dragonmark Outpost
 
 *Level 5 Bastion Facility*
 
@@ -1193,7 +1191,7 @@ When you add this facility to your Bastion, your Renown Score with your house in
 
 **Empower: House Favor.** When you issue the Empower order to this facility, you instruct your hireling to call in a favor from your dragonmarked house. You can use any benefit of your house that your Renown Score affords you (as described in Eberron: Forge of the Artificer), and this favor doesn’t count against the total number of favors available to you. Once you use this feature, you can’t use it again until your Renown Score with your house increases.
 
-### Inquisitive's Agency []()
+### Inquisitive's Agency
 
 *Level 13 Bastion Facility*
 
@@ -1216,7 +1214,7 @@ This facility is an office for an inquisitive agency - either the headquarters o
 
 If your Bastion is mobile, it takes time to establish this network of agents in a new place. When your Bastion is traveling, you can’t issue the Research order to this facility. After it arrives at its destination, the first time you issue the Research order, this facility’s hireling spends 7 days establishing a new network, after which you can use the Research order normally.
 
-### Kundarak Vault []()
+### Kundarak Vault
 
 *Level 9 Bastion Facility*
 
@@ -1236,7 +1234,7 @@ A Kundarak Vault occupies space in your Bastion like any other special facility,
 
 When you sell goods from your Kundarak Vault, the buyer pays you 20 percent more than the standard price; this profit increases to 50 percent when you reach level 13 and 100 percent when you reach level 17.
 
-### Lyrandar Helm []()
+### Lyrandar Helm
 
 *Level 13 Bastion Facility*
 
@@ -1254,7 +1252,7 @@ A Lyrandar Helm allows a mobile Bastion built within an elemental airship or an 
 
 When you issue the Empower order to this facility, the DM rolls on the Bastion Events table as if you had issued the Maintain order to your Bastion.
 
-### Manifest Zone []()
+### Manifest Zone
 
 *Level 13 Bastion Facility*
 
@@ -1294,7 +1292,7 @@ A Bastion with a Manifest Zone is infused with the planar energy of one of Eberr
 
 If your Bastion is mobile, its connection to the linked plane of existence is suspended while the Bastion moves, and you can’t issue the Empower order to this facility while it is in transit. When the Bastion reaches a destination, you can issue the Empower order to establish a new planar connection, linking the Bastion either to the same plane of existence or to a different one you choose. Establishing the new connection takes 7 days, after which you can issue the Empower order normally.
 
-### Museum []()
+### Museum
 
 *Level 13 Bastion Facility*
 
@@ -1324,7 +1322,7 @@ A Museum contains relics and treasures brought back from expeditions you partici
 
 **Enlarging the Facility.** You can enlarge your Museum to a Vast facility by spending 2,000 GP. If you do so, the Museum can have two treasures with different origins. A Vast Museum gains two additional hirelings, for a total of three. Assign names and personalities to them as you see fit.
 
-### Navigator's Helm []()
+### Navigator's Helm
 
 *Level 9 Bastion Facility*
 
@@ -1342,7 +1340,7 @@ A Navigator’s Helm allows a mobile Bastion built within a mundane waterborne v
 
 When you issue the Empower order to this facility, the DM rolls on the Bastion Events table as if you had issued the Maintain order to your Bastion.
 
-### Orien Helm []()
+### Orien Helm
 
 *Level 9 Bastion Facility*
 
@@ -1373,7 +1371,7 @@ When you issue the Empower order to this facility, the DM rolls on the Bastion E
 | 13 | [Spirit Vault](#Spirit-Vault) | None | Research |
 | 17 | [Liminal Space](#Liminal-Space) | None | Recruit |
 
-### Ancient Altar []()
+### Ancient Altar
 
 *Level 9 Bastion Facility*
 
@@ -1391,7 +1389,7 @@ An Ancient Altar is a solemn chamber where you can make offerings to mysterious 
 
 **Blasphemous Charm.** After spending a Long Rest in your Ancient Altar, you gain a magical Charm that lasts for 7 days or until you use it. You can use the Charm as a Magic action to cast [Hunger of Hadar](http://dnd2024.wikidot.com/spell:hunger-of-hadar) without requiring Material components. You can’t gain this Charm again while you have it.
 
-### Cabinet of Curiosities []()
+### Cabinet of Curiosities
 
 *Level 9 Bastion Facility*
 
@@ -1418,7 +1416,7 @@ To determine how many magic items your hireling brings back, count the Haunted s
 
 For each magic item acquired, roll on a table in the “Random Magic Items” section in the Dungeon Master’s Guide of the corresponding rarity to determine what the item is. (Select the treasure theme randomly.)
 
-### Infirmary []()
+### Infirmary
 
 *Level 9 Bastion Facility*
 
@@ -1442,7 +1440,7 @@ An Infirmary provides emergency healing and continual care to injured or sick Ba
 
 **Enlarging the Facility.** You can enlarge your Infirmary to a Vast facility by spending 2,000 GP. If you do so, the Infirmary gains two hirelings, and the number of Antitoxins or Potions of Healing you can enhance at a time increases to four.
 
-### Lightning Generator []()
+### Lightning Generator
 
 *Level 13 Bastion Facility*
 
@@ -1462,7 +1460,7 @@ A Lightning Generator can transform atmospheric electricity to serve a variety o
 
 **Empower:** Lightning Life. The facility’s hireling channels the Generator’s energy to cast [Animate Objects](http://dnd2024.wikidot.com/spell:animate-objects), targeting one Large or Huge object of your choice in the Bastion. The spell’s duration is 7 days and doesn’t require Concentration.
 
-### Liminal Space []()
+### Liminal Space
 
 *Level 17 Bastion Facility*
 
@@ -1482,7 +1480,7 @@ Your Bastion becomes connected to an unfathomable demiplane filled with vast, em
 
 While residing in your Liminal Space, an entity counts as a Bastion Defender, and if your Bastion is attacked, each entity in your Liminal Space reduces by 1 the number of dice you roll to determine how many Bastion Defenders are lost in the attack. You can choose not to count the entity as a Bastion Defender, in which case you can’t call on it to defend the Bastion; instead, the entity acts according to its nature, using the Unspeakable Horror stat block (see chapter 5). You can have up to three entities in your Liminal Space at a time. Deduct any you lose from your Bastion Defenders roster.
 
-### Rookery []()
+### Rookery
 
 *Level 5 Bastion Facility*
 
@@ -1504,7 +1502,7 @@ At the end of this period, the hireling produces a Mist talisman linked to the c
 
 You can send a message via raven in this way across any distance, though the message recipient must be on the same plane of existence as your Bastion or in a demiplane linked to yours by the Mists of Ravenloft. A messenger raven delivers the message regardless of any magical wards or other interposing forces, including the Mists and closed borders of a Domain of Dread. If the raven is unable to deliver your message, it returns to your rookery after 7 days with your original message still attached.
 
-### Séance Parlor []()
+### Séance Parlor
 
 *Level 5 Bastion Facility*
 
@@ -1522,7 +1520,7 @@ The veil between the world of the living and the dead grows thin in a Séance Pa
 
 **Speak with Dead.** After spending a Long Rest in your Séance Parlor, you can cast [Speak with Dead](http://dnd2024.wikidot.com/spell:speak-with-dead) immediately without expending a spell slot or needing Material components. When you cast it in this way, you can target any deceased creature whose name you know, as long as you have a piece of its remains (such as ashes or a bone) or an object that was important to the creature in life (such as a brooch or signature weapon). The target speaks through an implement in the Séance Room such as a crystal ball or spirit board.
 
-### Spirit Vault []()
+### Spirit Vault
 
 *Level 13 Bastion Facility*
 
@@ -1568,7 +1566,7 @@ Bastion events occur only when a Bastion is operating under the Maintain order, 
 
 ### Event Descriptions
 
-##### All Is Well []()
+##### All Is Well
 
 Nothing significant happens. Roll on the following table, fleshing out the details as you see fit.
 
@@ -1583,7 +1581,7 @@ Nothing significant happens. Roll on the following table, fleshing out the detai
 | 7 | Some practical joker has been putting rotten eggs in people’s boots. |
 | 8 | Someone thought they saw a ghost. |
 
-##### Attack []()
+##### Attack
 
 A hostile force attacks your Bastion but is defeated.
 
@@ -1591,11 +1589,11 @@ Roll 6d6; for each die that rolls a 1, one Bastion Defender dies. Remove these B
 
 A special facility that shuts down can’t be used on your next Bastion turn, after which it is repaired and made operational again at no cost to you.
 
-##### Criminal Hireling []()
+##### Criminal Hireling
 
 One of your Bastion’s hirelings has a criminal past that comes to light when officials or bounty hunters visit your Bastion with a warrant for the hireling’s arrest. You can retain the hireling by paying a bribe of 1d6 × 100 GP. Otherwise, the hireling is arrested and taken away. If this loss leaves one of your facilities without any hirelings, that facility can’t be used on your next Bastion turn. The hireling is then replaced at no cost to you.
 
-##### Extraordinary Opportunity []()
+##### Extraordinary Opportunity
 
 Your Bastion is given the opportunity to host an important festival or celebration, fund the research of a powerful spellcaster, or appease a domineering noble. Work with the DM to determine the details.
 
@@ -1603,11 +1601,11 @@ If you seize the opportunity, you must pay 500 GP to cover costs. In return, you
 
 If you decline the opportunity, you don’t pay the money and nothing else happens.
 
-##### Friendly Visitors []()
+##### Friendly Visitors
 
 Friendly visitors come to your Bastion, seeking to use one of your special facilities. They offer 1d6 × 100 GP for the brief use of that facility. For example, a knight might want your Smithy to replace a horseshoe or repair a damaged weapon or suit of armor, or sages might need your Arcane Study to help them settle a dispute. Their use of the facility doesn’t interrupt any orders you’ve issued to it.
 
-##### Guest []()
+##### Guest
 
 A Friendly guest comes to stay at your Bastion. Determine the guest by rolling on the following table, and work with your DM to flesh out the details.
 
@@ -1618,23 +1616,23 @@ A Friendly guest comes to stay at your Bastion. Determine the guest by rolling o
 | 3 | The guest is a mercenary, giving you one additional Bastion Defender. The guest doesn’t require a facility to house them, and they stay until you send them away or they’re killed. |
 | 4 | The guest is a Friendly monster, such as a brass dragon or a treant. If your Bastion is attacked while this monster is your guest, it defends your Bastion, and you lose no Bastion Defenders. The monster leaves after it defends your Bastion once or when you send it away. |
 
-##### Lost Hirelings []()
+##### Lost Hirelings
 
 One of your Bastion’s special facilities (determined randomly) loses its hirelings. The cause of their departure is up to you. The facility can’t be used on your next Bastion turn, but the hirelings are replaced at no cost to you at that point.
 
-##### Magical Discovery []()
+##### Magical Discovery
 
 Your hirelings discover or accidentally create an Uncommon magic item of your choice at no cost to you. The magic item must be a Potion or Scroll.
 
-##### Refugees []()
+##### Refugees
 
 A group of 2d4 refugees fleeing from a monster attack, a natural disaster, or some other calamity seeks refuge in your Bastion. If your Bastion lacks a basic facility large enough to house them, the refugees camp right outside the Bastion. The refugees offer you 1d6 × 100 GP as payment for your hospitality and protection. They stay until you find them a new home or a hostile force attacks your Bastion.
 
-##### Request for Aid []()
+##### Request for Aid
 
 Your Bastion is called on to help a local leader. Perhaps there’s a search on for a missing person, or brigands are plaguing the area. If you help, you must dispatch one or more Bastion Defenders. Roll 1d6 for each Bastion Defender you send. If the total is 10 or higher, the problem is solved and you earn a reward of 1d6 × 100 GP. If the total is less than 10, the problem is still solved, but the reward is halved and one of your Bastion Defenders is killed. Remove that Bastion Defender from your Bastion’s roster.
 
-##### Treasure []()
+##### Treasure
 
 Your Bastion acquires an art object or a magic item determined by rolling on the table below and then rolling on the specified table in chapter 7. How the Bastion acquires this treasure is up to you. It might represent an inheritance, a gift from a guest or an admirer, a theft, or a fortunate discovery. If you’re in the Bastion, you can claim the treasure immediately; otherwise, it is placed in storage until you can claim it.
 
@@ -1680,35 +1678,35 @@ When a character issues an order to a Haunted special facility or a Maintain ord
 
 The hauntings from the Bastion Hauntings table are detailed here in alphabetical order.
 
-##### Cursed Hireling. []()
+##### Cursed Hireling.
 
 One of your Bastion’s hirelings is cursed. As long as the hireling remains cursed, it won’t leave the special facility it manages, and any work conducted in that facility takes twice as long to complete.
 
-##### Free-Roaming Spirit. []()
+##### Free-Roaming Spirit.
 
 A random special facility in your Bastion becomes Haunted. If all the special facilities in the Bastion are already Haunted, the DM rolls again on the Bastion Hauntings table.
 
-##### Friendly Ghost. []()
+##### Friendly Ghost.
 
 A benevolent spirit possesses a hireling of the DM’s choice. If the special facility where the hireling works produces items or Gold Pieces, it produces twice as much as usual as long as the hireling remains possessed. The spirit departs after 14 days.
 
-##### Hidden Room. []()
+##### Hidden Room.
 
 The spirits reveal a hidden closet within your Bastion. Add a 5-foot-square space to your Bastion. Something might lie inside, at the DM’s discretion.
 
-##### Lightning Storm. []()
+##### Lightning Storm.
 
 Trade orders issued this turn have no effect (including one that triggered this haunting, if applicable). If you have a Lightning Generator special facility, this Bastion Haunting has no effect.
 
-##### Living Dead. []()
+##### Living Dead.
 
 A group of mindless undead shamble from the Mists. The Attack Bastion event occurs, but roll 3d6 for that event rather than 6d6.
 
-##### Mist Wanderers. []()
+##### Mist Wanderers.
 
 The Mists rise and 1d4 strangers emerge, seeking shelter. If there is room in your Bastion, they join as hirelings. Otherwise, they linger for 1d4 days before vanishing into the Mists.
 
-##### Mysterious Priest. []()
+##### Mysterious Priest.
 
 A hooded priest appears at the Bastion, attracted by its haunting. Roll any die. One of the following occurs based on whether you rolled an even or an odd number on the die:
 
@@ -1716,23 +1714,23 @@ A hooded priest appears at the Bastion, attracted by its haunting. Roll any die.
 
 **Exorcist (Odd).** The priest is an exorcist. If you have a Reliquary, Sacristy, Sanctuary, or Sanctum in your Bastion, the priest offers to remove a haunting from one facility. If you agree, choose one Haunted facility; that facility is no longer Haunted.
 
-##### Ill Luck. []()
+##### Ill Luck.
 
 Accidents and bad luck plague your Bastion. Harvest orders issued this turn have no effect (including one that triggered this haunting, if applicable).
 
-##### Poltergeist. []()
+##### Poltergeist.
 
 Disruptive happenings plague the Bastion. Empower and Research orders issued this turn have no effect (including one that triggered this haunting, if applicable).
 
-##### Spatial Warp. []()
+##### Spatial Warp.
 
 The nature of a Bastion special facility changes. Roll 1d4. On a 4, replace one of your Bastion’s special facilities with another for which you qualify; otherwise, increase the size of a Cramped special facility in your Bastion to Roomy or a Roomy one to Vast, at no cost.
 
-##### Spectral Vision. []()
+##### Spectral Vision.
 
 A ghostly vision of a past event plays out. You gain some insight into the spirits that haunt your Bastion or the history of the surrounding land, as though affected by the Legend Lore spell.
 
-##### Vistani Visitors. []()
+##### Vistani Visitors.
 
 Vistani travelers visit your Bastion, drawn by tales of the spirits that inhabit it. In return for a night’s shelter, they offer to reveal your fate via a casting of the Augury spell or through a tarokka reading (see appendix A). If you turn them away, they depart, but the highest-level special facility in your Bastion that isn’t already Haunted becomes Haunted.
 

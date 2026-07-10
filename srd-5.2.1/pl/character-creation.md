@@ -91,7 +91,7 @@ Wybierz klasę i zapisz ją na karcie postaci. Tabela Przegląd klas podsumowuje
       <td>Wysoka</td>
     </tr>
     <tr>
-      <td>Czarnoksiężnik</td>
+      <td>Zaklinacz</td>
       <td>Tajemną wiedzę</td>
       <td>Charyzma</td>
       <td>Wysoka</td>
@@ -172,7 +172,7 @@ _Zanotuj biegłości._ Twoje pochodzenie daje biegłość w dwóch umiejętnośc
 
 Twoja klasa również zapewnia biegłości. Sprawdź opis klasy w rozdziale „Klasy” i zanotuj biegłości na karcie postaci.
 
-Tabela cech w opisie klasy pokazuje twoją premię do biegłości (opisaną w rozdziale „Zasady gry”), która dla postaci 1. poziomu wynosi +2. Zanotuj tę liczbę na karcie postaci. Pozostałe liczby związane z tymi biegłościami uzupełnisz w kroku 5.
+Tabela cech w opisie klasy pokazuje twoją premię z biegłości (opisaną w rozdziale „Zasady gry”), która dla postaci 1. poziomu wynosi +2. Zanotuj tę liczbę na karcie postaci. Pozostałe liczby związane z tymi biegłościami uzupełnisz w kroku 5.
 
 #### Wybierz początkowe wyposażenie
 
@@ -458,7 +458,7 @@ Jeśli korzystasz ze standardowej tablicy, zajrzyj do tabeli Standardowa tablica
       <td>15</td>
     </tr>
     <tr>
-      <td>Czarnoksiężnik</td>
+      <td>Zaklinacz</td>
       <td>8</td>
       <td>14</td>
       <td>13</td>
@@ -581,15 +581,15 @@ Niektóre cechy klasowe oferują wybory. Upewnij się, że przeczytałeś wszyst
 
 Zanotuj na karcie postaci następujące wartości.
 
-_Rzuty obronne._ Dla rzutów obronnych, w których masz biegłość, dodaj premię do biegłości do odpowiedniego modyfikatora cechy i zanotuj sumę. Niektórzy gracze zapisują też modyfikator dla rzutów obronnych, w których nie mają biegłości — jest to po prostu odpowiedni modyfikator cechy.
+_Rzuty obronne._ Dla rzutów obronnych, w których masz biegłość, dodaj premię z biegłości do odpowiedniego modyfikatora cechy i zanotuj sumę. Niektórzy gracze zapisują też modyfikator dla rzutów obronnych, w których nie mają biegłości — jest to po prostu odpowiedni modyfikator cechy.
 
-_Umiejętności._ Dla umiejętności, w których masz biegłość, dodaj premię do biegłości do modyfikatora cechy powiązanej z tą umiejętnością i zanotuj sumę. Możesz też zapisać modyfikator dla umiejętności, w których nie masz biegłości — jest to po prostu odpowiedni modyfikator cechy.
+_Umiejętności._ Dla umiejętności, w których masz biegłość, dodaj premię z biegłości do modyfikatora cechy powiązanej z tą umiejętnością i zanotuj sumę. Możesz też zapisać modyfikator dla umiejętności, w których nie masz biegłości — jest to po prostu odpowiedni modyfikator cechy.
 
-_Pasywna percepcja._ Czasem twój MP ustala, czy twoja postać coś zauważy, nie prosząc cię o test Mądrości (Percepcja); zamiast tego używa twojej pasywnej percepcji. Pasywna percepcja to wynik odzwierciedlający ogólną świadomość otoczenia, gdy nie szukasz czegoś aktywnie. Użyj tego wzoru, aby określić pasywną percepcję:
+_Pasywna Mądrość (Percepcja)._ Czasem twój MP ustala, czy twoja postać coś zauważy, nie prosząc cię o test Mądrości (Percepcja); zamiast tego używa twojej pasywnej Mądrości (Percepcja). Pasywna Mądrość (Percepcja) to wartość odzwierciedlająca ogólną świadomość otoczenia, gdy nie szukasz czegoś aktywnie. Użyj tego wzoru, aby określić pasywną Mądrość (Percepcja):
 
-Pasywna percepcja = 10 + modyfikator testu Mądrości (Percepcja)
+Pasywna Mądrość (Percepcja) = 10 + modyfikator z Mądrości + premia z biegłości (jeśli masz biegłość w Percepcji)
 
-Uwzględnij wszystkie modyfikatory stosujące się do twoich testów Mądrości (Percepcja). Na przykład, jeśli twoja postać ma Mądrość 15 i biegłość w umiejętności Percepcja, masz pasywną percepcję 14 (10 + 2 za modyfikator Mądrości + 2 za biegłość).
+Uwzględnij wszystkie modyfikatory stosujące się do twoich testów Mądrości (Percepcja). Na przykład, jeśli twoja postać ma Mądrość 15 i biegłość w umiejętności Percepcja, masz pasywną Mądrość (Percepcja) o wartości 14 (10 + 2 za modyfikator Mądrości + 2 za biegłość).
 
 _Punkty Wytrzymałości._ Twoja klasa i modyfikator Kondycji określają maksimum Punktów Wytrzymałości na 1. poziomie, jak pokazano w tabeli Punkty Wytrzymałości 1. poziomu według klasy.
 
@@ -612,7 +612,7 @@ _Punkty Wytrzymałości._ Twoja klasa i modyfikator Kondycji określają maksimu
       <td>10 + modyfikator z Kondycji</td>
     </tr>
     <tr>
-      <td>Bard, Kleryk, Druid, Mnich, Łotr lub Czarnoksiężnik</td>
+      <td>Bard, Kleryk, Druid, Mnich, Łotr lub Zaklinacz</td>
       <td>8 + modyfikator z Kondycji</td>
     </tr>
     <tr>
@@ -632,16 +632,16 @@ _Klasa Pancerza._ Bez pancerza lub tarczy twoja bazowa Klasa Pancerza wynosi 10 
 
 _Ataki._ W sekcji Bronie i szkodliwe sztuczki na karcie postaci zapisz swoje początkowe bronie. Premia do rzutu ataku bronią, w której masz biegłość, wynosi jedną z poniższych wartości, o ile właściwość broni nie stanowi inaczej:
 
-Premia do ataku wręcz = modyfikator Siły + premia do biegłości
-Premia do ataku dystansowego = modyfikator Zręczności + premia do biegłości
+Premia do ataku wręcz = modyfikator Siły + premia z biegłości
+Premia do ataku dystansowego = modyfikator Zręczności + premia z biegłości
 
 Obrażenia i właściwości broni sprawdzisz w rozdziale „Wyposażenie”. Do rzutów na obrażenia tą samą bronią dodajesz ten sam modyfikator cechy, którego używasz do ataków nią.
 
 _Rzucanie czarów._ Zanotuj zarówno ST rzutów obronnych na twoje czary, jak i premię do ataku czarami, korzystając z poniższych wzorów:
 
-**ST rzutu obronnego na czar** = 8 + modyfikator cechy bazowej rzucania czarów + premia do biegłości
+**ST rzutu obronnego na czar** = 8 + modyfikator cechy bazowej rzucania czarów + premia z biegłości
 
-**Premia do ataku czarem** = modyfikator cechy bazowej rzucania czarów + premia do biegłości
+**Premia do ataku czarem** = modyfikator cechy bazowej rzucania czarów + premia z biegłości
 
 Modyfikator cechy bazowej rzucania czarów dla danego czaru określa cecha, która daje ci zdolność jego rzucania.
 
@@ -651,7 +651,7 @@ _Komórki czarów, sztuczki i przygotowane czary._ Jeśli twoja klasa zapewnia c
 
 Podczas przygód twoja postać zdobywa doświadczenie reprezentowane przez Punkty Doświadczenia (PD). Postać, która osiągnie określoną liczbę PD, rozwija swoje zdolności. Ten awans nazywa się zdobyciem poziomu.
 
-Tabela Rozwój postaci podaje liczbę PD potrzebną do awansu na dany poziom oraz premię do biegłości postaci tego poziomu. Gdy suma twoich PD jest równa liczbie w kolumnie Punkty Doświadczenia lub ją przekracza, osiągasz odpowiedni poziom.
+Tabela Rozwój postaci podaje liczbę PD potrzebną do awansu na dany poziom oraz premię z biegłości postaci tego poziomu. Gdy suma twoich PD jest równa liczbie w kolumnie Punkty Doświadczenia lub ją przekracza, osiągasz odpowiedni poziom.
 
 **Rozwój postaci**
 
@@ -660,7 +660,7 @@ Tabela Rozwój postaci podaje liczbę PD potrzebną do awansu na dany poziom ora
     <tr>
       <th>Poziom</th>
       <th>Punkty Doświadczenia</th>
-      <th>Premia do biegłości</th>
+      <th>Premia z biegłości</th>
     </tr>
   </thead>
   <tbody>
@@ -794,7 +794,7 @@ Gdy zdobywasz poziom, wykonaj następujące kroki:
       <td>6 + modyfikator z Kondycji</td>
     </tr>
     <tr>
-      <td>Bard, Kleryk, Druid, Mnich, Łotr lub Czarnoksiężnik</td>
+      <td>Bard, Kleryk, Druid, Mnich, Łotr lub Zaklinacz</td>
       <td>5 + modyfikator z Kondycji</td>
     </tr>
     <tr>
@@ -806,7 +806,7 @@ Gdy zdobywasz poziom, wykonaj następujące kroki:
 
 **3: Zapisz nowe cechy klasowe.** Zajrzyj do tabeli cech swojej klasy w rozdziale „Klasy” i zanotuj cechy zdobyte na nowym poziomie w tej klasie. Dokonaj wyborów oferowanych przez nowe cechy.
 
-**4: Dostosuj premię do biegłości.** Premia do biegłości postaci rośnie na określonych poziomach, jak pokazano w tabeli Rozwój postaci i tabeli cech klasowych w rozdziale „Klasy”. Gdy twoja premia do biegłości rośnie, zwiększ wszystkie liczby na karcie postaci, które ją uwzględniają.
+**4: Dostosuj premię z biegłości.** Premia z biegłości postaci rośnie na określonych poziomach, jak pokazano w tabeli Rozwój postaci i tabeli cech klasowych w rozdziale „Klasy”. Gdy twoja premia z biegłości rośnie, zwiększ wszystkie liczby na karcie postaci, które ją uwzględniają.
 
 **5: Dostosuj modyfikatory cech.** Jeśli wybierzesz atut zwiększający jedną lub więcej wartości cech, modyfikator cechy również się zmienia, gdy nowa wartość jest liczbą parzystą. Gdy to nastąpi, dostosuj wszystkie liczby na karcie postaci korzystające z tego modyfikatora. Gdy twój modyfikator Kondycji wzrasta o 1, maksimum Punktów Wytrzymałości rośnie o 1 za każdy osiągnięty poziom. Na przykład, jeśli postać osiąga 8. poziom i zwiększa Kondycję z 17 na 18, modyfikator Kondycji wzrasta do +4. Maksimum Punktów Wytrzymałości postaci rośnie wtedy o 8, oprócz Punktów Wytrzymałości zdobytych za osiągnięcie 8. poziomu.
 
@@ -902,9 +902,9 @@ Zyskujesz Punkty Wytrzymałości z nowej klasy tak, jak za poziomy powyżej 1. P
 
 Zsumuj Kości Wytrzymałości zapewniane przez wszystkie twoje klasy, tworząc pulę Kości Wytrzymałości. Jeśli są tego samego rodzaju, możesz je łączyć. Na przykład zarówno wojownik, jak i paladyn mają k10 jako Kość Wytrzymałości, więc jeśli jesteś wojownikiem 5. poziomu / paladynem 5. poziomu, masz dziesięć k10 Kości Wytrzymałości. Jeśli twoje klasy dają Kości Wytrzymałości różnych rodzajów, śledź je osobno. Jeśli na przykład jesteś klerykiem 5. poziomu / paladynem 5. poziomu, masz pięć k8 i pięć k10 Kości Wytrzymałości.
 
-### Premia do biegłości
+### Premia z biegłości
 
-Twoja premia do biegłości zależy od całkowitego poziomu postaci, a nie od poziomu w konkretnej klasie, jak pokazano w tabeli Rozwój postaci. Na przykład, jeśli jesteś wojownikiem 3. poziomu / łotrem 2. poziomu, masz premię do biegłości postaci 5. poziomu, czyli +3.
+Twoja premia z biegłości zależy od całkowitego poziomu postaci, a nie od poziomu w konkretnej klasie, jak pokazano w tabeli Rozwój postaci. Na przykład, jeśli jesteś wojownikiem 3. poziomu / łotrem 2. poziomu, masz premię z biegłości postaci 5. poziomu, czyli +3.
 
 ### Biegłości
 
@@ -924,7 +924,7 @@ Jeśli masz kilka sposobów obliczania Klasy Pancerza, możesz korzystać tylko 
 
 Jeśli zyskujesz cechę Dodatkowy atak z więcej niż jednej klasy, cechy te się nie sumują. Nie możesz wykonać więcej niż dwa ataki tą cechą, o ile nie masz cechy stanowiącej inaczej (takiej jak Dwa dodatkowe ataki wojownika).
 
-Podobnie inwokacja Spragnione ostrze czarnoksiężnika, która zapewnia cechę Dodatkowy atak bronią paktu, nie daje dodatkowych ataków, jeśli masz już Dodatkowy atak.
+Podobnie inwokacja Spragnione ostrze zaklinacza, która zapewnia cechę Dodatkowy atak bronią paktu, nie daje dodatkowych ataków, jeśli masz już Dodatkowy atak.
 
 #### Rzucanie czarów
 
@@ -947,7 +947,7 @@ Ta tabela może dać ci komórki czarów wyższego kręgu niż czary, które prz
 
 Na przykład, jeśli jesteś łowcą 4. poziomu / czarownikiem 3. poziomu, liczysz się jako postać 5. poziomu przy określaniu komórek czarów, sumując wszystkie poziomy czarownika i połowę poziomów łowcy. Jak pokazano w tabeli Wieloklasowy rzucający czary, masz cztery komórki czarów 1. poziomu, trzy komórki 2. poziomu i dwie komórki 3. poziomu. Nie możesz jednak przygotować żadnych czarów 3. poziomu ani żadnych czarów łowcy 2. poziomu. Możesz używać komórek tych poziomów do rzucania przygotowanych czarów — i potencjalnie wzmacniać ich efekty.
 
-_Magia paktu._ Jeśli masz cechę Magia paktu z klasy czarnoksiężnika oraz cechę Rzucanie czarów, możesz używać komórek czarów z Magii paktu do rzucania czarów przygotowanych z klas z cechą Rzucanie czarów, a komórek z cechy Rzucanie czarów — do rzucania przygotowanych czarów czarnoksiężnika.
+_Magia paktu._ Jeśli masz cechę Magia paktu z klasy zaklinacza oraz cechę Rzucanie czarów, możesz używać komórek czarów z Magii paktu do rzucania czarów przygotowanych z klas z cechą Rzucanie czarów, a komórek z cechy Rzucanie czarów — do rzucania przygotowanych czarów zaklinacza.
 
 **Wieloklasowy rzucający czary: komórki czarów według kręgu**
 
@@ -1266,7 +1266,7 @@ Gdy tworzysz postać, możesz raz rzucić na tabeli Drobiazgi, aby zyskać drobn
     </tr>
     <tr>
       <td>11</td>
-      <td>Kostka o wadze jednej uncji z nieznanego materiału</td>
+      <td>Kostka o wadze około 30 gramów z nieznanego materiału</td>
     </tr>
     <tr>
       <td>12</td>
@@ -1294,7 +1294,7 @@ Gdy tworzysz postać, możesz raz rzucić na tabeli Drobiazgi, aby zyskać drobn
     </tr>
     <tr>
       <td>18</td>
-      <td>Jajo o wadze jednego funta i jaskrawoczerwonej skorupce</td>
+      <td>Jajo o wadze 0,5 kilograma i jaskrawoczerwonej skorupce</td>
     </tr>
     <tr>
       <td>19</td>

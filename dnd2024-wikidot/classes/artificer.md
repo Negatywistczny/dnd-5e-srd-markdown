@@ -86,7 +86,7 @@ As an Artificer, you gain the following class features when you reach the specif
 | 19 | 8 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 | 20 | 8 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 
-### Level 1: Spellcasting []()
+### Level 1: Spellcasting
 
 You have learned how to channel magical energy through objects. See the Player’s Handbook for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the [Artificer Spell List](http://dnd2024.wikidot.com/artificer:spell-list).
 
@@ -110,7 +110,7 @@ If another Artificer feature gives you spells that you always have prepared, tho
 
 **Spellcasting Ability.** Intelligence is your spellcasting ability for your Artificer spells.
 
-### Level 1: Tinker's Magic []()
+### Level 1: Tinker's Magic
 
 You know the [Mending](http://dnd2024.wikidot.com/spell:mending) cantrip.
 
@@ -133,7 +133,7 @@ See the rules for the item in the Player’s Handbook. The item lasts until you 
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-### Level 2: Replicate Magic Item []()
+### Level 2: Replicate Magic Item
 
 You have learned arcane plans that you use to make magic items.
 
@@ -231,7 +231,7 @@ If an item that you created with this feature is a container, such as a Bag of H
 | [Ring of Protection](http://dnd2024.wikidot.com/magic-item:ring-of-protection) | Yes |
 | [Ring of the Ram](http://dnd2024.wikidot.com/magic-item:ring-of-the-ram) | Yes |
 
-### Level 3: Artificer Subclass []()
+### Level 3: Artificer Subclass
 
 You gain an Artificer subclass of your choice. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass’s features that are of your Artificer level or lower.
 
@@ -246,11 +246,11 @@ You gain an Artificer subclass of your choice. A subclass is a specialization th
 | [Cartographer](http://dnd2024.wikidot.com/artificer:cartographer) |
 | [Reanimator](http://dnd2024.wikidot.com/artificer:reanimator) |
 
-### Level 4: Ability Score Improvement []()
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement feat](http://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](http://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Artificer levels 8, 12, and 16.
 
-### Level 6: Magic Item Tinker []()
+### Level 6: Magic Item Tinker
 
 Your Replicate Magic Item feature gains the following options.
 
@@ -260,17 +260,17 @@ Your Replicate Magic Item feature gains the following options.
 
 **Transmute Magic Item.** As a Magic action, you can touch one magic item within 5 feet of yourself that you created with Replicate Magic Item and transform it into a different magic item. The resulting item must be based on a magic item plan you know. Once you use this feature, you can’t do so again until you finish a Long Rest.
 
-### Level 7: Flash of Genius []()
+### Level 7: Flash of Genius
 
 When you or a creature you can see within 30 feet of you fails an ability check or a saving throw, you can take a Reaction to add a bonus to the roll, potentially causing it to succeed. The bonus equals your Intelligence modifier (minimum of +1).
 
 You can take this Reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 
-### Level 10: Magic Item Adept []()
+### Level 10: Magic Item Adept
 
 You can now attune to up to four magic items at once.
 
-### Level 11: Spell-Storing Item []()
+### Level 11: Spell-Storing Item
 
 Whenever you finish a Long Rest, you can touch one Simple or Martial weapon or one item that you can use as a Spellcasting Focus, and you store a spell in it, choosing a level 1, 2, or 3 Artificer spell that has a casting time of an action and doesn’t require a Material component that is consumed by the spell (you needn’t have the spell prepared).
 
@@ -278,7 +278,7 @@ While holding the object, a creature can take a Magic action to produce the spel
 
 The spell stays in the object until it’s been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
-### Level 14: Advanced Artifice []()
+### Level 14: Advanced Artifice
 
 You gain the following benefits.
 
@@ -286,15 +286,15 @@ You gain the following benefits.
 
 **Refreshed Genius.** When you finish a Short Rest, you regain one expended use of your Flash of Genius feature.
 
-### Level 18: Magic Item Master []()
+### Level 18: Magic Item Master
 
 You can now attune to up to six magic items at once.
 
-### Level 19: Epic Boon []()
+### Level 19: Epic Boon
 
 You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Energy Resistance](http://dnd2024.wikidot.com/feat:boon-of-energy-resistance) is recommended.
 
-### Level 20: Soul of Artifice []()
+### Level 20: Soul of Artifice
 
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 

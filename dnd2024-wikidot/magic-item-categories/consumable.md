@@ -6,14 +6,6 @@
 
 # Consumable Magic Items
 
-- [*Common*](javascript:;)
-- [*Uncommon*](javascript:;)
-- [*Rare*](javascript:;)
-- [*Very Rare*](javascript:;)
-- [*Legendary*](javascript:;)
-- [*Artifact*](javascript:;)
-- [*???*](javascript:;)
-
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 | [Bead of Nourishment](http://dnd2024.wikidot.com/magic-item:bead-of-nourishment) | Wondrous Item | - | 50 GP |
@@ -124,10 +116,3 @@
 
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView7670d23a555cb0c34b446c81210386a1 = new YAHOO.widget.TabView('wiki-tabview-7670d23a555cb0c34b446c81210386a1');
-                }, "dummy-ondomready-block");
-        
-//]]>

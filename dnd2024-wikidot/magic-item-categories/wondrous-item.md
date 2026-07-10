@@ -4,13 +4,6 @@
 
 ---
 
-- [*Common*](javascript:;)
-- [*Uncommon*](javascript:;)
-- [*Rare*](javascript:;)
-- [*Very Rare*](javascript:;)
-- [*Legendary*](javascript:;)
-- [*Artifact*](javascript:;)
-
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 | [Bead of Nourishment](http://dnd2024.wikidot.com/magic-item:bead-of-nourishment) | Wondrous Item | - | 50 GP |
@@ -253,10 +246,3 @@
 | [Eye and Hand of Vecna](http://dnd2024.wikidot.com/magic-item:eye-and-hand-of-vecna) | Wondrous Item | Attunement | Priceless |
 | [Orb of Damara](http://dnd2024.wikidot.com/magic-item:orb-of-damara) | Wondrous Item | Attunement | Priceless |
 | [Orb of Dragonkind](http://dnd2024.wikidot.com/magic-item:orb-of-dragonkind) | Wondrous Item | Attunement | Priceless |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView65a3fa35096821fda24b9372b97b7664 = new YAHOO.widget.TabView('wiki-tabview-65a3fa35096821fda24b9372b97b7664');
-                }, "dummy-ondomready-block");
-        
-//]]>

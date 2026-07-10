@@ -4,17 +4,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Dancing Lights](http://dnd2024.wikidot.com/spell:dancing-lights) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
@@ -72,10 +61,3 @@
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Weird](http://dnd2024.wikidot.com/spell:weird) | *Illusion* | Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabViewe29aa459759df0e2dd4e16b721c3b68b = new YAHOO.widget.TabView('wiki-tabview-e29aa459759df0e2dd4e16b721c3b68b');
-                }, "dummy-ondomready-block");
-        
-//]]>

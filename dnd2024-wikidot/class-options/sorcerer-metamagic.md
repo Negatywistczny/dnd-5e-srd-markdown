@@ -4,8 +4,6 @@
 
 ---
 
-[Fold](javascript:;)[Unfold](javascript:;)Table of Contents[Metamagic Options](#toc0)[Careful Spell](#toc1)[Distant Spell](#toc2)[Empowered Spell](#toc3)[Extended Spell](#toc4)[Heightened Spell](#toc5)[Quickened Spell](#toc6)[Seeking Spell](#toc7)[Subtle Spell](#toc8)[Transmuted Spell](#toc9)[Twinned Spell](#toc10)## Metamagic Options
-
 The following options are available to your Metamagic feature. The options are presented in alphabetical order.
 
 ### Careful Spell

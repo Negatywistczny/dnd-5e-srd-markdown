@@ -5,12 +5,6 @@
 
 ---
 
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Bless](http://dnd2024.wikidot.com/spell:bless) | *Enchantment* | Cleric, Paladin | Action | 30 feet | V, S, M(C) | *^C^*, up to 1 minute |
@@ -78,10 +72,3 @@
 | [Greater Restoration](http://dnd2024.wikidot.com/spell:greater-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
 | [Raise Dead](http://dnd2024.wikidot.com/spell:raise-dead) | *Necromancy* | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
 | [Summon Celestial](http://dnd2024.wikidot.com/spell:summon-celestial) | *Conjuration* | Cleric, Paladin | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabViewb1fd4408a0a5e2b47b87dbd59798dff5 = new YAHOO.widget.TabView('wiki-tabview-b1fd4408a0a5e2b47b87dbd59798dff5');
-                }, "dummy-ondomready-block");
-        
-//]]>

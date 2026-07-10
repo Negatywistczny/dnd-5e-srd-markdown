@@ -74,136 +74,147 @@ Your features might give you proficiency with a tool. A monster has proficiency 
 ##### Artisan Tools
 
 Artisan’s Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.
-- [*Alchemist's Supplies*](javascript:;)
-- [*Brewer's Supplies*](javascript:;)
-- [*Calligrapher's Supplies*](javascript:;)
-- [*Carpenter's Tools*](javascript:;)
-- [*Cartographer's Tools*](javascript:;)
-- [*Cobbler's Tools*](javascript:;)
-- [*Cook's Utensils*](javascript:;)
-- [*Glassblower's Tools*](javascript:;)
-- [*Jeweler's Tools*](javascript:;)
-- [*Leatherworker's Tools*](javascript:;)
-- [*Mason's Tools*](javascript:;)
-- [*Painter's Supplies*](javascript:;)
-- [*Potter's Tools*](javascript:;)
-- [*Smith's Tools*](javascript:;)
-- [*Tinker's Tools*](javascript:;)
-- [*Weaver's Tools*](javascript:;)
-- [*Woodcarver's Tools*](javascript:;)
+
+#### Alchemist's Supplies
 
 **Utilize:** Identify a substance (DC 15), or start a fire (DC 15)
 
 **Craft:** Acid, Alchemist’s Fire, Component Pouch, Oil, Paper, Perfume
 
+#### Brewer's Supplies
+
 **Utilize:** Detect poisoned drink (DC 15), or identify alcohol (DC 10)
 
 **Craft:** Antitoxin
+
+#### Calligrapher's Supplies
 
 **Utilize:** Write text with impressive flourishes that guard against forgery (DC 15)
 
 **Craft:** Ink, [Spell Scroll](http://dnd2024.wikidot.com/magic-item:spell-scroll)
 
+#### Carpenter's Tools
+
 **Utilize:** Seal or pry open a door or container (DC 20)
 
 **Craft:** Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram, Torch
+
+#### Cartographer's Tools
 
 **Utilize:** Draft a map of a small area (DC 15)
 
 **Craft:** Map
 
+#### Cobbler's Tools
+
 **Utilize:** Modify footwear to give Advantage on the wearer’s next Dexterity (Acrobatics) check (DC 10)
 
 **Craft:** Climber’s Kit
+
+#### Cook's Utensils
 
 **Utilize:** Improve food’s flavor (DC 10), or detect spoiled or poisoned food (DC 15)
 
 **Craft:** Rations
 
+#### Glassblower's Tools
+
 **Utilize:** Discern what a glass object held in the past 24 hours (DC 15)
 
 **Craft:** Glass Bottle, Magnifying Glass, Spyglass, Vial
 
-**Utilize:** Discern a gem'’s value (DC 15)
+#### Jeweler's Tools
+
+**Utilize:** Discern a gem's value (DC 15)
 
 **Craft:** Arcane Focus, Holy Symbol
+
+#### Leatherworker's Tools
 
 **Utilize:** Add a design to a leather item (DC 10)
 
 **Craft:** Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
 
+#### Mason's Tools
+
 **Utilize:** Chisel a symbol or hole in stone (DC 10)
 
 **Craft:** Block and Tackle
+
+#### Painter's Supplies
 
 **Utilize:** Paint a recognizable image of something you've seen (DC 10)
 
 **Craft:** Druidic Focus, Holy Symbol
 
+#### Potter's Tools
+
 **Utilize:** Discern what a ceramic object held in the past 24 hours (DC 15)
 
 **Craft:** Jug, Lamp
+
+#### Smith's Tools
 
 **Utilize:** Pry open a door or container (DC 20)
 
 **Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
 
+#### Tinker's Tools
+
 **Utilize:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
 
 **Craft:** Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunting Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox
+
+#### Weaver's Tools
 
 **Utilize:** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)
 
 **Craft:** Padded Armor, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sack, String, Tent, Traveler's Clothes
 
+#### Woodcarver's Tools
+
 **Utilize:** Carve a pattern in wood (DC 10)
 
 **Craft:** Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles
 
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView689a03dfc8b31355ed3014b7ebe05849 = new YAHOO.widget.TabView('wiki-tabview-689a03dfc8b31355ed3014b7ebe05849');
-                }, "dummy-ondomready-block");
-        
-//]]>
 ##### Other Tools
 
 These tools support adventure and other pursuits.
 
-- [*Disguise Kit*](javascript:;)
-- [*Forgery Kit*](javascript:;)
-- [*Gaming Set (Varies)*](javascript:;)
-- [*Herbalism Kit*](javascript:;)
-- [*Musical Instrument (Varies)*](javascript:;)
-- [*Navigator's Tools*](javascript:;)
-- [*Poisoner's Kit*](javascript:;)
-- [*Thieves' Tools*](javascript:;)
+#### Disguise Kit
 
 **Utilize:** Apply makeup (DC 10)
 
 **Craft:** Costume
 
+#### Forgery Kit
+
 **Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
 
+#### Gaming Set
+
 **Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)
+
+#### Herbalism Kit
 
 **Utilize:** Identify a plant (DC 10)
 
 **Craft:** Antitoxin, Candle, Healer’s Kit, [Potion of Healing](http://dnd2024.wikidot.com/magic-item:potion-of-healing)
 
+#### Musical Instrument
+
 **Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)
 
+#### Navigator's Tools
+
 **Utilize:** Plot a course (DC 10), or determine position by stargazing (DC 15)
+
+#### Poisoner's Kit
 
 **Utilize:** Detect a poisoned object (DC 10)
 
 **Craft:** Basic Poison
 
-**Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)
+#### Thieves' Tools
 
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView6065d049a5754123e4856803daef073a = new YAHOO.widget.TabView('wiki-tabview-6065d049a5754123e4856803daef073a');
-                }, "dummy-ondomready-block");
-        
-//]]>
+**Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)

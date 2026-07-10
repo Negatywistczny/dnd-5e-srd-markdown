@@ -4,13 +4,6 @@
 
 ---
 
-- [*Common*](javascript:;)
-- [*Uncommon*](javascript:;)
-- [*Rare*](javascript:;)
-- [*Very Rare*](javascript:;)
-- [*Legendary*](javascript:;)
-- [*Artifact*](javascript:;)
-
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 | [Potion of Climbing](http://dnd2024.wikidot.com/magic-item:potion-of-climbing) | Potion | - | 50 GP |
@@ -62,10 +55,3 @@
 
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView6021e722965062abf53d348be15d25e6 = new YAHOO.widget.TabView('wiki-tabview-6021e722965062abf53d348be15d25e6');
-                }, "dummy-ondomready-block");
-        
-//]]>

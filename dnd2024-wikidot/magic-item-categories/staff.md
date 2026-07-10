@@ -4,13 +4,6 @@
 
 ---
 
-- [*Common*](javascript:;)
-- [*Uncommon*](javascript:;)
-- [*Rare*](javascript:;)
-- [*Very Rare*](javascript:;)
-- [*Legendary*](javascript:;)
-- [*Artifact*](javascript:;)
-
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 | [Staff of Adornment](http://dnd2024.wikidot.com/magic-item:staff-of-adornment) | Staff | - | 100 GP |
@@ -48,10 +41,3 @@
 
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView53b81d0d82b5ad17b1fa90bea21e6eca = new YAHOO.widget.TabView('wiki-tabview-53b81d0d82b5ad17b1fa90bea21e6eca');
-                }, "dummy-ondomready-block");
-        
-//]]>

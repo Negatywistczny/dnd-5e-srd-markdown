@@ -4,13 +4,6 @@
 
 ---
 
-- [*Common*](javascript:;)
-- [*Uncommon*](javascript:;)
-- [*Rare*](javascript:;)
-- [*Very Rare*](javascript:;)
-- [*Legendary*](javascript:;)
-- [*Artifact*](javascript:;)
-
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 
@@ -39,10 +32,3 @@
 
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabVieweabb72a26689b4025c47329933501e3e = new YAHOO.widget.TabView('wiki-tabview-eabb72a26689b4025c47329933501e3e');
-                }, "dummy-ondomready-block");
-        
-//]]>

@@ -4,13 +4,6 @@
 
 ---
 
-- [*Common*](javascript:;)
-- [*Uncommon*](javascript:;)
-- [*Rare*](javascript:;)
-- [*Very Rare*](javascript:;)
-- [*Legendary*](javascript:;)
-- [*Artifact*](javascript:;)
-
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 | [Wand of Conducting](http://dnd2024.wikidot.com/magic-item:wand-of-conducting) | Wand | - | 100 GP |
@@ -46,10 +39,3 @@
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 | [Wand of Orcus](http://dnd2024.wikidot.com/magic-item:wand-of-orcus) | Wand | Attunement | Priceless |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView6e14c9b2c60e5ca8d098eba0f37a0624 = new YAHOO.widget.TabView('wiki-tabview-6e14c9b2c60e5ca8d098eba0f37a0624');
-                }, "dummy-ondomready-block");
-        
-//]]>

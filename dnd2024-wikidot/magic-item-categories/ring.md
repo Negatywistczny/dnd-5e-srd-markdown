@@ -4,13 +4,6 @@
 
 ---
 
-- [*Common*](javascript:;)
-- [*Uncommon*](javascript:;)
-- [*Rare*](javascript:;)
-- [*Very Rare*](javascript:;)
-- [*Legendary*](javascript:;)
-- [*Artifact*](javascript:;)
-
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 | [Adventurer's Ring](http://dnd2024.wikidot.com/magic-item:adventurer-s-ring) | Ring | - | 250 GP |
@@ -53,10 +46,3 @@
 
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView6947c8e51df4db914b8c77efb8e91074 = new YAHOO.widget.TabView('wiki-tabview-6947c8e51df4db914b8c77efb8e91074');
-                }, "dummy-ondomready-block");
-        
-//]]>

@@ -5,17 +5,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Acid Splash](http://dnd2024.wikidot.com/spell:acid-splash) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
@@ -308,10 +297,3 @@
 | [True Polymorph](http://dnd2024.wikidot.com/spell:true-polymorph) | *Transmutation* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
 | [Weird](http://dnd2024.wikidot.com/spell:weird) | *Illusion* | Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
 | [Wish](http://dnd2024.wikidot.com/spell:wish) | *Conjuration* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabViewec7e4da1da88b0816577ed71a3f655ff = new YAHOO.widget.TabView('wiki-tabview-ec7e4da1da88b0816577ed71a3f655ff');
-                }, "dummy-ondomready-block");
-        
-//]]>

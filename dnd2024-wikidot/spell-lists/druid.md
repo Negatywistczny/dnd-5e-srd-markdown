@@ -5,17 +5,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Druidcraft](http://dnd2024.wikidot.com/spell:druidcraft) | *Transmutation* | Druid | Action | 30 feet | V, S | Instantaneous |
@@ -187,10 +176,3 @@
 | [Shapechange](http://dnd2024.wikidot.com/spell:shapechange) | *Transmutation* | Druid, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 hour |
 | [Storm of Vengeance](http://dnd2024.wikidot.com/spell:storm-of-vengeance) | *Conjuration* | Druid | Action | 1 mile | V, S | *^C^*, up to 1 minute |
 | [True Resurrection](http://dnd2024.wikidot.com/spell:true-resurrection) | *Necromancy* | Cleric, Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView34dcad394c1fe838925fc5822b22499e = new YAHOO.widget.TabView('wiki-tabview-34dcad394c1fe838925fc5822b22499e');
-                }, "dummy-ondomready-block");
-        
-//]]>

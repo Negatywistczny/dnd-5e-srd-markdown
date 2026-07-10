@@ -5,13 +5,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Acid Splash](http://dnd2024.wikidot.com/spell:acid-splash) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
@@ -110,10 +103,3 @@
 | [Creation](http://dnd2024.wikidot.com/spell:creation) | *Illusion* | Artificer, Sorcerer, Wizard | 1 minute | 30 feet | V, S, M | Special |
 | [Greater Restoration](http://dnd2024.wikidot.com/spell:greater-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
 | [Wall of Stone](http://dnd2024.wikidot.com/spell:wall-of-stone) | *Evocation* | Artificer, Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabVieweeeff333d38e802ba16b81d0fbc74acd = new YAHOO.widget.TabView('wiki-tabview-eeeff333d38e802ba16b81d0fbc74acd');
-                }, "dummy-ondomready-block");
-        
-//]]>

@@ -4,8 +4,6 @@
 
 ---
 
-[Fold](javascript:;)[Unfold](javascript:;)Table of Contents[What is a Circle spell](#toc0)[Eligible Spells](#toc1)[Casting a Circle Spell](#toc2)[Initiating a Circle Spell](#toc3)[Secondary Casters](#toc4)[NPC Secondary Casters](#toc5)[Completing the Casting](#toc6)[Spell Failure](#toc7)[Circle Casting Options](#toc8)[Augment](#toc9)[Distribute](#toc10)[Expand](#toc11)[Prolong](#toc12)[Safeguard](#toc13)[Supplant](#toc14)Source: Forgotten Realms - Heroes of Faerun
-
 Millennia ago, elf mages researching alternative magical traditions developed a technique by which many spellcasters working together could cast spells beyond the limit of any individual. This technique became known as circle magic, and although it was initially developed by elves, spellcasters in Thay and Rashemen reinvented the technique, and from there it quickly spread to other realms in Faerûn.
 
 # What is a Circle spell

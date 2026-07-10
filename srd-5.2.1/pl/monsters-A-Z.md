@@ -70,7 +70,7 @@ _Duży Wynaturzenie, Praworządny Zły_
 
 **_Amfibius._** Aboleth może oddychać powietrzem i wodą.
 
-**_Przywracanie mrocznej mocy._** Jeśli zostanie zniszczony, aboleth zyskuje nowe ciało w ciągu 5k10 dni, odradzając się ze wszystkimi Punktami Wytrzymałości w Dalekiej Krainie lub w innym miejscu wybranym przez MG.
+**_Przywracanie mrocznej mocy._** Jeśli zostanie zniszczony, aboleth zyskuje nowe ciało w ciągu 5k10 dni, odradzając się ze wszystkimi Punktami Wytrzymałości w Dalekiej Krainie lub w innym miejscu wybranym przez MP.
 
 **_Legendarna odporność (3/dzień lub 4/dzień w legowisku)._** Jeśli aboleth ponosi porażkę w rzucie obronnym, może zamiast tego uznać rzut za udany.
 
@@ -188,7 +188,7 @@ _Duży Żywiołak, Neutralny_
 
 ### Animowany pancerz
 
-_Średni Konstrukt, Bezcharakterowy_
+_Średni Konstrukt, Nieokreślony_
 
 **KP** 18 **Inicjatywa** +2 (12) <br>
 **PW** 33 (6k8 + 6) <br>
@@ -258,7 +258,7 @@ _Średni Konstrukt, Bezcharakterowy_
 
 ### Animowany latający miecz
 
-_Mały Konstrukt, Bezcharakterowy_
+_Mały Konstrukt, Nieokreślony_
 
 **KP** 17 **Inicjatywa** +4 (14) <br>
 **PW** 14 (4k6) <br>
@@ -326,7 +326,7 @@ _Mały Konstrukt, Bezcharakterowy_
 
 ### Animowany duszący dywan
 
-_Duży Konstrukt, Bezcharakterowy_
+_Duży Konstrukt, Nieokreślony_
 
 **KP** 12 **Inicjatywa** +4 (14) <br>
 **PW** 27 (5k10) <br>
@@ -397,7 +397,7 @@ _Duży Konstrukt, Bezcharakterowy_
 
 ### Ankheg
 
-_Duża Potworność, Bezcharakterowa_
+_Duża Potworność, Nieokreślona_
 
 **KP** 14 **Inicjatywa** +0 (10) <br>
 **PW** 45 (6k10 + 12) <br>
@@ -702,7 +702,7 @@ _Wielka Roślina, Neutralna_
 
 ### Toporodziób
 
-_Duża Potworność, Bezcharakterowa_
+_Duża Potworność, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 19 (3k10 + 3) <br>
@@ -1182,7 +1182,7 @@ _Średni Czart (Diabeł), Praworządny Zły_
 
 ### Bazyliszek
 
-_Średnia Potworność, Bezcharakterowa_
+_Średnia Potworność, Nieokreślona_
 
 **KP** 15 **Inicjatywa** −1 (9) <br>
 **PW** 52 (8k8 + 16) <br>
@@ -1852,7 +1852,7 @@ _Użycia akcji legendarnej: 3 (4 w legowisku). Natychmiast po turze innej istoty
 
 ### Czarny pudding
 
-_Duży Szlam, Bezcharakterowy_
+_Duży Szlam, Nieokreślony_
 
 **KP** 7 **Inicjatywa** −3 (7) <br>
 **PW** 68 (8k10 + 24) <br>
@@ -2414,7 +2414,7 @@ _Duży Czart (Diabeł), Praworządny Zły_
 **Niepodatność** Od ognia, Od trucizny; Zatruty<br>
 **Zmysły** Widzenie w ciemności 36 m (nieograniczone magiczną Ciemnością); Pasywna Percepcja 12<br>
 **Języki** Piekielny; telepatia 36 m<br>
-**SW** 9 (PD 5000; premia do biegłości +4)
+**SW** 9 (PD 5000; premia z biegłości +4)
 
 #### Cechy
 
@@ -2497,7 +2497,7 @@ _Średni Smok (Metaliczny), Chaotyczny Dobry_
 **Niepodatność** ognia<br>
 **Zmysły** Ślepowidzenie 3 m, Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** Smoczy<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 #### Akcje
 
@@ -2570,7 +2570,7 @@ _Duży Smok (Metaliczny), Chaotyczny Dobry_
 **Niepodatność** ognia<br>
 **Zmysły** Ślepowidzenie 9 m, Widzenie w ciemności 36 m; Pasywna Percepcja 16<br>
 **Języki** Wspólny, Smoczy<br>
-**SW** 6 (PD 2,300; premia do biegłości +3)
+**SW** 6 (PD 2,300; premia z biegłości +3)
 
 #### Akcje
 
@@ -2645,7 +2645,7 @@ _Ogromny Smok (Metaliczny), Chaotyczny Dobry_
 **Niepodatność** ognia<br>
 **Zmysły** Ślepowidzenie 18 m, Widzenie w ciemności 36 m; Pasywna Percepcja 21<br>
 **Języki** Wspólny, Smoczy<br>
-**SW** 13 (PD 10,000, lub 11,500 w legowisku; premia do biegłości +5)
+**SW** 13 (PD 10,000, lub 11,500 w legowisku; premia z biegłości +5)
 
 #### Cechy
 
@@ -2742,7 +2742,7 @@ _Gigantyczny Smok (Metaliczny), Chaotyczny Dobry_
 **Niepodatność** ognia<br>
 **Zmysły** Ślepowidzenie 18 m, Widzenie w ciemności 36 m; Pasywna Percepcja 24<br>
 **Języki** Wspólny, Smoczy<br>
-**SW** 20 (PD 25,000, lub 33,000 w legowisku; premia do biegłości +6)
+**SW** 20 (PD 25,000, lub 33,000 w legowisku; premia z biegłości +6)
 
 #### Cechy
 
@@ -2841,7 +2841,7 @@ _Średni Smok (Metaliczny), Praworządny Dobry_
 **Niepodatność** elektryczności<br>
 **Zmysły** Ślepowidzenie 3 m, Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** Smoczy<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 #### Cechy
 
@@ -2922,7 +2922,7 @@ _Duży Smok (Metaliczny), Praworządny Dobry_
 **Niepodatność** elektryczności<br>
 **Zmysły** Ślepowidzenie 9 m, Widzenie w ciemności 36 m; Pasywna Percepcja 17<br>
 **Języki** Wspólny, Smoczy<br>
-**SW** 8 (PD 3,900; premia do biegłości +3)
+**SW** 8 (PD 3,900; premia z biegłości +3)
 
 #### Cechy
 
@@ -3003,7 +3003,7 @@ _Ogromny Smok (Metaliczny), Praworządny Dobry_
 **Niepodatność** elektryczności<br>
 **Zmysły** Ślepowidzenie 18 m, Widzenie w ciemności 36 m; Pasywna Percepcja 22<br>
 **Języki** Wspólny, Smoczy<br>
-**SW** 15 (PD 13,000, lub 15,000 w legowisku; premia do biegłości +5)
+**SW** 15 (PD 13,000, lub 15,000 w legowisku; premia z biegłości +5)
 
 #### Cechy
 
@@ -3039,7 +3039,7 @@ _Użycia akcji legendarnej: 3 (4 w legowisku). Natychmiast po turze innej istoty
 
 **_Skok._** Smok porusza się do połowy swojej Szybkości i wykonuje jeden atak Rozdarciem.
 
-**_Grzmot._** _Rzut obronny na Kondycję:_ ST 17, każda istota na 20-foot-radius Sfera centered on a point smok widzi w zasięgu 27 m. _Porażka:_ 10 (3k6)
+**_Grzmot._** _Rzut obronny na Kondycję:_ ST 17, każda istota na 6-metrowy Sfera centered on a point smok widzi w zasięgu 27 m. _Porażka:_ 10 (3k6)
 obrażeń od dźwięku, a cel otrzymuje stan Ogłuszony do końca swojej następnej tury.
 
 ### Prastary brązowy smok
@@ -3103,7 +3103,7 @@ _Gigantyczny Smok (Metaliczny), Praworządny Dobry_
 **Niepodatność** elektryczności<br>
 **Zmysły** Ślepowidzenie 18 m, Widzenie w ciemności 36 m; Pasywna Percepcja 27<br>
 **Języki** Wspólny, Smoczy<br>
-**SW** 22 (PD 41,000, lub 50,000 w legowisku; premia do biegłości +7)
+**SW** 22 (PD 41,000, lub 50,000 w legowisku; premia z biegłości +7)
 
 #### Cechy
 
@@ -3139,7 +3139,7 @@ _Użycia akcji legendarnej: 3 (4 w legowisku). Natychmiast po turze innej istoty
 
 **_Skok._** Smok porusza się do połowy swojej Szybkości i wykonuje jeden atak Rozdarciem.
 
-**_Grzmot._** _Rzut obronny na Kondycję:_ ST 22, każda istota na 20-foot-radius Sfera centered on a point smok widzi w zasięgu 36 m. _Porażka:_ 13 (3k8) obrażeń od dźwięku, a cel otrzymuje stan Ogłuszony do końca swojej następnej tury.
+**_Grzmot._** _Rzut obronny na Kondycję:_ ST 22, każda istota na 6-metrowy Sfera centered on a point smok widzi w zasięgu 36 m. _Porażka:_ 13 (3k8) obrażeń od dźwięku, a cel otrzymuje stan Ogłuszony do końca swojej następnej tury.
 
 ## Bagienniki
 
@@ -3204,7 +3204,7 @@ _Średni Fey (Goblinoid), Chaotyczny Zły_
 **Wyposażenie** Kolczuga, Oszczepy (6), Gwiazda poranna<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 11<br>
 **Języki** Wspólny, Gobliński<br>
-**SW** 3 (PD 700; premia do biegłości +2)
+**SW** 3 (PD 700; premia z biegłości +2)
 
 #### Cechy
 
@@ -3289,7 +3289,7 @@ _Średni Fey (Goblinoid), Chaotyczny Zły_
 **Wyposażenie** Zbroja ze skór, Młotki lekkie (3)<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Wspólny, Gobliński<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 #### Cechy
 
@@ -3309,7 +3309,7 @@ _Średni Fey (Goblinoid), Chaotyczny Zły_
 
 ### Buletta
 
-_Duży Potworność, Bezcharakterowa_
+_Duży Potworność, Nieokreślona_
 
 **KP** 17 **Inicjatywa** +0 (10) <br>
 **PW** 94 (9k10 + 45) <br>
@@ -3365,9 +3365,9 @@ _Duży Potworność, Bezcharakterowa_
 </table>
 
 **Umiejętności** Percepcja +6<br>
-**Zmysły** Widzenie w ciemności 18 m, Wyczulanie 36 m; Pasywna Percepcja 16<br>
+**Zmysły** Widzenie w ciemności 18 m, Wyczucie drgań 36 m; Pasywna Percepcja 16<br>
 **Języki** Brak<br>
-**SW** 5 (PD 1,800; premia do biegłości +3)
+**SW** 5 (PD 1,800; premia z biegłości +3)
 
 #### Akcje
 
@@ -3448,7 +3448,7 @@ _Duży Fey, Neutralny Dobry_
 **Wyposażenie** Napierśnik, Długi łuk, Pika<br>
 **Zmysły** Pasywna Percepcja 13<br>
 **Języki** Elficki, Leśny<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 #### Akcje
 
@@ -3529,7 +3529,7 @@ _Średni Czart (Diabeł), Praworządny Zły_
 **Niepodatność** ognia, trucizny; Zatruty<br>
 **Zmysły** Widzenie w ciemności 36 m (nieograniczone magiczną Ciemnością); Pasywna Percepcja 11<br>
 **Języki** Piekielny; telepatia 36 m<br>
-**SW** 8 (PD 3,900; premia do biegłości +3)
+**SW** 8 (PD 3,900; premia z biegłości +3)
 
 #### Cechy
 
@@ -3617,7 +3617,7 @@ _Duży Potworność, Chaotyczny Zły_
 **Umiejętności** Percepcja +8<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 18<br>
 **Języki** Rozumie Smoczy, ale nie potrafi mówić<br>
-**SW** 6 (PD 2,300; premia do biegłości +3)
+**SW** 6 (PD 2,300; premia z biegłości +3)
 
 #### Akcje
 
@@ -3696,7 +3696,7 @@ _Duży Wynaturzenie, Chaotyczny Zły_
 **Niepodatność** trucizny; Zatruty<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** Rozumie Mowę Głębin, ale nie potrafi mówić<br>
-**SW** 4 (PD 1,100; premia do biegłości +2)
+**SW** 4 (PD 1,100; premia z biegłości +2)
 
 #### Cechy
 
@@ -3720,7 +3720,7 @@ _Duży Wynaturzenie, Chaotyczny Zły_
 
 ### Gliniany golem
 
-_Duży Konstrukt, Bezcharakterowa_
+_Duży Konstrukt, Nieokreślona_
 
 **KP** 14 **Inicjatywa** +3 (13) <br>
 **PW** 123 (13k10 + 52) <br>
@@ -3779,7 +3779,7 @@ _Duży Konstrukt, Bezcharakterowa_
 **Niepodatność** kwasu, trucizny, psychicznych; Oczarowany, Wyczerpanie, Przestraszony, Sparaliżowany, Skamieniały, Zatruty<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 9<br>
 **Języki** Wspólny Wspólny plus jeden inny język<br>
-**SW** 9 (PD 5,000; premia do biegłości +4)
+**SW** 9 (PD 5,000; premia z biegłości +4)
 
 #### Cechy
 
@@ -3870,7 +3870,7 @@ _Duży Wynaturzenie, Chaotyczny Neutralny_
 **Niepodatność** Przestraszony<br>
 **Zmysły** Widzenie w ciemności 36 m; Pasywna Percepcja 12<br>
 **Języki** Mowa Głębin, Podwspólny<br>
-**SW** 8 (PD 3,900; premia do biegłości +3)
+**SW** 8 (PD 3,900; premia z biegłości +3)
 
 #### Cechy
 
@@ -3959,7 +3959,7 @@ _Ogromny Gigant, Neutralny_
 **Umiejętności** Intuicja +7, Percepcja +11<br>
 **Zmysły** Pasywna Percepcja 21<br>
 **Języki** Wspólny, Olbrzymi<br>
-**SW** 9 (PD 5,000; premia do biegłości +4)
+**SW** 9 (PD 5,000; premia z biegłości +4)
 
 #### Akcje
 
@@ -3985,7 +3985,7 @@ _Ogromny Gigant, Neutralny_
 
 ### Kokatryks
 
-_Mały Potworność, Bezcharakterowa_
+_Mały Potworność, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +1 (11) <br>
 **PW** 22 (5k6 + 5) <br>
@@ -4043,7 +4043,7 @@ _Mały Potworność, Bezcharakterowa_
 **Niepodatność** Skamieniały<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 11<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 #### Akcje
 
@@ -4113,13 +4113,13 @@ _Średni lub Mały Humanoid, Neutralny_
 **Wyposażenie** Pałka<br>
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Wspólny<br>
-**SW** 0 (PD 10; premia do biegłości +2)
+**SW** 0 (PD 10; premia z biegłości +2)
 
 #### Cechy
 
 <hr>
 
-**_Szkolenie._** Mieszkaniec ma biegłość w jednej umiejętności wybranej przez MG i ma ułatwienie, gdy wykonuje test cechy z użyciem tej umiejętności.
+**_Szkolenie._** Mieszkaniec ma biegłość w jednej umiejętności wybranej przez MP i ma ułatwienie, gdy wykonuje test cechy z użyciem tej umiejętności.
 
 #### Akcje
 
@@ -4190,7 +4190,7 @@ _Średni Smok (Metaliczny), Chaotyczny Dobry_
 **Niepodatność** kwasu<br>
 **Zmysły** Ślepowidzenie 3 m, Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** Smoczy<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 #### Akcje
 
@@ -4263,7 +4263,7 @@ _Duży Smok (Metaliczny), Chaotyczny Dobry_
 **Niepodatność** kwasu<br>
 **Zmysły** Ślepowidzenie 9 m, Widzenie w ciemności 36 m; Pasywna Percepcja 17<br>
 **Języki** Wspólny, Smoczy<br>
-**SW** 7 (PD 2,900; premia do biegłości +3)
+**SW** 7 (PD 2,900; premia z biegłości +3)
 
 #### Akcje
 
@@ -4338,7 +4338,7 @@ _Ogromny Smok (Metaliczny), Chaotyczny Dobry_
 **Niepodatność** kwasu<br>
 **Zmysły** Ślepowidzenie 18 m, Widzenie w ciemności 36 m; Pasywna Percepcja 22<br>
 **Języki** Wspólny, Smoczy<br>
-**SW** 14 (PD 11,500, lub 13,000 w legowisku; premia do biegłości +5)
+**SW** 14 (PD 11,500, lub 13,000 w legowisku; premia z biegłości +5)
 
 #### Cechy
 
@@ -4435,7 +4435,7 @@ _Gigantyczny Smok (Metaliczny), Chaotyczny Dobry_
 **Niepodatność** kwasu<br>
 **Zmysły** Ślepowidzenie 18 m, Widzenie w ciemności 36 m; Pasywna Percepcja 27<br>
 **Języki** Wspólny, Smoczy<br>
-**SW** 21 (PD 33,000, lub 41,000 w legowisku; premia do biegłości +7)
+**SW** 21 (PD 33,000, lub 41,000 w legowisku; premia z biegłości +7)
 
 #### Cechy
 
@@ -4534,7 +4534,7 @@ _Średni Celestynał, Praworządny Dobry_
 **Niepodatność** psychicznych, światła<br>
 **Zmysły** Prawdziwe widzenie 36 m; Pasywna Percepcja 15<br>
 **Języki** Wszystkie; telepatia 36 m<br>
-**SW** 4 (PD 1,100; premia do biegłości +2)
+**SW** 4 (PD 1,100; premia z biegłości +2)
 
 #### Cechy
 
@@ -4564,7 +4564,7 @@ _Średni Celestynał, Praworządny Dobry_
 
 ### Rój pełzających dłoni
 
-_Medium Swarm of Tiny Undead, Neutral Evil_
+_Średni Rój malutkich nieumarłych, Neutralny Zły_
 
 **KP** 12 **Inicjatywa** +2 (12) <br>
 **PW** 49 (11k8) <br>
@@ -4623,7 +4623,7 @@ _Medium Swarm of Tiny Undead, Neutral Evil_
 **Niepodatność** nekrotycznych, trucizny; Oczarowany, Wyczerpanie, Przestraszony, Pochwycony, Obezwładniony, Sparaliżowany, Skamieniały, Zatruty, Powalony, Skrępowany, Ogłuszony<br>
 **Zmysły** Ślepowidzenie 9 m; Pasywna Percepcja 10<br>
 **Języki** Rozumie Wspólny, ale nie potrafi mówić<br>
-**SW** 3 (PD 700; premia do biegłości +2)
+**SW** 3 (PD 700; premia z biegłości +2)
 
 #### Cechy
 
@@ -4700,7 +4700,7 @@ _Średni lub Mały Humanoid, Neutralny_
 **Wyposażenie** Skórzana zbroja, Kosa<br>
 **Zmysły** Pasywna Percepcja 10<br>
 **Języki** Wspólny<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 #### Akcje
 
@@ -4769,7 +4769,7 @@ _Średni lub Mały Humanoid, Neutralny_
 **Wyposażenie** Symbol święty, Skórzana zbroja<br>
 **Zmysły** Pasywna Percepcja 12<br>
 **Języki** Wspólny<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 #### Akcje
 
@@ -4792,7 +4792,7 @@ _Średni lub Mały Humanoid, Neutralny_
 
 ### Mroczny płaszcz
 
-_Mały Wynaturzenie, Bezcharakterowa_
+_Mały Wynaturzenie, Nieokreślona_
 
 **KP** 11 **Inicjatywa** +3 (13) <br>
 **PW** 22 (5k6 + 5) <br>
@@ -4850,7 +4850,7 @@ _Mały Wynaturzenie, Bezcharakterowa_
 **Umiejętności** Skradanie się +3<br>
 **Zmysły** Ślepowidzenie 18 m; Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 #### Akcje
 
@@ -4925,7 +4925,7 @@ _Średni Potworność, Neutralny Zły_
 **Niepodatność** Oślepiony, Oczarowany, Ogłuszony, Przestraszony, Ogłuszony, Nieprzytomny<br>
 **Zmysły** Widzenie w ciemności 36 m; Pasywna Percepcja 15<br>
 **Języki** Brak<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 #### Akcje
 
@@ -4999,7 +4999,7 @@ _Średni Celestynał (Angel), Praworządny Dobry_
 **Niepodatność** Oczarowany, Wyczerpanie, Przestraszony<br>
 **Zmysły** Widzenie w ciemności 36 m; Pasywna Percepcja 19<br>
 **Języki** Wszystkie; telepatia 36 m<br>
-**SW** 10 (PD 5,900; premia do biegłości +4)
+**SW** 10 (PD 5,900; premia z biegłości +4)
 
 #### Cechy
 
@@ -5089,7 +5089,7 @@ _Duży Żywiołak (Genie), Neutralny_
 **Niepodatność** elektryczności, dźwięku<br>
 **Zmysły** Widzenie w ciemności 36 m; Pasywna Percepcja 13<br>
 **Języki** Primordial (Auran)<br>
-**SW** 11 (PD 7,200; premia do biegłości +4)
+**SW** 11 (PD 7,200; premia z biegłości +4)
 
 #### Cechy
 
@@ -5182,7 +5182,7 @@ _Średni Potworność, Neutralny_
 **Niepodatność** Oczarowany<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 11<br>
 **Języki** Wspólny plus trzy inne języki<br>
-**SW** 3 (PD 700; premia do biegłości +2)
+**SW** 3 (PD 700; premia z biegłości +2)
 
 #### Akcje
 
@@ -5264,7 +5264,7 @@ _Gigantyczny Smok, Neutralny_
 **Odporność** Od ognia<br>
 **Zmysły** Widzenie w ciemności 36 m; Pasywna Percepcja 11<br>
 **Języki** Smoczy, Primordial (Aquan)<br>
-**SW** 17 (PD 18,000; premia do biegłości +6)
+**SW** 17 (PD 18,000; premia z biegłości +6)
 
 #### Cechy
 
@@ -5347,7 +5347,7 @@ _Mały Czart (Demon), Chaotyczny Zły_
 **Niepodatność** trucizny; Zatruty<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 9<br>
 **Języki** Otchłanny; telepatia 18 m (działa tylko ze stworzeniami rozumiejącymi Otchłanny)<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 #### Akcje
 
@@ -5419,7 +5419,7 @@ _Duży Potworność, Chaotyczny Zły_
 **Umiejętności** Percepcja +6, Skradanie się +10<br>
 **Zmysły** Widzenie w ciemności 36 m; Pasywna Percepcja 16<br>
 **Języki** Elficki, Podwspólny<br>
-**SW** 6 (PD 2,300; premia do biegłości +3)
+**SW** 6 (PD 2,300; premia z biegłości +3)
 
 #### Cechy
 
@@ -5509,7 +5509,7 @@ _Średni lub Mały Humanoid (Druid), Neutralny_
 **Wyposażenie** Ćwiartowana skórzana zbroja<br>
 **Zmysły** Pasywna Percepcja 15<br>
 **Języki** Wspólny, Druidyczny, Sylfański<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 #### Akcje
 
@@ -5588,7 +5588,7 @@ _Średni Fey, Neutralny_
 **Umiejętności** Percepcja +4, Skradanie się +5<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** Elficki, Sylfański<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 #### Cechy
 
@@ -5679,9 +5679,9 @@ _Duży Żywiołak, Neutralny_
 
 **Słabość** od dźwięku<br>
 **Niepodatność** od trucizny; Wyczerpanie, Sparaliżowany, Skamieniały, Zatruty, Nieprzytomny<br>
-**Zmysły** Widzenie w ciemności 18 m, Wyczulanie 18 m; Pasywna Percepcja 10<br>
+**Zmysły** Widzenie w ciemności 18 m, Wyczucie drgań 18 m; Pasywna Percepcja 10<br>
 **Języki** Primordial (Terran)<br>
-**SW** 5 (PD 1,800; premia do biegłości +3)
+**SW** 5 (PD 1,800; premia z biegłości +3)
 
 #### Cechy
 
@@ -5763,7 +5763,7 @@ _Duży Żywiołak (Dżin), Neutralny_
 **Niepodatność** od ognia<br>
 **Zmysły** Widzenie w ciemności 36 m; Pasywna Percepcja 12<br>
 **Języki** Primordial (Ignan)<br>
-**SW** 11 (PD 7,200; premia do biegłości +4)
+**SW** 11 (PD 7,200; premia z biegłości +4)
 
 #### Cechy
 
@@ -5853,7 +5853,7 @@ _Średni Czart (Diabeł), Praworządny Zły_
 **Niepodatność** od ognia, od trucizny; Zatruty<br>
 **Zmysły** Prawdziwe widzenie 36 m; Pasywna Percepcja 16<br>
 **Języki** Piekielny; telepatia 36 m<br>
-**SW** 12 (PD 8,400; premia do biegłości +4)
+**SW** 12 (PD 8,400; premia z biegłości +4)
 
 #### Cechy
 
@@ -5863,7 +5863,7 @@ _Średni Czart (Diabeł), Praworządny Zły_
 
 **_Odporność na magię._** Erynie ma ułatwienie do rzutów obronnych przeciw czarom i innym magicznym efektom.
 
-**_Magiczna lina._** Erynie ma magiczną linę. Gdy ją nosi, może użyć akcji Pętająca lina. Lina ma KP 20, PW 90 i niewrażliwość na obrażenia od trucizny i od energii psychicznej. Lina zamienia się w pył, jeśli spadnie do 0 Punktów Wytrzymałości, jeśli znajduje się oddalona o co najmniej 1,5 m od erynie przez 1 godzinę lub dłużej, albo jeśli erynie umrze. Jeśli lina zostanie uszkodzona lub zniszczona, erynie może w pełni ją przywrócić po zakończeniu krótkiego lub długiego odpoczynku.
+**_Magiczna lina._** Erynie ma magiczną linę. Gdy ją nosi, może użyć akcji Pętająca lina. Lina ma KP 20, PW 90 i niepodatność na obrażenia od trucizny i od energii psychicznej. Lina zamienia się w pył, jeśli spadnie do 0 Punktów Wytrzymałości, jeśli znajduje się oddalona o co najmniej 1,5 m od erynie przez 1 godzinę lub dłużej, albo jeśli erynie umrze. Jeśli lina zostanie uszkodzona lub zniszczona, erynie może w pełni ją przywrócić po zakończeniu krótkiego lub długiego odpoczynku.
 
 #### Akcje
 
@@ -5943,7 +5943,7 @@ _Średni Potworność, Neutralny Zły_
 **Umiejętności** Percepcja +3, Skradanie się +4, Przetrwanie +3<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 13<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 #### Cechy
 
@@ -5963,7 +5963,7 @@ _Średni Potworność, Neutralny Zły_
 
 **_Szpony._** _Test ataku wręcz:_ +4, zasięg 1,5 m _Trafienie:_ 7 (2k4 + 2) cięte obrażeń.
 
-**_Pasmo pajęczyny (Ładowanie 5–6)._** _Rzut obronny na Zręczność:_ ST 12, jedna istota Duża lub mniejsza, którą ettercap widzi, w zasięgu 9 m. _Porażka:_ Cel otrzymuje stan Skrępowany, dopóki pajęczyna nie zostanie zniszczona (KP 10; PW 5; podatność na obrażenia od ognia; niewrażliwość na obuchowe, od trucizny i od energii psychicznej obrażeń).
+**_Pasmo pajęczyny (Ładowanie 5–6)._** _Rzut obronny na Zręczność:_ ST 12, jedna istota Duża lub mniejsza, którą ettercap widzi, w zasięgu 9 m. _Porażka:_ Cel otrzymuje stan Skrępowany, dopóki pajęczyna nie zostanie zniszczona (KP 10; PW 5; podatność na obrażenia od ognia; niepodatność na obuchowe, od trucizny i od energii psychicznej obrażeń).
 
 #### Akcje dodatkowe
 
@@ -6035,7 +6035,7 @@ _Duży Gigant, Chaotyczny Zły_
 **Wyposażenie** Topór bojowy, Gwiazda poranna<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 14<br>
 **Języki** gigant<br>
-**SW** 4 (PD 1,100; premia do biegłości +2)
+**SW** 4 (PD 1,100; premia z biegłości +2)
 
 #### Akcje
 
@@ -6110,7 +6110,7 @@ _Duży Żywiołak, Neutralny_
 **Niepodatność** od ognia, od trucizny; Wyczerpanie, Pochwycony, Sparaliżowany, Skamieniały, Zatruty, Powalony, Skrępowany, Nieprzytomny<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Primordial (Ignan)<br>
-**SW** 5 (PD 1,800; premia do biegłości +3)
+**SW** 5 (PD 1,800; premia z biegłości +3)
 
 #### Cechy
 
@@ -6122,7 +6122,7 @@ _Duży Żywiołak, Neutralny_
 
 **_Iluminacja._** Żywiołak emituje jasne światło w promieniu 9 m i słabe światło na dodatkowe 9 m.
 
-**_Podatność na wodę._** Żywiołak otrzymuje 3 (1k6) obrażeń od zimna za każde 1,5 m, o które porusza się w wodzie, lub za każdy galon wody rozpryskanej na niego.
+**_Podatność na wodę._** Żywiołak otrzymuje 3 (1k6) obrażeń od zimna za każde 1,5 m, o które porusza się w wodzie, lub za każde 4 litry wody rozpryskane na niego.
 
 #### Akcje
 
@@ -6195,7 +6195,7 @@ _Ogromny Gigant, Praworządny Zły_
 **Niepodatność** od ognia<br>
 **Zmysły** Pasywna Percepcja 16<br>
 **Języki** gigant<br>
-**SW** 9 (PD 5,000; premia do biegłości +4)
+**SW** 9 (PD 5,000; premia z biegłości +4)
 
 #### Akcje
 
@@ -6269,7 +6269,7 @@ _Średni Konstrukt, Neutralny_
 **Niepodatność** od elektryczności, od trucizny; Oczarowany, Wyczerpanie, Przestraszony, Sparaliżowany, Skamieniały, Zatruty<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Rozumie Wspólny plus jeden inny język, ale nie może mówić<br>
-**SW** 5 (PD 1,800; premia do biegłości +3)
+**SW** 5 (PD 1,800; premia z biegłości +3)
 
 #### Cechy
 
@@ -6357,7 +6357,7 @@ _Ogromny Gigant, Neutralny Zły_
 **Niepodatność** od zimna<br>
 **Zmysły** Pasywna Percepcja 13<br>
 **Języki** gigant<br>
-**SW** 8 (PD 3,900; premia do biegłości +3)
+**SW** 8 (PD 3,900; premia z biegłości +3)
 
 #### Akcje
 
@@ -6379,7 +6379,7 @@ _Ogromny Gigant, Neutralny Zły_
 
 ### Shrieker Fungus
 
-_Średni Roślina, Bezcharakterowa_
+_Średni Roślina, Nieokreślona_
 
 **KP** 5 **Inicjatywa** −5 (5) <br>
 **PW** 13 (3k8) <br>
@@ -6437,7 +6437,7 @@ _Średni Roślina, Bezcharakterowa_
 **Niepodatność** Oślepiony, Oczarowany, Ogłuszony, Przestraszony<br>
 **Zmysły** Ślepowidzenie 9 m; Pasywna Percepcja 6<br>
 **Języki** Brak<br>
-**SW** 0 (PD 0; premia do biegłości +2)
+**SW** 0 (PD 0; premia z biegłości +2)
 
 #### Reakcje
 
@@ -6447,7 +6447,7 @@ _Średni Roślina, Bezcharakterowa_
 
 ### Fioletowy grzyb
 
-_Średni Roślina, Bezcharakterowa_
+_Średni Roślina, Nieokreślona_
 
 **KP** 5 **Inicjatywa** −5 (5) <br>
 **PW** 18 (4k8) <br>
@@ -6505,7 +6505,7 @@ _Średni Roślina, Bezcharakterowa_
 **Niepodatność** Oślepiony, Oczarowany, Ogłuszony, Przestraszony<br>
 **Zmysły** Ślepowidzenie 9 m; Pasywna Percepcja 6<br>
 **Języki** Brak<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 #### Akcje
 
@@ -6578,7 +6578,7 @@ _Średni Żywiołak, Chaotyczny Zły_
 **Niepodatność** od trucizny; Wyczerpanie, Skamieniały, Zatruty<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Primordial (Terran)<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 #### Cechy
 
@@ -6598,7 +6598,7 @@ _Średni Żywiołak, Chaotyczny Zły_
 
 ### Galaretowaty sześcian
 
-_Duży Szlam, Bezcharakterowa_
+_Duży Szlam, Nieokreślona_
 
 **KP** 6 **Inicjatywa** −4 (6) <br>
 **PW** 63 (6k10 + 30) <br>
@@ -6656,7 +6656,7 @@ _Duży Szlam, Bezcharakterowa_
 **Niepodatność** od kwasu; Oślepiony, Oczarowany, Ogłuszony, Wyczerpanie, Przestraszony, Powalony<br>
 **Zmysły** Ślepowidzenie 18 m; Pasywna Percepcja 8<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 #### Cechy
 
@@ -6739,7 +6739,7 @@ _Średni Nieumarły, Chaotyczny Zły_
 **Niepodatność** od trucizny; Oczarowany, Wyczerpanie, Zatruty<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Wspólny<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 #### Cechy
 
@@ -6818,7 +6818,7 @@ _Średni Nieumarły, Neutralny_
 **Niepodatność** nekrotyczne, od trucizny; Oczarowany, Wyczerpanie, Przestraszony, Pochwycony, Sparaliżowany, Skamieniały, Zatruty, Powalony, Skrępowany<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 11<br>
 **Języki** Wspólny plus jeden inny język<br>
-**SW** 4 (PD 1,100; premia do biegłości +2)
+**SW** 4 (PD 1,100; premia z biegłości +2)
 
 #### Cechy
 
@@ -6906,7 +6906,7 @@ _Średni Nieumarły, Chaotyczny Zły_
 **Niepodatność** od trucizny; Oczarowany, Wyczerpanie, Zatruty<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Wspólny<br>
-**SW** 1 (PD 200; premia do biegłości +2)
+**SW** 1 (PD 200; premia z biegłości +2)
 
 #### Akcje
 
@@ -6980,7 +6980,7 @@ _Średni Wynaturzenie, Chaotyczny Neutralny_
 **Niepodatność** Powalony<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Brak<br>
-**SW** 2 (PD 450; premia do biegłości +2)
+**SW** 2 (PD 450; premia z biegłości +2)
 
 #### Cechy
 
@@ -7065,7 +7065,7 @@ _Duży Czart (Demon), Chaotyczny Zły_
 **Niepodatność** od trucizny; Zatruty<br>
 **Zmysły** Prawdziwe widzenie 36 m; Pasywna Percepcja 17<br>
 **Języki** Abyssal; telepatia 36 m<br>
-**SW** 9 (PD 5,000; premia do biegłości +4)
+**SW** 9 (PD 5,000; premia z biegłości +4)
 
 #### Cechy
 
@@ -7152,7 +7152,7 @@ _Średni lub Mały Humanoid, Neutralny_
 **Wyposażenie** Tarcza, Włócznie (3), Ćwiartowana skórzana zbroja<br>
 **Zmysły** Pasywna Percepcja 11<br>
 **Języki** Wspólny<br>
-**SW** 5 (PD 1,800; premia do biegłości +3)
+**SW** 5 (PD 1,800; premia z biegłości +3)
 
 #### Akcje
 
@@ -7231,7 +7231,7 @@ _Średni Czart, Chaotyczny Zły_
 
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 10<br>
 **Języki** Gnoll<br>
-**SW** 1/2 (PD 100; premia do biegłości +2)
+**SW** 1/2 (PD 100; premia z biegłości +2)
 
 #### Akcje
 
@@ -7310,7 +7310,7 @@ _Mały Fey (Goblinoid), Chaotyczny Neutralny_
 **Wyposażenie** Sztylety (3)<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 9<br>
 **Języki** Wspólny, Goblin<br>
-**SW** 1/8 (PD 25; premia do biegłości +2)
+**SW** 1/8 (PD 25; premia z biegłości +2)
 
 #### Akcje
 
@@ -7385,7 +7385,7 @@ _Mały Fey (Goblinoid), Chaotyczny Neutralny_
 **Wyposażenie** Skórzana zbroja, Sekmakar, Tarcza, Krótki łuk<br>
 **Zmysły** Widzenie w ciemności 18 m; Pasywna Percepcja 9<br>
 **Języki** Wspólny, Goblin<br>
-**SW** 1/4 (PD 50; premia do biegłości +2)
+**SW** 1/4 (PD 50; premia z biegłości +2)
 
 #### Akcje
 

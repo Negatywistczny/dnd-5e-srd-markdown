@@ -4,17 +4,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Acid Splash](http://dnd2024.wikidot.com/spell:acid-splash) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
@@ -115,10 +104,3 @@
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Meteor Swarm](http://dnd2024.wikidot.com/spell:meteor-swarm) | *Evocation* | Sorcerer, Wizard | Action | 1 mile | V, S | Instantaneous |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView6686b8ec1f13baca8e97cb90a1a752ff = new YAHOO.widget.TabView('wiki-tabview-6686b8ec1f13baca8e97cb90a1a752ff');
-                }, "dummy-ondomready-block");
-        
-//]]>

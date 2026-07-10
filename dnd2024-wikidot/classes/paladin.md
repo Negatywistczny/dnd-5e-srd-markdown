@@ -89,7 +89,7 @@ Almost by definition, the life of a Paladin is an adventuring life, for every Pa
 
 As a Paladin, you gain the following class features when you reach the specified Paladin levels. These features are listed in the Paladin Features table.
 
-### Level 1: Lay On Hands []()
+### Level 1: Lay On Hands
 
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
 
@@ -97,7 +97,7 @@ As a Bonus Action, you can touch a creature (which could be yourself) and draw p
 
 You can also expend 5 Hit Points from the pool of healing power to remove the Poisoned condition from the creature; those points don't also restore Hit Points to the creature.
 
-### Level 1: Spellcasting []()
+### Level 1: Spellcasting
 
 You have learned to cast spells through prayer and meditation. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](http://dnd2024.wikidot.com/paladin:spell-list) later in the class's description.
 
@@ -115,25 +115,25 @@ If another Paladin feature gives you spells that you always have prepared, those
 
 **Spellcasting Focus.** You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
 
-### Level 1: Weapon Mastery []()
+### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For Example, you could switch to using the mastery properties of Halberds and Flails.
 
-### Level 2: Fighting Style []()
+### Level 2: Fighting Style
 
 You gain a [Fighting Style feat](http://dnd2024.wikidot.com/feat:all) of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
 **Blessed Warrior.** You learn two Cleric cantrips of your choice (See the Cleric class's section for a list of Cleric spells). [Guidance](http://dnd2024.wikidot.com/spell:guidance) and [Sacred Flame](http://dnd2024.wikidot.com/spell:sacred-flame) are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
-### Level 2: Paladin's Smite []()
+### Level 2: Paladin's Smite
 
 You always have the [Divine Smite](http://dnd2024.wikidot.com/spell:divine-smite) spell prepared.
 
 You can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it this way again.
 
-### Level 3: Channel Divinity []()
+### Level 3: Channel Divinity
 
 You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class's Channel Divinity, you choose which effect from this class to create.
 
@@ -143,7 +143,7 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 **Divine Sense.** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](http://dnd2024.wikidot.com/spell:hallow) spell.
 
-### Level 3: Paladin Subclass []()
+### Level 3: Paladin Subclass
 
 You gain a Paladin Subclass of your choice. The Oath of Devotion, Oath of Glory, Oath of the Ancients and Oath of Vengeance subclasses are detailed after this class's description. A Subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
 
@@ -165,15 +165,15 @@ A Paladin who has broken a vow typically seeks absolution, spending an all-night
 
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 
-### Level 4: Ability Score Improvement []()
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement feat](http://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](http://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
-### Level 5: Extra Attack []()
+### Level 5: Extra Attack
 
 You can attack twice instead of once whenever you take the Attack action on your turn.
 
-### Level 5: Faithful Steed []()
+### Level 5: Faithful Steed
 
 You can call on the aid of an otherworldly steed.
 
@@ -181,7 +181,7 @@ You always have the [Find Steed](http://dnd2024.wikidot.com/spell:find-steed) sp
 
 You can also cast the spell once without expending a spell slot, and you regain your ability to do so when you finish a Long Rest.
 
-### Level 6: Aura of Protection []()
+### Level 6: Aura of Protection
 
 You radiate a protective, unseeable aura in a 10-foot Emanation that originates from you. The aura is inactive while you have the Incapacitated condition.
 
@@ -189,26 +189,26 @@ You and your allies in the aura gain a bonus to saving throws equal to your Char
 
 If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which aura while in them.
 
-### Level 9: Abjure Foes []()
+### Level 9: Abjure Foes
 
 As a Magic action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can only do one of the following on its turns: move, take an action or take a Bonus Action.
 
-### Level 10: Aura of Courage []()
+### Level 10: Aura of Courage
 
 You and your allies have Immunity to the Frightened condition while in your Aura of Protection. If a Frightened ally enters the aura, that condition has no effect on that ally while there.
 
-### Level 11: Radiant Strikes []()
+### Level 11: Radiant Strikes
 
 Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an Unarmed Strike, the target takes an extra 1d8 Radiant damage.
 
-### Level 14: Restoring Touch []()
+### Level 14: Restoring Touch
 
 When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.
 
-### Level 18: Aura Expansion []()
+### Level 18: Aura Expansion
 
 Your Aura of Protection is now a 30-foot Emanation.
 
-### Level 19: Epic Boon []()
+### Level 19: Epic Boon
 
 You gain an [Epic Boon feat](http://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Truesight](http://dnd2024.wikidot.com/feat:boon-of-truesight) is recommended.

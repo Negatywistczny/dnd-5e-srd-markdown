@@ -36,7 +36,7 @@ Każde pochodzenie oferuje wybór między pakietem wyposażenia a 50 sz.
 **Atut:** Wtajemniczony (Kleryk) (patrz rozdział „Atuty”)
 **Biegłości w umiejętnościach:** Intuicja i Religia
 **Biegłość w narzędziach:** Przybory kaligraficzne
-**Wyposażenie:** _Wybierz A lub B:_ (A) Przybory kaligraficzne, Księga (modlitwy), Symbol wiary, Pergamin (10 arkuszy), Szata, 8 sz; lub (B) 50 sz
+**Wyposażenie:** _Wybierz A lub B:_ (A) Przybory kaligraficzne, Księga (modlitwy), Święty symbol, Pergamin (10 arkuszy), Szata, 8 sz; lub (B) 50 sz
 
 #### Przestępca
 
@@ -149,9 +149,9 @@ _Smoczy rodowód._ Twoje pochodzenie wywodzi się od smoczego protoplasty. Wybie
   </tbody>
 </table>
 
-_Zionięcie._ Gdy wykonujesz akcję Atak w swojej turze, możesz zastąpić jeden ze swoich ataków wydechem magicznej energii w stożku o zasięgu 4,5 metra albo w linii o długości 9 metrów i szerokości 1,5 metra (kształt wybierasz za każdym razem). Każda istota w tym obszarze musi wykonać rzut obronny na Zręczność (ST 8 plus twój modyfikator z Kondycji i premia do biegłości). Przy nieudanym rzucie istota otrzymuje 1k10 obrażeń typu określonego przez cechę Smoczy rodowód. Przy udanym rzucie istota otrzymuje połowę obrażeń. Te obrażenia rosną o 1k10, gdy osiągasz poziomy postaci 5 (2k10), 11 (3k10) i 17 (4k10).
+_Zionięcie._ Gdy wykonujesz akcję Atak w swojej turze, możesz zastąpić jeden ze swoich ataków wydechem magicznej energii w stożku o zasięgu 4,5 metra albo w linii o długości 9 metrów i szerokości 1,5 metra (kształt wybierasz za każdym razem). Każda istota w tym obszarze musi wykonać rzut obronny na Zręczność (ST 8 plus twój modyfikator z Kondycji i premia z biegłości). Przy nieudanym rzucie istota otrzymuje 1k10 obrażeń typu określonego przez cechę Smoczy rodowód. Przy udanym rzucie istota otrzymuje połowę obrażeń. Te obrażenia rosną o 1k10, gdy osiągasz poziomy postaci 5 (2k10), 11 (3k10) i 17 (4k10).
 
-Możesz użyć Zionięcia liczbę razy równą twojej premii do biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego Odpoczynku.
+Możesz użyć Zionięcia liczbę razy równą twojej premii z biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego Odpoczynku.
 
 _Odporność na obrażenia._ Masz odporność na typ obrażeń określony przez cechę Smoczy rodowód.
 
@@ -175,7 +175,7 @@ _Krasnoludzka wytrzymałość._ Twój maksymalny limit Punktów Wytrzymałości 
 
 _Wiedza o kamieniu._ Akcją dodatkową zyskujesz wyczucie drgań o zasięgu 18 metrów na 10 minut. Musisz znajdować się na kamiennej powierzchni lub jej dotykać, aby używać tego wyczucia drgań. Kamień może być naturalny lub obrobiony.
 
-Możesz użyć tej akcji dodatkowej liczbę razy równą twojej premii do biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego Odpoczynku.
+Możesz użyć tej akcji dodatkowej liczbę razy równą twojej premii z biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego Odpoczynku.
 
 #### Elf
 
@@ -246,7 +246,7 @@ _Gnomi spryt._ Masz ułatwienie przy rzutach obronnych na Inteligencję, Mądro�
 
 _Gnomi rodowód._ Należysz do rodu, który obdarza cię nadnaturalnymi zdolnościami. Wybierz jedną z poniższych opcji; niezależnie od wyboru Inteligencja, Mądrość lub Charyzma jest twoją cechą bazową rzucania czarów dla czarów rzucanych dzięki tej cesze (wybierz cechę, gdy wybierasz rodowód):
 
-**Gnom leśny.** Znasz sztuczkę _Pomniejsza iluzja_. Masz także zawsze przygotowany czar _Rozmawianie ze zwierzętami_. Możesz rzucić go bez użycia komórki czaru liczbę razy równą twojej premii do biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego Odpoczynku. Możesz także używać posiadanych komórek czaru do jego rzucania.
+**Gnom leśny.** Znasz sztuczkę _Pomniejsza iluzja_. Masz także zawsze przygotowany czar _Rozmawianie ze zwierzętami_. Możesz rzucić go bez użycia komórki czaru liczbę razy równą twojej premii z biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego Odpoczynku. Możesz także używać posiadanych komórek czaru do jego rzucania.
 
 **Gnom skalny.** Znasz sztuczki _Naprawa_ i _Kuglarstwo_. Dodatkowo możesz poświęcić 10 minut na rzucenie _Kuglarstwa_, aby stworzyć malutkie mechaniczne urządzenie (KP 5, 1 PW), takie jak zabawka, zapalniczka lub pozytywka. Tworząc urządzenie, określasz jego funkcję, wybierając jeden efekt z _Kuglarstwa_; urządzenie wywołuje ten efekt, gdy ty lub inna istota aktywujecie je dotykiem, używając akcji dodatkowej. Jeśli wybrany efekt ma opcje, wybierasz jedną z nich podczas tworzenia urządzenia. Na przykład, jeśli wybierzesz efekt zapalania i gaszenia ognia, określasz, czy urządzenie zapala, czy gasi ogień — nie może robić obu rzeczy jednocześnie. Możesz mieć jednocześnie do trzech takich urządzeń, a każde z nich rozpada się po 8 godzinach od stworzenia lub gdy je rozmontujesz dotykiem, używając akcji Użycie obiektu.
 
@@ -258,7 +258,7 @@ _Gnomi rodowód._ Należysz do rodu, który obdarza cię nadnaturalnymi zdolnoś
 
 Jako goliat masz następujące szczególne cechy.
 
-_Rodowód olbrzymów._ Jesteś potomkiem olbrzymów. Wybierz jedną z poniższych korzyści — nadprzyrodzony dar wynikający z twojego dziedzictwa. Możesz użyć wybranego efektu liczbę razy równą twojej premii do biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego Odpoczynku:
+_Rodowód olbrzymów._ Jesteś potomkiem olbrzymów. Wybierz jedną z poniższych korzyści — nadprzyrodzony dar wynikający z twojego dziedzictwa. Możesz użyć wybranego efektu liczbę razy równą twojej premii z biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego Odpoczynku:
 
 **Wędrówka chmur (gigant chmurowy).** Akcją dodatkową możesz magicznie teleportować się na odległość do 9 metrów do niezajętej przestrzeni, którą widzisz.
 
@@ -290,7 +290,7 @@ _Zwinność niziołka._ Możesz poruszać się przez pole zajmowane przez stworz
 
 _Szczęście._ Gdy wyrzucisz 1 na k20 w teście k20, możesz przerzucić kość i musisz użyć nowego wyniku.
 
-_Niezauważalny._ Możesz wykonać akcję Ukrycie, nawet jeśli jesteś zasłonięty tylko przez stworzenie o co najmniej jeden rozmiar większe od ciebie.
+_Niezauważalny._ Możesz wykonać akcję Ukrycia się, nawet jeśli jesteś zasłonięty tylko przez stworzenie o co najmniej jeden rozmiar większe od ciebie.
 
 #### Człowiek
 
@@ -314,9 +314,9 @@ _Wszechstronny._ Zdobywasz atut pochodzenia według własnego wyboru (patrz rozd
 
 Jako ork masz następujące szczególne cechy.
 
-_Przypływ adrenaliny._ Możesz wykonać akcję Sprint jako akcję dodatkową. Gdy to zrobisz, zyskujesz liczbę Tymczasowych Punktów Wytrzymałości równą twojej premii do biegłości.
+_Przypływ adrenaliny._ Możesz wykonać akcję Sprint jako akcję dodatkową. Gdy to zrobisz, zyskujesz liczbę Tymczasowych Punktów Wytrzymałości równą twojej premii z biegłości.
 
-Możesz użyć tej cechy liczbę razy równą twojej premii do biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Krótkiego lub Długiego Odpoczynku.
+Możesz użyć tej cechy liczbę razy równą twojej premii z biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Krótkiego lub Długiego Odpoczynku.
 
 _Widzenie w ciemności._ Masz widzenie w ciemności o zasięgu 36 metrów.
 

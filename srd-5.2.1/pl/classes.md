@@ -60,7 +60,7 @@ Jako barbarzyńca zyskujesz następujące cechy klasy po osiągnięciu wskazanyc
  <thead>
  <tr>
  <th>Poziom</th>
- <th>Premia do biegłości</th>
+ <th>Premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Szały</th>
  <th>Obrażenia szału</th>
@@ -358,7 +358,7 @@ Jeśli używasz Szaleńczego ataku, gdy twój Szał jest aktywny, zadajesz dodat
 
 #### Poziom 6: Bezmyślny szał
 
-Masz niewrażliwość na stany zauroczony i przerażony, gdy twój Szał jest aktywny. Jeśli jesteś zauroczony lub przerażony w momencie wejścia w Szał, stan ten kończy się na tobie.
+Masz niepodatność na stany zauroczony i przerażony, gdy twój Szał jest aktywny. Jeśli jesteś zauroczony lub przerażony w momencie wejścia w Szał, stan ten kończy się na tobie.
 
 #### Poziom 10: Odwet
 
@@ -366,7 +366,7 @@ Gdy otrzymasz obrażenia od istoty znajdującej się w promieniu 1,5 metra od ci
 
 #### Poziom 14: Złowroga postawa
 
-Akcją dodatkową możesz wzbudzić grozę w innych dzięki swojej złowrogiej postawie i prymitywnej mocy. Gdy to zrobisz, każda wybrana przez ciebie istota w emanacji o promieniu 9 metrów, której punktem wyjścia jesteś ty, musi wykonać rzut obronny na Mądrość (ST równe 8 plus twój modyfikator Siły i premia do biegłości). Przy nieudanym rzucie istota otrzymuje stan przerażony na 1 minutę. Na końcu każdej swojej tury istota ze stanem przerażony powtarza rzut, kończąc efekt przy sukcesie.
+Akcją dodatkową możesz wzbudzić grozę w innych dzięki swojej złowrogiej postawie i prymitywnej mocy. Gdy to zrobisz, każda wybrana przez ciebie istota w emanacji o promieniu 9 metrów, której punktem wyjścia jesteś ty, musi wykonać rzut obronny na Mądrość (ST równe 8 plus twój modyfikator Siły i premia z biegłości). Przy nieudanym rzucie istota otrzymuje stan przerażony na 1 minutę. Na końcu każdej swojej tury istota ze stanem przerażony powtarza rzut, kończąc efekt przy sukcesie.
 
 Po użyciu tej zdolności nie możesz jej użyć ponownie, dopóki nie zakończysz długiego odpoczynku, chyba że wydasz jedno użycie swojego Szału (nie wymaga akcji), aby odzyskać możliwość jej użycia.
 
@@ -434,7 +434,7 @@ Jako barda zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Kość bardowska</th>
  <th>Sztuczki</th>
@@ -865,7 +865,7 @@ Jako student magii tajemnej nauczyłeś się rzucać czary. Zobacz . Poniższe i
 _Czary podstawowe.._ Znasz trzy wybrane przez ciebie czary podstawowe maga. Zalecane są , oraz . Za każdym razem, gdy zakończysz długi odpoczynek, możesz zastąpić jeden ze swoich czarów podstawowych z tej zdolności innym wybranym czarem podstawowym maga.
 
 Kiedy osiągniesz 4. i 10. poziom maga, nauczysz się kolejnego wybranego czaru podstawowego maga, jak pokazano w kolumnie Czary Podstawowe w .
-_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 3 funty, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
+_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 1,5 kilogramy, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
 
 Księga zawiera znane ci czary poziomu 1 i wyższego. Zaczyna się z sześcioma wybranymi przez ciebie czarami maga poziomu 1. Zalecane są , , , , oraz .
 Za każdym razem, gdy po 1. poziomie zyskasz poziom maga, dodaj do swojej księgi czarów dwa wybrane czary maga. Każdy z tych czarów musi być na poziomie, dla którego masz komórki czarów, jak pokazano w tabeli zdolności maga. Czary te są owocem regularnych badań magicznych, które przeprowadzasz.
@@ -1767,7 +1767,7 @@ Gdy wykonasz test cechy lub test ataku i poniesiesz porażkę, możesz zużyć j
  </tr>
  <tr>
  <td>Wyposażenie startowe</td>
- <td>Wybierz A lub B: (A) Kolczuga, tarcza, buzdygan, Symbol wiary, Zestaw kapłana, i 7 sz; lub (B) 110 sz</td>
+ <td>Wybierz A lub B: (A) Kolczuga, tarcza, buzdygan, Święty symbol, Zestaw kapłana, i 7 sz; lub (B) 110 sz</td>
  </tr>
  </tbody>
 </table>
@@ -1794,7 +1794,7 @@ Jako kleryka zyskujesz następujące cechy klasy po osiągnięciu wskazanych poz
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Akt wiary</th>
  <th>Sztuczki</th>
@@ -2175,7 +2175,7 @@ Jako student magii tajemnej nauczyłeś się rzucać czary. Zobacz . Poniższe i
 _Czary podstawowe.._ Znasz trzy wybrane przez ciebie czary podstawowe maga. Zalecane są , oraz . Za każdym razem, gdy zakończysz długi odpoczynek, możesz zastąpić jeden ze swoich czarów podstawowych z tej zdolności innym wybranym czarem podstawowym maga.
 
 Kiedy osiągniesz 4. i 10. poziom maga, nauczysz się kolejnego wybranego czaru podstawowego maga, jak pokazano w kolumnie Czary Podstawowe w .
-_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 3 funty, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
+_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 1,5 kilogramy, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
 
 Księga zawiera znane ci czary poziomu 1 i wyższego. Zaczyna się z sześcioma wybranymi przez ciebie czarami maga poziomu 1. Zalecane są , , , , oraz .
 Za każdym razem, gdy po 1. poziomie zyskasz poziom maga, dodaj do swojej księgi czarów dwa wybrane czary maga. Każdy z tych czarów musi być na poziomie, dla którego masz komórki czarów, jak pokazano w tabeli zdolności maga. Czary te są owocem regularnych badań magicznych, które przeprowadzasz.
@@ -3024,7 +3024,7 @@ Jako druida zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Dzika postać</th>
  <th>Sztuczki</th>
@@ -3445,7 +3445,7 @@ Jako student magii tajemnej nauczyłeś się rzucać czary. Zobacz . Poniższe i
 _Czary podstawowe.._ Znasz trzy wybrane przez ciebie czary podstawowe maga. Zalecane są , oraz . Za każdym razem, gdy zakończysz długi odpoczynek, możesz zastąpić jeden ze swoich czarów podstawowych z tej zdolności innym wybranym czarem podstawowym maga.
 
 Kiedy osiągniesz 4. i 10. poziom maga, nauczysz się kolejnego wybranego czaru podstawowego maga, jak pokazano w kolumnie Czary Podstawowe w .
-_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 3 funty, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
+_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 1,5 kilogramy, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
 
 Księga zawiera znane ci czary poziomu 1 i wyższego. Zaczyna się z sześcioma wybranymi przez ciebie czarami maga poziomu 1. Zalecane są , , , , oraz .
 Za każdym razem, gdy po 1. poziomie zyskasz poziom maga, dodaj do swojej księgi czarów dwa wybrane czary maga. Każdy z tych czarów musi być na poziomie, dla którego masz komórki czarów, jak pokazano w tabeli zdolności maga. Czary te są owocem regularnych badań magicznych, które przeprowadzasz.
@@ -4400,7 +4400,7 @@ Jako wojownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych p
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Drugi oddech</th>
  <th>Mistrzostwo broni</th>
@@ -4568,7 +4568,7 @@ Za każdym razem, gdy kończysz długi odpoczynek, możesz zmienić rodzaje bron
 
 #### Poziom 2: Przypływ sił
 
-Możesz na chwilę przekroczyć swoje normalne ograniczenia. W swojej turze możesz wykonać jedną dodatkową akcję, z wyjątkiem akcji Magii.
+Możesz na chwilę przekroczyć swoje normalne ograniczenia. W swojej turze możesz wykonać jedną dodatkową akcję, z wyjątkiem akcji magicznej.
 Po użyciu tej zdolności nie możesz jej ponownie użyć, dopóki nie zakończysz Krótkiego lub długiego odpoczynku. Począwszy od 17. poziomu możesz użyć jej dwukrotnie przed odpoczynkiem, ale tylko raz na turę.
 
 #### Poziom 2: Taktyczny umysł
@@ -4713,7 +4713,7 @@ Jako mnicha zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Sztuki walki</th>
  <th>Punkty skupienia</th>
@@ -4907,7 +4907,7 @@ Jeśli nie nosisz zbroi ani nie trzymasz Tarczy, twoja podstawowa Klasa Pancerza
 Twoje skupienie i trening sztuk walki pozwalają ci okiełznać źródło niezwykłej energii wewnątrz siebie. Ta energia jest reprezentowana przez Punkty Skupienia. Twój poziom Mnicha określa liczbę punktów, które posiadasz, jak pokazano w kolumnie Punkty Skupienia w tabeli Zdolności Mnicha.
 Możesz wydawać te punkty, aby wzmocnić lub zasilić pewne zdolności Mnicha. Na początku znasz trzy takie zdolności: Grad ciosów, Cierpliwą obronę i Krok w powietrzu, z których każda jest szczegółowo opisana poniżej.
 Kiedy wydasz Punkt Skupienia, jest on niedostępny do czasu ukończenia Krótkiego lub długiego odpoczynku, na końcu którego odzyskujesz wszystkie wydane punkty.
-Niektóre zdolności używające Punktów Skupienia wymagają od celu wykonania rzutu obronnego. ST wynosi 8 plus twój modyfikator Mądrości i Premia od Biegłości.
+Niektóre zdolności używające Punktów Skupienia wymagają od celu wykonania rzutu obronnego. ST wynosi 8 plus twój modyfikator Mądrości i Premia z biegłości.
 _Grad ciosów.._ Możesz wydać 1 Punkt Skupienia, aby wykonać dwa Uderzenia bez broni jako Akcję Dodatkową.
 
 _Cierpliwa obrona.._ Możesz wykonać akcję Odstąpienie jako Akcję Dodatkową. Alternatywnie, możesz wydać 1 Punkt Skupienia, aby wykonać zarówno akcje Odstąpienie, jak i Unik jako Akcję Dodatkową.
@@ -5062,7 +5062,7 @@ Możesz utrzymywać działanie tej zdolności tylko na jednym stworzeniu naraz. 
  </tr>
  <tr>
  <td>Wyposażenie startowe</td>
- <td>Wybierz A lub B: (A) Kolczuga, Tarcza, Długi miecz, 6 oszczepy, Symbol wiary, Zestaw kapłana, i 9 sz; lub (B) 150 sz</td>
+ <td>Wybierz A lub B: (A) Kolczuga, Tarcza, Długi miecz, 6 oszczepy, Święty symbol, Zestaw kapłana, i 9 sz; lub (B) 150 sz</td>
  </tr>
  </tbody>
 </table>
@@ -5091,7 +5091,7 @@ Jako paladyna zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Akt wiary</th>
  <th>Przygotowane czary</th>
@@ -5371,7 +5371,7 @@ Jako student magii tajemnej nauczyłeś się rzucać czary. Zobacz . Poniższe i
 _Czary podstawowe.._ Znasz trzy wybrane przez ciebie czary podstawowe maga. Zalecane są , oraz . Za każdym razem, gdy zakończysz długi odpoczynek, możesz zastąpić jeden ze swoich czarów podstawowych z tej zdolności innym wybranym czarem podstawowym maga.
 
 Kiedy osiągniesz 4. i 10. poziom maga, nauczysz się kolejnego wybranego czaru podstawowego maga, jak pokazano w kolumnie Czary Podstawowe w .
-_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 3 funty, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
+_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 1,5 kilogramy, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
 
 Księga zawiera znane ci czary poziomu 1 i wyższego. Zaczyna się z sześcioma wybranymi przez ciebie czarami maga poziomu 1. Zalecane są , , , , oraz .
 Za każdym razem, gdy po 1. poziomie zyskasz poziom maga, dodaj do swojej księgi czarów dwa wybrane czary maga. Każdy z tych czarów musi być na poziomie, dla którego masz komórki czarów, jak pokazano w tabeli zdolności maga. Czary te są owocem regularnych badań magicznych, które przeprowadzasz.
@@ -5399,7 +5399,7 @@ _Zmiana przygotowanych czarów._ Za każdym razem, gdy zakończysz długi odpocz
 
 _Cecha rzucania czarów._ Charyzma jest twoją cechą rzucania czarów dla czarów paladyna.
 
-_Fokus rzucania czarów._ Możesz używać symbolu wiary jako fokusu rzucania czarów dla czarów paladyna.
+_Magiczny fokus._ Możesz używać symbolu wiary jako magicznego fokusu dla czarów paladyna.
 
 #### Poziom 1: Mistrzostwo broni
 
@@ -5451,7 +5451,7 @@ Akcją magii możesz zużyć jedno użycie Aktu wiary tej klasy, aby wprawić wr
 
 #### Poziom 10: Aura odwagi
 
-Ty i twoi sojusznicy macie Niewrażliwość na stan Przerażony w twojej Aurze ochrony. Jeśli sojusznik ze stanem Przerażony wejdzie w aurę, ten stan nie ma na niego wpływu, dopóki w niej pozostaje.
+Ty i twoi sojusznicy macie Niepodatność na stan Przerażony w twojej Aurze ochrony. Jeśli sojusznik ze stanem Przerażony wejdzie w aurę, ten stan nie ma na niego wpływu, dopóki w niej pozostaje.
 
 #### Poziom 11: Uderzenia światłości
 
@@ -5754,12 +5754,12 @@ Magia twojej przysięgi zapewnia, że zawsze masz pewne czary gotowe; gdy osiąg
 #### Poziom 3: Uświęcona broń
 
 Kiedy wykonujesz akcję Ataku, możesz zużyć jedno użycie swojego Aktu wiary, aby nasycić trzymaną broń do walki wręcz pozytywną energią. Przez 10 minut lub do ponownego użycia tej zdolności dodajesz swój modyfikator Charyzmy do testów ataku tą bronią (minimum +1), a każde trafienie pozwala ci wybrać między jej normalnym typem obrażeń a obrażeniami od Światłości.
-Broń emituje także Jasne Światło w promieniu 20 stóp oraz Słabe światło na kolejne 20 stóp.
+Broń emituje także Jasne Światło w promieniu 6 metrów oraz Słabe światło na kolejne 6 metrów.
 Możesz zakończyć ten efekt wcześniej (nie wymaga akcji). Efekt kończy się również, jeśli przestaniesz nosić tę broń.
 
 #### Poziom 7: Aura gorliwości
 
-Ty i twoi sojusznicy macie Niewrażliwość na stan Zauroczony, gdy znajdujecie się w twojej Aurze ochrony Jeśli Zauroczony sojusznik wejdzie do aury, ten stan nie ma na niego wpływu, gdy znajduje się w jej zasięgu.
+Ty i twoi sojusznicy macie Niepodatność na stan Zauroczony, gdy znajdujecie się w twojej Aurze ochrony Jeśli Zauroczony sojusznik wejdzie do aury, ten stan nie ma na niego wpływu, gdy znajduje się w jej zasięgu.
 
 #### Poziom 15: Ugodzenie ochrony
 
@@ -5833,7 +5833,7 @@ Jako łowcy zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Ulubiony wróg</th>
  <th>Przygotowane czary</th>
@@ -6107,7 +6107,7 @@ Jako student magii tajemnej nauczyłeś się rzucać czary. Zobacz . Poniższe i
 _Czary podstawowe.._ Znasz trzy wybrane przez ciebie czary podstawowe maga. Zalecane są , oraz . Za każdym razem, gdy zakończysz długi odpoczynek, możesz zastąpić jeden ze swoich czarów podstawowych z tej zdolności innym wybranym czarem podstawowym maga.
 
 Kiedy osiągniesz 4. i 10. poziom maga, nauczysz się kolejnego wybranego czaru podstawowego maga, jak pokazano w kolumnie Czary Podstawowe w .
-_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 3 funty, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
+_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 1,5 kilogramy, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
 
 Księga zawiera znane ci czary poziomu 1 i wyższego. Zaczyna się z sześcioma wybranymi przez ciebie czarami maga poziomu 1. Zalecane są , , , , oraz .
 Za każdym razem, gdy po 1. poziomie zyskasz poziom maga, dodaj do swojej księgi czarów dwa wybrane czary maga. Każdy z tych czarów musi być na poziomie, dla którego masz komórki czarów, jak pokazano w tabeli zdolności maga. Czary te są owocem regularnych badań magicznych, które przeprowadzasz.
@@ -6606,7 +6606,7 @@ Jako łotra zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Ukradkowy atak</th>
  </tr>
@@ -6835,7 +6835,7 @@ _Poluj na skarby jak klasyczny poszukiwacz przygód_
 Akcją Dodatkową możesz wykonać jedną z następujących czynności.
 _Zwinne Dłonie.._ Wykonaj test Zręczności (Zwinne Dłonie), aby otworzyć zamek lub rozbroić pułapkę przy użyciu Narzędzi Złodziejskich albo okraść kieszeń.
 
-_Użycie Obiektu.._ Wykonaj akcję Użycia Obiektu lub Akcję Magii, aby użyć magicznego przedmiotu wymagającego tej akcji.
+_Użycie Obiektu.._ Wykonaj akcję Użycia Obiektu lub Akcję magiczną, aby użyć magicznego przedmiotu wymagającego tej akcji.
 
 #### Poziom 3: Praca na wysokości
 
@@ -6862,9 +6862,9 @@ _Zwoje.._ Możesz używać dowolnego Magicznego zwoju, używając Inteligencji j
 
 Jesteś biegły w przygotowywaniu zasadzek i szybkim uchodzeniu z niebezpieczeństwa. Podczas pierwszej rundy każdej walki wykonujesz dwie tury. Pierwszą turę wykonujesz zgodnie z normalną Inicjatywą, a drugą turę przy Inicjatywie pomniejszonej o 10.
 
-## Czarnoksiężnik
+## Zaklinacz
 
-**Podstawowe cechy czarnoksiężnika**
+**Podstawowe cechy zaklinacza**
 
 <table>
  <tbody>
@@ -6874,7 +6874,7 @@ Jesteś biegły w przygotowywaniu zasadzek i szybkim uchodzeniu z niebezpieczeń
  </tr>
  <tr>
  <td>Kość wytrzymałości</td>
- <td>K6 na poziom czarnoksiężnika</td>
+ <td>K6 na poziom zaklinacza</td>
  </tr>
  <tr>
  <td>Biegłości w rzutach obronnych</td>
@@ -6899,29 +6899,29 @@ Jesteś biegły w przygotowywaniu zasadzek i szybkim uchodzeniu z niebezpieczeń
  </tbody>
 </table>
 
-### Zostanie czarnoksiężnikiem …
+### Zostanie zaklinaczem …
 
 #### Jako postać 1. poziomu
 
-• Zyskaj wszystkie cechy z tabeli Podstawowe cechy czarnoksiężnika .
-• Zyskaj cechy czarnoksiężnika 1. poziomu, które są wymienione w tabeli Cech czarnoksiężnika.
+• Zyskaj wszystkie cechy z tabeli Podstawowe cechy zaklinacza .
+• Zyskaj cechy zaklinacza 1. poziomu, które są wymienione w tabeli Cech zaklinacza.
 
 #### Jako postać wieloklasowa
 
-• Zyskaj kość wytrzymałości z tabeli Podstawowe cechy czarnoksiężnika.
-• Zyskaj cechy czarnoksiężnika 1. poziomu, które są wymienione w tabeli Cech czarnoksiężnika. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
+• Zyskaj kość wytrzymałości z tabeli Podstawowe cechy zaklinacza.
+• Zyskaj cechy zaklinacza 1. poziomu, które są wymienione w tabeli Cech zaklinacza. Zobacz zasady wieloklasowości w rozdziale „Tworzenie postaci”, aby ustalić dostępne komórki czarów.
 
-### Cechy klasy czarnoksiężnika
+### Cechy klasy zaklinacza
 
-Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziomów czarnoksiężnika. Cechy te są wymienione w tabeli Cech czarnoksiężnika.
+Jako zaklinacz zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziomów zaklinacza. Cechy te są wymienione w tabeli Cech zaklinacza.
 
-**Cechy czarnoksiężnika**
+**Cechy zaklinacza**
 
 <table>
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Punkty zaklinania</th>
  <th>Sztuczki</th>
@@ -6990,7 +6990,7 @@ Jako czarnoksiężnika zyskujesz następujące cechy klasy po osiągnięciu wska
  <tr>
  <td>3</td>
  <td>+2</td>
- <td>Podklasa czarnoksiężnika</td>
+ <td>Podklasa zaklinacza</td>
  <td>3</td>
  <td>4</td>
  <td>6</td>
@@ -7302,7 +7302,7 @@ Jako student magii tajemnej nauczyłeś się rzucać czary. Zobacz . Poniższe i
 _Czary podstawowe.._ Znasz trzy wybrane przez ciebie czary podstawowe maga. Zalecane są , oraz . Za każdym razem, gdy zakończysz długi odpoczynek, możesz zastąpić jeden ze swoich czarów podstawowych z tej zdolności innym wybranym czarem podstawowym maga.
 
 Kiedy osiągniesz 4. i 10. poziom maga, nauczysz się kolejnego wybranego czaru podstawowego maga, jak pokazano w kolumnie Czary Podstawowe w .
-_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 3 funty, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
+_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 1,5 kilogramy, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
 
 Księga zawiera znane ci czary poziomu 1 i wyższego. Zaczyna się z sześcioma wybranymi przez ciebie czarami maga poziomu 1. Zalecane są , , , , oraz .
 Za każdym razem, gdy po 1. poziomie zyskasz poziom maga, dodaj do swojej księgi czarów dwa wybrane czary maga. Każdy z tych czarów musi być na poziomie, dla którego masz komórki czarów, jak pokazano w tabeli zdolności maga. Czary te są owocem regularnych badań magicznych, które przeprowadzasz.
@@ -7342,13 +7342,13 @@ Ponieważ twoja magia płynie z wnętrza ciebie, możesz dostosowywać swoje cza
 Możesz użyć tylko jednej opcji Metamagii na dany czar w momencie jego rzucania, chyba że w jej opisie zaznaczono inaczej.
 Ilekroć zdobędziesz poziom zaklinacza, możesz zastąpić jedną ze znanych opcji Metamagii inną, której jeszcze nie znasz. Zyskujesz dwie dodatkowe opcje na 10. poziomie Zaklinacza i kolejne dwie na 17. poziomie Zaklinacza.
 
-#### Poziom 3: Podklasa czarnoksiężnika
+#### Poziom 3: Podklasa zaklinacza
 
-Zyskujesz podklasę czarnoksiężnika według własnego wyboru. Podklasa Smocza krew jest opisana po opisie tej klasy. Podklasa to specjalizacja, która daje ci cechy na określonych poziomach czarnoksiężnika. Przez resztę kariery zyskujesz każdą cechę swojej podklasy, która odpowiada twojemu poziomowi czarnoksiężnika lub jest niższa.
+Zyskujesz podklasę zaklinacza według własnego wyboru. Podklasa Smocza krew jest opisana po opisie tej klasy. Podklasa to specjalizacja, która daje ci cechy na określonych poziomach zaklinacza. Przez resztę kariery zyskujesz każdą cechę swojej podklasy, która odpowiada twojemu poziomowi zaklinacza lub jest niższa.
 
 #### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut Zwiększenie cechy (patrz rozdział „Atuty”) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach czarnoksiężnika 8, 12, i 16.
+Zyskujesz atut Zwiększenie cechy (patrz rozdział „Atuty”) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach zaklinacza 8, 12, i 16.
 
 #### Poziom 5: Przywrócenie mocy
 
@@ -7437,9 +7437,9 @@ _Koszt: 1 punkt zaklinania_
 
 Gdy rzucasz czar, taki jak _Zauroczenie osoby_, który można rzucić wyższą komórką czaru, aby ukierunkować go na dodatkową istotę, możesz wydać 1 Punkt czarodziejski, aby zwiększyć efektywny krąg czaru o 1.
 
-### Lista czarów czarnoksiężnika
+### Lista czarów zaklinacza
 
-Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane według kręgu, a następnie alfabetycznie; przy każdym podano szkołę magii. W kolumnie Specjalne: K oznacza koncentrację, R — rytuał, M — określony komponent materialny.
+Ta sekcja przedstawia listę czarów zaklinacza. Czary są uporządkowane według kręgu, a następnie alfabetycznie; przy każdym podano szkołę magii. W kolumnie Specjalne: K oznacza koncentrację, R — rytuał, M — określony komponent materialny.
 
 #### Sztuczki (czary 0. kręgu)
 
@@ -7535,7 +7535,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-#### Czary 1. kręgu czarnoksiężnika
+#### Czary 1. kręgu zaklinacza
 
 <table>
  <thead>
@@ -7654,7 +7654,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-#### Czary 2. kręgu czarnoksiężnika
+#### Czary 2. kręgu zaklinacza
 
 <table>
  <thead>
@@ -7793,7 +7793,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-#### Czary 3. kręgu czarnoksiężnika
+#### Czary 3. kręgu zaklinacza
 
 <table>
  <thead>
@@ -7912,7 +7912,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-#### Czary 4. kręgu czarnoksiężnika
+#### Czary 4. kręgu zaklinacza
 
 <table>
  <thead>
@@ -7991,7 +7991,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-#### Czary 5. kręgu czarnoksiężnika
+#### Czary 5. kręgu zaklinacza
 
 <table>
  <thead>
@@ -8065,7 +8065,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-#### Czary 6. kręgu czarnoksiężnika
+#### Czary 6. kręgu zaklinacza
 
 <table>
  <thead>
@@ -8134,7 +8134,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-#### Czary 7. kręgu czarnoksiężnika
+#### Czary 7. kręgu zaklinacza
 
 <table>
  <thead>
@@ -8188,7 +8188,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-#### Czary 8. kręgu czarnoksiężnika
+#### Czary 8. kręgu zaklinacza
 
 <table>
  <thead>
@@ -8232,7 +8232,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-#### Czary 9. kręgu czarnoksiężnika
+#### Czary 9. kręgu zaklinacza
 
 <table>
  <thead>
@@ -8271,7 +8271,7 @@ Ta sekcja przedstawia listę czarów czarnoksiężnika. Czary są uporządkowane
  </tbody>
 </table>
 
-### Podklasa czarnoksiężnika: Magia smoka
+### Podklasa zaklinacza: Magia smoka
 
 _Oddychaj magią smoków_
 
@@ -8360,9 +8360,9 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
- <th>Nieziemskie inwokacje</th>
+ <th>Mistyczne inwokacje</th>
  <th>Sztuczki</th>
  <th>Przygotowane czary</th>
  <th>Komórki czarów</th>
@@ -8373,7 +8373,7 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  <tr>
  <td>1</td>
  <td>+2</td>
- <td>Nieziemskie inwokacje, Magia paktu</td>
+ <td>Mistyczne inwokacje, Magia paktu</td>
  <td>1</td>
  <td>2</td>
  <td>2</td>
@@ -8573,15 +8573,15 @@ Jako czarownika zyskujesz następujące cechy klasy po osiągnięciu wskazanych 
  </tbody>
 </table>
 
-#### Poziom 1: Mistyczne Inwokacje
+#### Poziom 1: Mistyczne inwokacje
 
-Odkryłeś Mistyczne Inwokacje, fragmenty zakazanej wiedzy, które napełniają cię trwałą magiczną mocą lub innymi naukami. Zyskujesz jedną inwokację swojego wyboru, taką jak . Inwokacje są opisane w sekcji .
+Odkryłeś Mistyczne inwokacje, fragmenty zakazanej wiedzy, które napełniają cię trwałą magiczną mocą lub innymi naukami. Zyskujesz jedną inwokację swojego wyboru, taką jak . Inwokacje są opisane w sekcji .
 _Wymagania wstępne.._ Jeśli inwokacja ma wymaganie wstępne, musisz je spełnić, aby się jej nauczyć. Na przykład, jeśli inwokacja wymaga bycia Czarownikiem na poziomie 5 lub wyższym, możesz ją wybrać po osiągnięciu 5 poziomu Czarownika.
 
 _Zastępowanie i zdobywanie inwokacji.._ Za każdym razem, gdy zdobywasz poziom Czarownika, możesz zastąpić jedną ze swoich inwokacji inną, do której spełniasz wymagania. Nie możesz zastąpić inwokacji, jeśli jest ona wymagana jako warunek innej posiadanej przez ciebie inwokacji.
 
 Gdy osiągasz określone poziomy Czarownika, zyskujesz więcej inwokacji swojego wyboru, zgodnie z kolumną „Inwokacje” w tabeli Zdolności Czarownika.
-_Obecne maksymalne Mistyczne Inwokacje:._ [[lookup @scale.warlock.invocations-known]]
+_Obecne maksymalne Mistyczne inwokacje:._ [[lookup @scale.warlock.invocations-known]]
 
 Nie możesz wybrać tej samej inwokacji więcej niż raz, chyba że jej opis stanowi inaczej.
 
@@ -8640,9 +8640,9 @@ Zyskujesz atut lub inny atut do wyboru, który spełnia wymagania. jest zalecany
 
 Kiedy używasz swojej zdolności Magiczny Spryt, odzyskujesz wszystkie zużyte komórki czarów Magii Paktu.
 
-### Opcje nieziemskich inwokacji
+### Opcje mistycznych inwokacji
 
-Opcje nieziemskich inwokacji są przedstawione w kolejności alfabetycznej.
+Opcje mistycznych inwokacji są przedstawione w kolejności alfabetycznej.
 
 #### Bolesny wybuch
 
@@ -8807,7 +8807,7 @@ Składając w dłoni nitki cienia, przywołujesz księgę na końcu krótkiego l
 
 _Sztuczki i rytuały._ Gdy księga się pojawia, wybierz trzy sztuczki oraz dwa czary 1. kręgu z etykietą Rytuał. Czary mogą pochodzić z listy czarów dowolnej klasy i muszą być czarami, których nie masz już przygotowanych. Dopóki księga jest przy tobie, masz wybrane czary przygotowane i działają one jak czary czarownika.
 
-_Fokus rzucania czarów._ Możesz używać księgi jako fokusu rzucania czarów.
+_Magiczny fokus._ Możesz używać księgi jako magicznego fokusu.
 
 #### Odepchujący wybuch
 
@@ -9432,7 +9432,7 @@ Jako maga zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom
  <thead>
  <tr>
  <th>Poziom</th>
- <th>premia do biegłości</th>
+ <th>premia z biegłości</th>
  <th>Cechy klasy</th>
  <th>Sztuczki</th>
  <th>Przygotowane czary</th>
@@ -9790,7 +9790,7 @@ Jako student magii tajemnej nauczyłeś się rzucać czary. Zobacz . Poniższe i
 _Czary podstawowe.._ Znasz trzy wybrane przez ciebie czary podstawowe maga. Zalecane są , oraz . Za każdym razem, gdy zakończysz długi odpoczynek, możesz zastąpić jeden ze swoich czarów podstawowych z tej zdolności innym wybranym czarem podstawowym maga.
 
 Kiedy osiągniesz 4. i 10. poziom maga, nauczysz się kolejnego wybranego czaru podstawowego maga, jak pokazano w kolumnie Czary Podstawowe w .
-_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 3 funty, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
+_Księga czarów.._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Mały obiekt ważący 1,5 kilogramy, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego . Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
 
 Księga zawiera znane ci czary poziomu 1 i wyższego. Zaczyna się z sześcioma wybranymi przez ciebie czarami maga poziomu 1. Zalecane są , , , , oraz .
 Za każdym razem, gdy po 1. poziomie zyskasz poziom maga, dodaj do swojej księgi czarów dwa wybrane czary maga. Każdy z tych czarów musi być na poziomie, dla którego masz komórki czarów, jak pokazano w tabeli zdolności maga. Czary te są owocem regularnych badań magicznych, które przeprowadzasz.
@@ -11110,5 +11110,5 @@ Ilekroć rzucasz czar Maga ze Szkoły wywoływania, możesz dodać swój modyfik
 #### Poziom 14: Przeładowanie
 
 Możesz zwiększyć moc swoich czarów. Gdy rzucasz czar maga za pomocą komórki czaru od 1. do 5. kręgu, który zadaje obrażenia, możesz zadać maksymalne obrażenia tym czarem w turze, w której go rzucasz.
-Za pierwszym razem, gdy to zrobisz, nie ponosisz żadnych negatywnych skutków. Jeśli użyjesz tej cechy ponownie przed zakończeniem długiego odpoczynku, otrzymujesz 2k12 obrażeń Nekrotycznych za każdy krąg komórki czaru zaraz po jego rzuceniu. Te obrażenia ignorują Odporność i Niewrażliwość.
+Za pierwszym razem, gdy to zrobisz, nie ponosisz żadnych negatywnych skutków. Jeśli użyjesz tej cechy ponownie przed zakończeniem długiego odpoczynku, otrzymujesz 2k12 obrażeń Nekrotycznych za każdy krąg komórki czaru zaraz po jego rzuceniu. Te obrażenia ignorują Odporność i Niepodatność.
 Za każdym razem, gdy użyjesz tej cechy ponownie przed zakończeniem długiego odpoczynku, obrażenia Nekrotyczne na krąg czaru zwiększają się o 1k12.

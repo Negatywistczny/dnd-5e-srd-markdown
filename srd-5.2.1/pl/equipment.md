@@ -44,7 +44,7 @@ Tabela Bronie w tej sekcji przedstawia główne bronie w grze. Tabela podaje kos
 
 ### Biegłość w broni
 
-Każdy może władać bronią, ale musisz mieć w niej biegłość, aby dodać swoją premię do biegłości do testu ataku wykonanego nią. Zdolności postaci gracza mogą zapewniać biegłości w broni. Potwór jest biegły w każdej broni wymienionej w swoim bloku statystyk.
+Każdy może władać bronią, ale musisz mieć w niej biegłość, aby dodać swoją premię z biegłości do testu ataku wykonanego nią. Zdolności postaci gracza mogą zapewniać biegłości w broni. Potwór jest biegły w każdej broni wymienionej w swoim bloku statystyk.
 
 ### Właściwości
 
@@ -92,7 +92,7 @@ Każda broń posiada właściwość mistrzowską, z której może korzystać tyl
 
 **Spowolnienie.** Jeśli trafisz istotę tą bronią i zadasz jej obrażenia, możesz zmniejszyć jej Szybkość o 3 metry do początku twojej następnej tury. Jeśli istota zostanie trafiona więcej niż raz bronią z tą właściwością, redukcja Szybkości nie przekracza 3 metrów.
 
-**Obalenie.** Jeśli trafisz istotę tą bronią, możesz zmusić ją do wykonania rzutu obronnego na Kondycję (ST 8 plus modyfikator z cechy użyty do testu ataku oraz twoja premia do biegłości). Przy nieudanym rzucie istota otrzymuje stan Powalony.
+**Obalenie.** Jeśli trafisz istotę tą bronią, możesz zmusić ją do wykonania rzutu obronnego na Kondycję (ST 8 plus modyfikator z cechy użyty do testu ataku oraz twoja premia z biegłości). Przy nieudanym rzucie istota otrzymuje stan Powalony.
 
 **Nękanie.** Jeśli trafisz istotę tą bronią i zadasz jej obrażenia, masz ułatwienie w następnym teście ataku przeciwko tej istocie przed końcem twojej następnej tury.
 
@@ -324,7 +324,7 @@ Narzędzie pomaga wykonywać wyspecjalizowane testy cech, wytwarzać określone 
 
 ### Biegłość w narzędziach
 
-Jeśli masz biegłość w narzędziu, dodajesz swoją premię do biegłości do każdego testu cechy, który z nim wykonujesz. Jeśli masz biegłość w umiejętności używanej w tym teście, masz także ułatwienie w teście.
+Jeśli masz biegłość w narzędziu, dodajesz swoją premię z biegłości do każdego testu cechy, który z nim wykonujesz. Jeśli masz biegłość w umiejętności używanej w tym teście, masz także ułatwienie w teście.
 
 Twoje zdolności mogą zapewniać biegłość w narzędziu. Potwór ma biegłość w każdym narzędziu wymienionym w swoim bloku statystyk.
 
@@ -474,10 +474,10 @@ Narzędzia rzemieślnicze służą wytwarzaniu przedmiotów i uprawianiu rzemios
 Tabela Wyposażenie poszukiwaczy przygód w tej sekcji obejmuje ekwipunek często przydatny poszukiwaczom przygód. Przedmioty opisano tutaj w porządku alfabetycznym, a cena podana jest po nazwie.
 #### Kwas (25 sz)
 
-Gdy podejmujesz akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem fiolki z kwasem. Wybierz jedną istotę lub obiekt, które widzisz w odległości do 6 metrów od siebie. Cel musi wykonać rzut obronny na Zręczność (ST 8 plus modyfikator z Zręczności i premia do biegłości) albo otrzymuje 2k6 obrażeń od kwasu.
+Gdy podejmujesz akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem fiolki z kwasem. Wybierz jedną istotę lub obiekt, które widzisz w odległości do 6 metrów od siebie. Cel musi wykonać rzut obronny na Zręczność (ST 8 plus modyfikator z Zręczności i premia z biegłości) albo otrzymuje 2k6 obrażeń od kwasu.
 #### Ogień alchemiczny (50 sz)
 
-Gdy podejmujesz akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem flaszki z ogniem alchemicznym. Wybierz jedną istotę lub obiekt, które widzisz w odległości do 6 metrów od siebie. Cel musi wykonać rzut obronny na Zręczność (ST 8 plus modyfikator z Zręczności i premia do biegłości) albo otrzymuje 1k4 obrażeń od ognia i zaczyna się palić (patrz „Słownik zasad”).
+Gdy podejmujesz akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem flaszki z ogniem alchemicznym. Wybierz jedną istotę lub obiekt, które widzisz w odległości do 6 metrów od siebie. Cel musi wykonać rzut obronny na Zręczność (ST 8 plus modyfikator z Zręczności i premia z biegłości) albo otrzymuje 1k4 obrażeń od ognia i zaczyna się palić (patrz „Słownik zasad”).
 #### Amunicja (zmienna)
 
 Amunicji wymaga każda broń z właściwością Amunicja. Opis broni określa rodzaj używanej amunicji. Tabela Amunicja wymienia rodzaje oraz ilość otrzymywaną przy zakupie. Podano też typowy pojemnik na każdy rodzaj; pojemniki kupuje się osobno.
@@ -961,7 +961,7 @@ Amunicji wymaga każda broń z właściwością Amunicja. Opis broni określa ro
 akcję dodatkową wypijasz fiolkę Antidotum, aby uzyskać ułatwienie do rzutów obronnych mających na celu uniknięcie lub zakończenie stanu Zatrucie na 1 godzinę.
 #### Fokus magii wtajemniczeń (zmienna)
 
-Fokus magii wtajemniczeń przyjmuje jedną z form z tabeli Fokusy magii wtajemniczeń i jest ozdobiony klejnotami lub rzeźbiony, by skupiać magię tajemną. Czarownik, czarnoksiężnik lub mag mogą używać takiego przedmiotu jako magicznego fokusu do rzucania czarów.
+Fokus magii wtajemniczeń przyjmuje jedną z form z tabeli Fokusy magii wtajemniczeń i jest ozdobiony klejnotami lub rzeźbiony, by skupiać magię tajemną. Czarownik, zaklinacz lub mag mogą używać takiego przedmiotu jako magicznego fokusu do rzucania czarów.
 **Fokusy magii wtajemniczeń**
 
 <table>
@@ -1003,23 +1003,23 @@ Fokus magii wtajemniczeń przyjmuje jedną z form z tabeli Fokusy magii wtajemni
 
 #### Plecak (2 sz)
 
-Plecak mieści do 30 funtów w objętości 1 stopy sześciennej. Może również służyć jako torba do siodła.
+Plecak mieści do 15 kilogramów w objętości 28 litrów. Może również służyć jako torba do siodła.
 #### Kulki metalowe (1 sz)
 
 Jako akcję Użycia Obiektu możesz wysypać kulki metalowe z sakiewki. Rozsypują się, pokrywając płaski obszar 3 x 3 metry w odległości do 3 metrów od siebie. Istota, która po raz pierwszy w turze wejdzie na ten obszar, musi zdać rzut obronny na Zręczność o ST 10 albo otrzymuje stan Powalony. Odzyskanie kulek zajmuje 10 minut.
 #### Beczka (2 sz)
 
-Beczka mieści do 40 galonów cieczy lub do 4 stóp sześciennych suchych towarów.
+Beczka mieści do 160 litrów cieczy lub do 112 litrów suchych towarów.
 #### Koszyk (4 ss)
 
-Kosz mieści do 40 funtów w objętości 2 stóp sześciennych.
+Kosz mieści do 20 kilogramów w objętości 56 litrów.
 #### Śpiwór (1 sz)
-A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on rzut obronnys against extreme cold (see "Przybornik MG").
+A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on rzut obronnys against extreme cold (see "Przybornik MP").
 #### Dzwonek (1 sz)
 
-Gdy rozbrzmi w ramach akcji "Użycie obiektu", wydaje dźwięk słyszalny w odległości do 60 stóp.
+Gdy rozbrzmi w ramach akcji "Użycie obiektu", wydaje dźwięk słyszalny w odległości do 18 metrów.
 #### Koc (5 ss)
-While wrapped in a blanket, you have ułatwienie w rzut obronnys against extreme cold (see "Przybornik MG").
+While wrapped in a blanket, you have ułatwienie w rzut obronnys against extreme cold (see "Przybornik MP").
 #### Bloczek z blokadą (1 sz)
 
 Bloczek z blokadą pozwala Ci podnieść ciężar czterokrotnie większy niż normalnie jesteś wstanie.
@@ -1027,10 +1027,10 @@ Bloczek z blokadą pozwala Ci podnieść ciężar czterokrotnie większy niż no
 
 Księga zawiera treści fikcyjne lub literaturę faktu. Jeśli korzystasz z wiarygodnej, faktograficznej Książki dotyczącej danego tematu, zyskujesz premię +5 do testów Inteligencji (Wiedza tajemna, Historia, Przyroda lub Religia), które wykonujesz na ten temat.
 #### Szklana butelka (2 sz)
-A Szklana butelka holds up to 1½ pints.
+Szklana butelka mieści do 0,75 litra.
 #### Wiadro (5 sm)
 
-Wiadro mieści do pół stopy sześciennej (do 14 litrów) zawartości.
+Wiadro mieści do 14 litrów zawartości.
 #### Zestaw włamywacza (16 sz)
 
 Zestaw włamywacza zawiera: plecak, kulki metalowe, dzwonek, 10 świec, łom, latarnię zasłanianą, 7 flaszek oleju, racje żywnościowe na 5 dni, linę, zestaw do rozpalania ognia i bukłak.
@@ -1050,7 +1050,7 @@ Ten cylindryczny skórzany futerał może pomieścić do dziesięciu zwiniętych
 Jako akcję Użycia Obiektu możesz owinąć łańcuch wokół niechętnej istoty w odległości do 1,5 metra od siebie, która ma stan Pochwycony, Obezwładniony lub Unieruchomiony, jeśli udasz się w teście Siły (Atletyka) o ST 13. Jeśli związane są nogi, istota ma stan Unieruchomiony, dopóki się nie uwolni. Uwolnienie wymaga udanego testu Zręczności (Akrobatyka) o ST 18 jako akcji. Zerwanie łańcucha wymaga udanego testu Siły (Atletyka) o ST 20 jako akcji.
 #### Kufer (5 sz)
 
-Kufer mieści do 12 stóp sześciennych (340 litrów) zawartości.
+Kufer mieści do 336 litrów zawartości.
 #### Zestaw wspinaczkowy (25 sz)
 
 Zestaw wspinaczkowy zawiera okłady na buty, rękawice, pitony i uprząż. Jako akcję Użycia Obiektu możesz założyć punkt asekuracyjny; wtedy nie spadniesz niżej niż 7,5 metra od niego i nie oddalisz się dalej niż 7,5 metra bez odczepienia (akcją dodatkową).
@@ -1114,10 +1114,10 @@ Zestaw artysty zawiera: plecak, śpiwór, dzwonek, latarnię kierunkową, 3 kost
 Zestaw odkrywcy zawiera: plecak, śpiwór, 2 flaszki oleju, racje żywnościowe na 10 dni, linę, zestaw do rozpalania ognia, 10 pochodni i bukłak.
 #### Flaszka (2 sm)
 
-Flaszka mieści do 1 pinta.
+Flaszka mieści do 0,5 litra.
 #### Hak wspinaczkowy (2 sz)
 
-Jako Akcja Użycie Obiektu możesz rzucić Hakiem wspinaczkowym w poręcz, występ lub inne zaczepienie w promieniu 50 stóp od siebie, a hak się zaczepi, jeśli uda ci się wykonać test Zręczności (Akrobatyka) o ST 13. Jeśli przywiązałeś Linę do haka, możesz się po niej wspiąć.
+Jako Akcja Użycie Obiektu możesz rzucić Hakiem wspinaczkowym w poręcz, występ lub inne zaczepienie w promieniu 15 metrów od siebie, a hak się zaczepi, jeśli uda ci się wykonać test Zręczności (Akrobatyka) o ST 13. Jeśli przywiązałeś Linę do haka, możesz się po niej wspiąć.
 #### Torba lekarska (5 sz)
 
 Zestaw uzdrowiciela ma dziesięć użyć. Jako akcję Użycia Obiektu możesz zużyć jedno użycie, by ustabilizować nieprzytomną istotę mającą 0 PW bez testu Mądrości (Medycyna).
@@ -1155,30 +1155,30 @@ Zestaw uzdrowiciela ma dziesięć użyć. Jako akcję Użycia Obiektu możesz zu
 
 #### Woda święcona (25 sz)
 
-Gdy wykonujesz Akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem fiolki Wody Święconej. Wyceluj w jedną istotę, którą widzisz w promieniu 6 metrów od siebie. Cel musi wykonać udany rzut obronny na Zręczność (ST 8 plus twój modyfikator Zręczności i premia do biegłości) lub otrzymać 2k8 obrażenia od światłości, jeśli jest to Czart lub Nieumarły.
+Gdy wykonujesz Akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem fiolki Wody Święconej. Wyceluj w jedną istotę, którą widzisz w promieniu 6 metrów od siebie. Cel musi wykonać udany rzut obronny na Zręczność (ST 8 plus twój modyfikator Zręczności i premia z biegłości) lub otrzymać 2k8 obrażenia od światłości, jeśli jest to Czart lub Nieumarły.
 #### Potrzask (5 sz)
 
 Jako akcję Użycia Obiektu możesz rozłożyć potrzask — stalowy pierścień z zębatymi krawędziami, który zatrzaskuje się, gdy istota nadepnie na płytkę naciskową. Potrzask jest przymocowany łańcuchem do nieruchomego obiektu. Istota, która nadepnie na płytkę, musi zdać rzut obronny na Zręczność o ST 13 albo otrzymuje 1k4 obrażeń kłutych i ma Szybkość zmniejszoną do 0 do początku swojej następnej tury. Potem, dopóki się nie uwolni, jej ruch ogranicza długość łańcucha (zwykle 1,5 metra). Istota może wykonać akcję, by zdać test Siły (Atletyka) o ST 13 i uwolnić siebie lub inną istotę w zasięgu; każdy nieudany test zadaje 1 obrażenie kłute uwięzionej istocie.
 #### Atrament (10 sz)
 
-Atrament jest dostarczany w butelce o pojemności 1 uncji, która zapewnia wystarczającą ilość atramentu do zapisania około 500 stron.
+Atrament jest dostarczany w butelce o pojemności 30 mililitrów, która zapewnia wystarczającą ilość atramentu do zapisania około 500 stron.
 #### Pióro atramentowe (2 sm)
 
 Pióro maczane w atramencie służy do pisania i rysowania
 #### Dzban (2 sm)
 
-Dzban mieści do 1 galona.
+Dzban mieści do 4 litrów.
 #### Drabina (1 ss)
 
 Drabina ma wysokość 3 metry. Aby po niej zejść lub wejść, należy się wspiąć.
 #### Lampa (5 ss)
-Lampa spala olej jako paliwo i zapewnia jasne światło w promieniu 15 stóp oraz słabe światło na dodatkowe 9 metrów.
+Lampa spala olej jako paliwo i zapewnia jasne światło w promieniu 4,5 metra oraz słabe światło na dodatkowe 9 metrów.
 #### Latarnia kierunkowa (10 sz)
 
-Latarnia kierunkowa rzuca Jasne światło w stożku o promieniu 60 stóp i Słabe światło w promieniu kolejnych 60 stóp. Po zapaleniu pali się przez 6 godzin na jednej kolbie (1 pinta) oleju.
+Latarnia kierunkowa rzuca Jasne światło w stożku o promieniu 18 metrów i Słabe światło w promieniu kolejnych 18 metrów. Po zapaleniu pali się przez 6 godzin na jednej butelce (0,5 litra) oleju.
 #### Latarnia zamykana (5 sz)
 
-Latarnia zamykana spala Olej jako paliwo, rzucając Jasne światło w promieniu 30 stóp i Słabe światło na dodatkowe 30 stóp. Zapalona, pali się przez 6 godzin na na jednym flakonie (1 pinta)  Oleju. akcję dodatkową możesz opuścić kaptur, zmniejszając światło do Przyciemnionego światła w promieniu 1,5 metra, lub podnieść go ponownie.
+Latarnia zamykana spala olej jako paliwo, rzucając Jasne światło w promieniu 9 metrów i Słabe światło na dodatkowe 9 metrów. Zapalona, pali się przez 6 godzin na jednej butelce (0,5 litra) oleju. akcję dodatkową możesz opuścić kaptur, zmniejszając światło do Słabego światła w promieniu 1,5 metra, lub podnieść go ponownie.
 #### Zamek (10 sz)
 
 Zamek jest sprzedawany z kluczem. Bez klucza istota biegła w narzędziach złodziejskich może otworzyć zamek testem Zręczności o ST 15.
@@ -1196,12 +1196,12 @@ Jeśli korzystasz z dokładnej Mapy, zyskujesz premię +5 do testów Mądrości 
 Lustro ręczne ze stali jest przydatne do celów kosmetycznych, ale także do zaglądania za rogi i odbijania światła jako sygnału.
 #### Sieć (1 sz)
 
-Gdy podejmujesz akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem sieci. Wybierz istotę, którą widzisz, w odległości do 4,5 metra od siebie. Cel musi zdać rzut obronny na Zręczność (ST 8 plus modyfikator z Zręczności i premia do biegłości) albo otrzymuje stan Unieruchomiony, dopóki się nie uwolni. Cel automatycznie odnosi sukces, jeśli jest Ogromny lub większy. Aby się uwolnić, cel lub istota w odległości do 1,5 metra od niego musi wykonać akcję i zdać test Siły (Atletyka) o ST 10. Zniszczenie sieci (KP 10; 5 PW; niewrażliwość na obrażenia obuchowe, od trucizny i psychiczne) również uwalnia cel.
+Gdy podejmujesz akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem sieci. Wybierz istotę, którą widzisz, w odległości do 4,5 metra od siebie. Cel musi zdać rzut obronny na Zręczność (ST 8 plus modyfikator z Zręczności i premia z biegłości) albo otrzymuje stan Unieruchomiony, dopóki się nie uwolni. Cel automatycznie odnosi sukces, jeśli jest Ogromny lub większy. Aby się uwolnić, cel lub istota w odległości do 1,5 metra od niego musi wykonać akcję i zdać test Siły (Atletyka) o ST 10. Zniszczenie sieci (KP 10; 5 PW; niepodatność na obrażenia obuchowe, od trucizny i psychiczne) również uwalnia cel.
 #### Olej (1 ss)
 
 Olejem możesz pokryć istotę, przedmiot lub obszar albo użyć go jako paliwa, jak opisano poniżej.
 
-_Pokrywanie istoty lub przedmiotu._ Gdy podejmujesz akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem flaszki z olejem. Wybierz jedną istotę lub obiekt w odległości do 6 metrów od siebie. Cel musi wykonać rzut obronny na Zręczność (ST 8 plus modyfikator z Zręczności i premia do biegłości) albo zostaje pokryty olejem. Jeśli cel otrzyma obrażenia od ognia, zanim olej wyschnie (po 1 minucie), otrzymuje dodatkowe 5 obrażeń od ognia od płonącego oleju.
+_Pokrywanie istoty lub przedmiotu._ Gdy podejmujesz akcję Atak, możesz zastąpić jeden ze swoich ataków rzuceniem flaszki z olejem. Wybierz jedną istotę lub obiekt w odległości do 6 metrów od siebie. Cel musi wykonać rzut obronny na Zręczność (ST 8 plus modyfikator z Zręczności i premia z biegłości) albo zostaje pokryty olejem. Jeśli cel otrzyma obrażenia od ognia, zanim olej wyschnie (po 1 minucie), otrzymuje dodatkowe 5 obrażeń od ognia od płonącego oleju.
 
 _Pokrywanie obszaru._ Możesz podjąć akcję Użycia Obiektu, by wylać olej z flaszki na równy grunt, pokrywając obszar 1,5 x 1,5 metra w odległości do 1,5 metra od siebie. Po podpaleniu olej płonie do końca 2. tury od zapłonu (12 sekund) i zadaje 5 obrażeń od ognia każdej istocie, która wejdzie na obszar lub zakończy tam turę. Istota może otrzymać te obrażenia tylko raz na turę.
 
@@ -1214,7 +1214,7 @@ Jedna kartka Papieru może pomieścić około 250 ręcznie napisanych słów.
 Jedna karta pergaminu może pomieścić około 250 słów pisanych odręcznie.
 #### Perfumy (5 sz)
 
-Perfumy znajdują się w fiolce o pojemności 4 uncji. Przez 1 godzinę po zastosowaniu perfum na sobie masz Ułatwienie do testów Charyzmy (Perswazja) wykonywanych w celu wpłynięcia na obojętnego Humanoida w odległości do 1,5 metra od siebie.
+Perfumy znajdują się w fiolce o pojemności 120 mililitrów. Przez 1 godzinę po zastosowaniu perfum na sobie masz Ułatwienie do testów Charyzmy (Perswazja) wykonywanych w celu wpłynięcia na obojętnego Humanoida w odległości do 1,5 metra od siebie.
 #### Podstawowa trucizna (100 sz)
 
 Jako akcję dodatkową możesz użyć fiolki z podstawową trucizną, by pokryć jedną broń lub do trzech sztuk amunicji. Istota, która otrzyma kłute lub cięte obrażenia od zatrutej broni lub amunicji, otrzymuje dodatkowe 1k4 obrażeń od trucizny. Po nałożeniu trucizna zachowuje działanie przez 1 minutę lub do zadania obrażeń — cokolwiek nastąpi wcześniej.
@@ -1223,13 +1223,13 @@ Jako akcję dodatkową możesz użyć fiolki z podstawową trucizną, by pokryć
 Tyczka ma 3 metry długości. Możesz jej użyć, aby dosięgnąć czegoś w odległości do 3 metry. Jeśli musisz wykonać test Siły (Atletyka) w ramach skoku wzwyż lub w dal, możesz użyć tyczki do wybicia się, zyskując Ułatwienie do tego testu.
 #### Żeliwny garnek (2 sz)
 
-Żelazny garnek mieści do 1 galona.
+Żelazny garnek mieści do 4 litrów.
 #### Mikstura leczenia (50 sz)
 
 Ta mikstura jest magicznym przedmiotem. akcję dodatkową możesz ją wypić lub wlać do ust innej istocie znajdującej się w odległości do 1,5 metra od ciebie. Istota, która wypije magiczny czerwony płyn z tej fiolki, odzyskuje 2k4 + 2 Punktów Wytrzymałości.
 #### Torba (5 ss)
 
-Torba mieści do 6 funtów w objętości jednej piątej stopy sześciennej.
+Torba mieści do 3 kilogramów w objętości 5,6 litra.
 #### Zestaw kapłana (33 sz)
 
 Zestaw kapłana zawiera: plecak, koc, wodę święconą, lampę, racje żywnościowe na 7 dni, szaty i zestaw do rozpalania ognia.
@@ -1250,7 +1250,7 @@ Szata ma znaczenie zawodowe lub ceremonialne. Niektóre wydarzenia i miejsca wpu
 Linę można zerwać udanym testem Siły (Atletyka) o ST 20. Jako akcję Użycia Obiektu możesz zawiązać węzeł, jeśli udasz się w teście Zręczności (Zwinne dłonie) o ST 10. Możesz związać niechętną istotę liną tylko wtedy, gdy ma stan Pochwycony, Obezwładniony lub Unieruchomiony. Jeśli związane są nogi, istota ma stan Unieruchomiony, dopóki się nie uwolni. Uwolnienie wymaga udanego testu Zręczności (Akrobatyka) o ST 15 jako akcji.
 #### Worek (1 sm)
 
-Worek mieści do 30 funtów w objętości 1 stopy sześciennej.
+Worek mieści do 15 kilogramów w objętości 28 litrów.
 #### Zestaw uczonego (40 sz)
 
 Zestaw uczonego zawiera: plecak, księgę, atrament, pióro atramentowe, lampę, 10 flaszek oleju, 10 arkuszy pergaminu i zestaw do rozpalania ognia.
@@ -1304,7 +1304,7 @@ Zestaw do rozpalania ognia to mały pojemnik zawierający krzesiwo, stal do krze
 Pochodnia pali się przez 1 godzinę, emitując Jasne światło w promieniu 6 metrów i Słabe światło na dodatkowe 6 metrów. Gdy podejmujesz akcję Atak, możesz zaatakować pochodnią, używając jej jako prostej broni do walki wręcz. Przy trafieniu cel otrzymuje 1 obrażenie od ognia.
 #### Fiolka (1 sz)
 
-Fiolka mieści do 4 uncji.
+Fiolka mieści do 120 mililitrów.
 #### Bukłak (2 ss)
 
 Bukłak mieści do 2 litrów. Jeśli nie pijesz wystarczająco dużo wody, ryzykujesz odwodnienie (patrz „Słownik zasad”).
@@ -1420,9 +1420,9 @@ Uszkodzony statek można naprawiać, gdy jest zacumowany. Naprawa 1 PW kosztuje 
 
 Koszty utrzymania podsumowują cenę życia w świecie fantasy. Obejmują nocleg, jedzenie, utrzymanie wyposażenia i inne niezbędne wydatki.
 
-Na początku każdego tygodnia lub miesiąca (według wyboru MG) wybierz poniższy poziom życia — nędzny, obskurny, ubogi, skromny, komfortowy, zamożny lub arystokratyczny — i zapłać cenę utrzymania tego stylu życia.
+Na początku każdego tygodnia lub miesiąca (według wyboru MP) wybierz poniższy poziom życia — nędzny, obskurny, ubogi, skromny, komfortowy, zamożny lub arystokratyczny — i zapłać cenę utrzymania tego stylu życia.
 
-Style życia nie mają samych w sobie konsekwencji, ale MG może je uwzględnić przy określaniu zagrożeń lub tego, jak inni postrzegają twoją postać.
+Style życia nie mają samych w sobie konsekwencji, ale MP może je uwzględnić przy określaniu zagrożeń lub tego, jak inni postrzegają twoją postać.
 ### Nędzne (za darmo)
 
 Przetrwasz dzięki szczęściu i jałmużnie. Często śpisz na zewnątrz i narażasz się na naturalne zagrożenia.
@@ -1614,7 +1614,7 @@ Czar _Identyfikacja_ to najszybszy sposób ujawnienia właściwości przedmiotu.
 
 Czasem magiczny przedmiot niesie wskazówkę co do swoich właściwości. Słowo władania aktywujące pierścień może być wyryte wewnątrz obrączki, a pióropuszowy wzór może sugerować, że to _Pierścień spadania jak piórko_.
 
-Noszenie lub eksperymentowanie z przedmiotem też może dać wskazówki. W przypadku mikstur mały łyk wystarczy, by poznać działanie mikstury. Inne przedmioty mogą wymagać większej próby. Jeśli postać założy _Pierścień pływania_, MG może powiedzieć: „Twój ruch wydaje się dziwnie płynny”. Możesz wtedy skoczyć do rzeki, by sprawdzić, co się stanie. MG powie wtedy, że pływasz zaskakująco dobrze.
+Noszenie lub eksperymentowanie z przedmiotem też może dać wskazówki. W przypadku mikstur mały łyk wystarczy, by poznać działanie mikstury. Inne przedmioty mogą wymagać większej próby. Jeśli postać założy _Pierścień pływania_, MP może powiedzieć: „Twój ruch wydaje się dziwnie płynny”. Możesz wtedy skoczyć do rzeki, by sprawdzić, co się stanie. MP powie wtedy, że pływasz zaskakująco dobrze.
 ### Zestrojenie
 
 Niektóre magiczne przedmioty wymagają, aby istota nawiązała z nimi więź — zwaną Zestrojeniem — zanim będzie mogła korzystać z magicznych właściwości przedmiotu. Bez Zestrojenia z przedmiotem, który tego wymaga, zyskujesz jedynie jego niemagiczne korzyści, chyba że opis stanowi inaczej. Na przykład magiczna Tarcza wymagająca Zestrojenia zapewnia korzyści zwykłej Tarczy, jeśli nie jesteś z nią Zestrojony, ale żadnych magicznych właściwości.
@@ -1634,7 +1634,7 @@ Korzystanie z właściwości magicznego przedmiotu może wymagać noszenia lub t
 W większości przypadków magiczny przedmiot do noszenia pasuje do istoty niezależnie od rozmiaru czy budowy. Magiczne szaty łatwo się regulują lub magicznie dopasowują do noszącego.
 #### Wiele przedmiotów tego samego rodzaju
 
-Nie możesz nosić więcej niż jednego przedmiotu pewnych rodzajów. Zwykle nie możesz nosić więcej niż jednej pary obuwia, jednej pary rękawic lub karwaszy, jednej pary bransolet, jednego pancerza, jednego nakrycia głowy ani jednej peleryny. MG może robić wyjątki.
+Nie możesz nosić więcej niż jednego przedmiotu pewnych rodzajów. Zwykle nie możesz nosić więcej niż jednej pary obuwia, jednej pary rękawic lub karwaszy, jednej pary bransolet, jednego pancerza, jednego nakrycia głowy ani jednej peleryny. MP może robić wyjątki.
 #### Przedmioty w parach
 
 Przedmioty noszone w parach — takie jak buty, bransolety, rękawice i nakolanniki — działają tylko wtedy, gdy nosisz oba elementy pary. Noszenie jednego elementu pary nie daje korzyści.
@@ -1644,13 +1644,13 @@ Aby wytworzyć przedmiot niemagiczny, potrzebujesz narzędzi, surowców i czasu 
 
 ### Narzędzia
 
-Sekcja „Narzędzia” w rozdziale „Wyposażenie” wymienia, które narzędzia są potrzebne do wytworzenia określonych przedmiotów. MG wyznacza wymagane narzędzia dla przedmiotów niewymienionych tam.
+Sekcja „Narzędzia” w rozdziale „Wyposażenie” wymienia, które narzędzia są potrzebne do wytworzenia określonych przedmiotów. MP wyznacza wymagane narzędzia dla przedmiotów niewymienionych tam.
 
 Musisz użyć wymaganego narzędzia do wytworzenia przedmiotu i mieć w nim biegłość. Każdy, kto ci pomaga, również musi mieć w nim biegłość.
 
 ### Surowce
 
-Do wytworzenia przedmiotu potrzebujesz surowców o wartości połowy jego ceny zakupu (zaokrąglając w dół). Na przykład do wytworzenia zbroi płytowej, która kosztuje 1 500 sz, potrzebujesz surowców za 750 sz. MG określa, czy odpowiednie surowce są dostępne.
+Do wytworzenia przedmiotu potrzebujesz surowców o wartości połowy jego ceny zakupu (zaokrąglając w dół). Na przykład do wytworzenia zbroi płytowej, która kosztuje 1 500 sz, potrzebujesz surowców za 750 sz. MP określa, czy odpowiednie surowce są dostępne.
 
 ### Czas
 
@@ -1658,7 +1658,7 @@ Aby ustalić, ile dni (pracując po 8 godzin dziennie) zajmie wytworzenie przedm
 
 Jeśli przedmiot wymaga wielu dni, nie muszą być one kolejne.
 
-Postacie mogą łączyć wysiłki, by skrócić czas wytwarzania. Podziel czas potrzebny na stworzenie przedmiotu przez liczbę postaci nad nim pracujących. Zwykle tylko jedna inna postać może ci pomóc, ale MG może zezwolić na więcej asystentów.
+Postacie mogą łączyć wysiłki, by skrócić czas wytwarzania. Podziel czas potrzebny na stworzenie przedmiotu przez liczbę postaci nad nim pracujących. Zwykle tylko jedna inna postać może ci pomóc, ale MP może zezwolić na więcej asystentów.
 ## Warzenie mikstur leczenia
 
 Postać z biegłością w zestawie zielarza może stworzyć _miksturę leczenia_. Wymaga to użycia tego zestawu oraz surowców za 25 sz w ciągu 1 dnia (8 godzin pracy).

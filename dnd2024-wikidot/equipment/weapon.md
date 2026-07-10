@@ -91,7 +91,7 @@ Here are definitions of the properties in the Properties column of the Weapons t
 | Two-Handed | A Two-Handed weapon requires two hands when you attack with it. |
 | Versatile | A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack. |
 
-# Mastery Properties []()
+# Mastery Properties
 
 Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.
 

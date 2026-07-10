@@ -4,8 +4,6 @@
 
 ---
 
-[Fold](javascript:;)[Unfold](javascript:;)Table of Contents[Biofeedback](#toc0)[Destructive Thoughts](#toc1)[Devilish Tongue](#toc2)[Ego Whip](#toc3)[Expanded Awareness](#toc4)[Id Insinuation](#toc5)[Inerrant Aim](#toc6)[Psionic Backlash](#toc7)[Psionic Guards](#toc8)[Swift Precognition](#toc9)[Tactical Mind](#toc10)Source: [UA5 - The Psion (27.05.2025)](https://www.dndbeyond.com/sources/dnd/ua/the-psion)
-
 Psionic Discipline options appear in alphabetical order.
 
 ### Biofeedback

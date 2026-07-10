@@ -12,11 +12,12 @@ Oficjalny **System Reference Document 5.2.1** D&D 5e (2024) w formacie Markdown 
 ├── srd-5.2.1/
 │   ├── en/              # SRD 5.2.1 — angielski
 │   └── pl/              # SRD 5.2.1 — polski
-├── dnd2024-wikidot/     # Klasy, czary, przedmioty itd. z wikidot
+├── dnd2024-wikidot/     # Klasy, czary, przedmioty itd. z wikidot (EN)
+├── dnd2024-wikidot-pl/  # Polska kopia wikidot z linkami wewnętrznymi
 ├── docs/
 │   └── czary-tlumaczenie.md   # Tabela tłumaczeń nazw czarów EN→PL
 ├── sources/             # Pliki źródłowe (PDF, starsze wersje)
-└── scripts/             # Skrypty do scrapowania wikidot
+└── scripts/             # Skrypty do scrapowania i tłumaczenia wikidot
 ```
 
 ## SRD 5.2.1
@@ -50,6 +51,16 @@ Aby zaktualizować dane z wikidot:
 ```bash
 python scripts/scrape_wikidot_wiki.py
 python scripts/scrape_wikidot_subclasses.py
+```
+
+## D&D 2024 Wikidot (polski)
+
+Folder `dnd2024-wikidot-pl/` zawiera polską kopię treści z wikidot z terminologią zgodną z `DND-TLUMACZENIE` i `srd-5.2.1/pl/`. Linki wewnętrzne wskazują na pliki lokalne.
+
+Aby wygenerować lub zaktualizować tłumaczenie:
+
+```bash
+python scripts/translate_wikidot_pl.py
 ```
 
 ## Licencja

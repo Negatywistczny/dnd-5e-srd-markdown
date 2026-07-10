@@ -89,7 +89,7 @@ Once a pact is made, a Warlock’s thirst for knowledge and power can’t be sla
 
 As a Warlock, you gain the following class features when you reach the specified Warlock levels. These features are listed in the Warlock Features table.
 
-### Level 1: Eldritch Invocations []()
+### Level 1: Eldritch Invocations
 
 You have unearthed [Eldritch Invocations](http://dnd2024.wikidot.com/warlock:eldritch-invocation), pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the “Eldritch Invocation Options” section later in this class’s description.
 
@@ -101,7 +101,7 @@ When you gain certain Warlock levels, you gain more invocations of your choice, 
 
 You can’t pick the same invocation more than once unless its description says otherwise.
 
-### Level 1: Pact Magic []()
+### Level 1: Pact Magic
 
 Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](http://dnd2024.wikidot.com/warlock:spell-list) later in the class’s description.
 
@@ -125,11 +125,11 @@ If another Warlock feature gives you spells that you always have prepared, those
 
 **Spellcasting Focus.** You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.
 
-### Level 2: Magical Cunning []()
+### Level 2: Magical Cunning
 
 You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.
 
-### Level 3: Warlock Subclass []()
+### Level 3: Warlock Subclass
 
 You gain a Warlock subclass of your choice. The Archfey Patron, Celestial Patron, Fiend Patron, and Great Old One Patron subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass’s features that are of your Warlock level or lower.
 
@@ -143,17 +143,17 @@ You gain a Warlock subclass of your choice. The Archfey Patron, Celestial Patron
 | [Great Old One Patron](http://dnd2024.wikidot.com/warlock:great-old-one-patron) |
 | [Undead Patron](http://dnd2024.wikidot.com/warlock:undead-patron) |
 
-### Level 4: Ability Score Improvement []()
+### Level 4: Ability Score Improvement
 
 You gain the [Ability Score Improvement feat](http://dnd2024.wikidot.com/feat:ability-score-improvement) or another [feat of your choice](http://dnd2024.wikidot.com/feat:all) for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
-### Level 9: Contact Patron []()
+### Level 9: Contact Patron
 
 In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [Contact Other Plane](http://dnd2024.wikidot.com/spell:contact-other-plane) spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell’s saving throw.
 
 Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest.
 
-### Level 11: Mystic Arcanum []()
+### Level 11: Mystic Arcanum
 
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
 
@@ -163,10 +163,10 @@ As shown in the Warlock Features table, you gain another Warlock spell of your c
 
 Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
 
-### Level 19: Epic Boon []()
+### Level 19: Epic Boon
 
 You gain an [Epic Boon feat](http://dnd2024.wikidot.com/feat:all) or another feat of your choice for which you qualify. [Boon of Fate](http://dnd2024.wikidot.com/feat:boon-of-fate) is recommended.
 
-### Level 20: Eldritch Master []()
+### Level 20: Eldritch Master
 
 When you use your Magical Cunning feature, you regain all your expended Pact Magic spell slots.

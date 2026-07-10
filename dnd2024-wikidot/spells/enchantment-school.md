@@ -4,17 +4,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Friends](http://dnd2024.wikidot.com/spell:friends) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | S, M | *^C^*, up to 1 minute |
@@ -89,10 +78,3 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Power Word Heal](http://dnd2024.wikidot.com/spell:power-word-heal) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
 | [Power Word Kill](http://dnd2024.wikidot.com/spell:power-word-kill) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView2989ecfe4b2be57e0ec8d357af0db40d = new YAHOO.widget.TabView('wiki-tabview-2989ecfe4b2be57e0ec8d357af0db40d');
-                }, "dummy-ondomready-block");
-        
-//]]>

@@ -4,13 +4,6 @@
 
 ---
 
-- [*Common*](javascript:;)
-- [*Uncommon*](javascript:;)
-- [*Rare*](javascript:;)
-- [*Very Rare*](javascript:;)
-- [*Legendary*](javascript:;)
-- [*Artifact*](javascript:;)
-
 | Item Name | Type | Attuned | Price |
 | --- | --- | --- | --- |
 | [Moon-Touched Sword](http://dnd2024.wikidot.com/magic-item:moon-touched-sword) | Weapon | - | B+100 GP |
@@ -91,10 +84,3 @@
 | [Sword of Kas](http://dnd2024.wikidot.com/magic-item:sword-of-kas) | Weapon | Attunement | Priceless |
 | [Wave](http://dnd2024.wikidot.com/magic-item:wave) | Weapon | Attunement | Priceless |
 | [Whelm](http://dnd2024.wikidot.com/magic-item:whelm) | Weapon | Attunement | Priceless |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView82d7370c3a9f0b4fd6e655f9bb947a9f = new YAHOO.widget.TabView('wiki-tabview-82d7370c3a9f0b4fd6e655f9bb947a9f');
-                }, "dummy-ondomready-block");
-        
-//]]>

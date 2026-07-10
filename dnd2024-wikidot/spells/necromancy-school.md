@@ -4,17 +4,6 @@
 
 ---
 
-- [*Cantrip*](javascript:;)
-- [*1st Level*](javascript:;)
-- [*2nd Level*](javascript:;)
-- [*3rd Level*](javascript:;)
-- [*4th Level*](javascript:;)
-- [*5th Level*](javascript:;)
-- [*6th Level*](javascript:;)
-- [*7th Level*](javascript:;)
-- [*8th Level*](javascript:;)
-- [*9th Level*](javascript:;)
-
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Chill Touch](http://dnd2024.wikidot.com/spell:chill-touch) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
@@ -77,10 +66,3 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [Astral Projection](http://dnd2024.wikidot.com/spell:astral-projection) | *Necromancy* | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (C*) | Until dispelled |
 | [True Resurrection](http://dnd2024.wikidot.com/spell:true-resurrection) | *Necromancy* | Cleric, Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-
-//<![CDATA[
-OZONE.dom.onDomReady(function(){
-        var tabView5f04f8add6ab41e0b25ff57c2ef3905b = new YAHOO.widget.TabView('wiki-tabview-5f04f8add6ab41e0b25ff57c2ef3905b');
-                }, "dummy-ondomready-block");
-        
-//]]>
